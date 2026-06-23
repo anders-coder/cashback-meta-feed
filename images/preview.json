@@ -265,17 +265,6 @@
    }
   },
   {
-   "n": "anew sleep",
-   "cb": "8 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "anew-sleep_c3341333_1x1.jpg",
-    "4x5": "anew-sleep_c3341333_4x5.jpg",
-    "9x16": "anew-sleep_c3341333_9x16.jpg"
-   }
-  },
-  {
    "n": "Anne Brauner",
    "cb": "5 %",
    "cat": "Mode",
@@ -298,39 +287,6 @@
    }
   },
   {
-   "n": "Babyshop",
-   "cb": "4 %",
-   "cat": "Børn",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "babyshop_1f85b423_1x1.jpg",
-    "4x5": "babyshop_1f85b423_4x5.jpg",
-    "9x16": "babyshop_1f85b423_9x16.jpg"
-   }
-  },
-  {
-   "n": "BetterFeast",
-   "cb": "100 kr",
-   "cat": "Dagligvarer",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "better-feast_a160cddb_1x1.jpg",
-    "4x5": "better-feast_a160cddb_4x5.jpg",
-    "9x16": "better-feast_a160cddb_9x16.jpg"
-   }
-  },
-  {
-   "n": "BookBeat",
-   "cb": "50 kr",
-   "cat": "Streaming",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "bookbeat_cc756878_1x1.jpg",
-    "4x5": "bookbeat_cc756878_4x5.jpg",
-    "9x16": "bookbeat_cc756878_9x16.jpg"
-   }
-  },
-  {
    "n": "Bovari",
    "cb": "8 %",
    "cat": "Bolig & have",
@@ -342,14 +298,36 @@
    }
   },
   {
-   "n": "CallMe 5G Internet",
-   "cb": "400 kr",
+   "n": "Carpardoo",
+   "cb": "5 %",
+   "cat": "Rejser, hotel & Transport",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "carpardoo_9a2afe26_1x1.jpg",
+    "4x5": "carpardoo_9a2afe26_4x5.jpg",
+    "9x16": "carpardoo_9a2afe26_9x16.jpg"
+   }
+  },
+  {
+   "n": "CBB Mobil",
+   "cb": "120 kr",
    "cat": "Services",
    "tier": "catalog",
    "imgs": {
-    "1x1": "callme-5g-internet_f9e416ef_1x1.jpg",
-    "4x5": "callme-5g-internet_f9e416ef_4x5.jpg",
-    "9x16": "callme-5g-internet_f9e416ef_9x16.jpg"
+    "1x1": "cbb_5a310cab_1x1.jpg",
+    "4x5": "cbb_5a310cab_4x5.jpg",
+    "9x16": "cbb_5a310cab_9x16.jpg"
+   }
+  },
+  {
+   "n": "Compumail",
+   "cb": "1 %",
+   "cat": "Elektronik",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "compumail_8274df66_1x1.jpg",
+    "4x5": "compumail_8274df66_4x5.jpg",
+    "9x16": "compumail_8274df66_9x16.jpg"
    }
   },
   {
@@ -364,14 +342,14 @@
    }
   },
   {
-   "n": "eesy 5G internet",
-   "cb": "400 kr",
-   "cat": "Services",
+   "n": "Drømmeland",
+   "cb": "4 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "eesy-5g-internetddd_a082c256_1x1.jpg",
-    "4x5": "eesy-5g-internetddd_a082c256_4x5.jpg",
-    "9x16": "eesy-5g-internetddd_a082c256_9x16.jpg"
+    "1x1": "dr-mmeland_5bf3a30c_1x1.jpg",
+    "4x5": "dr-mmeland_5bf3a30c_4x5.jpg",
+    "9x16": "dr-mmeland_5bf3a30c_9x16.jpg"
    }
   },
   {
@@ -386,47 +364,14 @@
    }
   },
   {
-   "n": "Flixbus",
-   "cb": "2 %",
-   "cat": "Rejser, hotel & Transport",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "flixbus_a0fd2226_1x1.jpg",
-    "4x5": "flixbus_a0fd2226_4x5.jpg",
-    "9x16": "flixbus_a0fd2226_9x16.jpg"
-   }
-  },
-  {
-   "n": "Flybillet.dk",
-   "cb": "2 %",
-   "cat": "Rejser, hotel & Transport",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "flybilletdk_571645ea_1x1.jpg",
-    "4x5": "flybilletdk_571645ea_4x5.jpg",
-    "9x16": "flybilletdk_571645ea_9x16.jpg"
-   }
-  },
-  {
-   "n": "Greentel",
-   "cb": "80 kr",
-   "cat": "Services",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "greentel_e5d166de_1x1.jpg",
-    "4x5": "greentel_e5d166de_4x5.jpg",
-    "9x16": "greentel_e5d166de_9x16.jpg"
-   }
-  },
-  {
-   "n": "Homeroom",
+   "n": "HC Farver",
    "cb": "3 %",
-   "cat": "Bolig & have",
+   "cat": "Oplevelser & underholdning",
    "tier": "catalog",
    "imgs": {
-    "1x1": "homeroom_9046abbe_1x1.jpg",
-    "4x5": "homeroom_9046abbe_4x5.jpg",
-    "9x16": "homeroom_9046abbe_9x16.jpg"
+    "1x1": "hc-farver_882f5ea9_1x1.jpg",
+    "4x5": "hc-farver_882f5ea9_4x5.jpg",
+    "9x16": "hc-farver_882f5ea9_9x16.jpg"
    }
   },
   {
@@ -441,17 +386,6 @@
    }
   },
   {
-   "n": "Jotex",
-   "cb": "3 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "jotex_9a0251bf_1x1.jpg",
-    "4x5": "jotex_9a0251bf_4x5.jpg",
-    "9x16": "jotex_9a0251bf_9x16.jpg"
-   }
-  },
-  {
    "n": "Kaffepro",
    "cb": "5 %",
    "cat": "Dagligvarer",
@@ -460,6 +394,39 @@
     "1x1": "kaffepro_28b80021_1x1.jpg",
     "4x5": "kaffepro_28b80021_4x5.jpg",
     "9x16": "kaffepro_28b80021_9x16.jpg"
+   }
+  },
+  {
+   "n": "Lampemesteren",
+   "cb": "3 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "lampemesteren_57e5b574_1x1.jpg",
+    "4x5": "lampemesteren_57e5b574_4x5.jpg",
+    "9x16": "lampemesteren_57e5b574_9x16.jpg"
+   }
+  },
+  {
+   "n": "Legeakademiet",
+   "cb": "5 %",
+   "cat": "Børn",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "legeakademiet_f821ab04_1x1.jpg",
+    "4x5": "legeakademiet_f821ab04_4x5.jpg",
+    "9x16": "legeakademiet_f821ab04_9x16.jpg"
+   }
+  },
+  {
+   "n": "Lenovo",
+   "cb": "5 %",
+   "cat": "Elektronik",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "lenovo-2_d64de59a_1x1.jpg",
+    "4x5": "lenovo-2_d64de59a_4x5.jpg",
+    "9x16": "lenovo-2_d64de59a_9x16.jpg"
    }
   },
   {
@@ -485,6 +452,17 @@
    }
   },
   {
+   "n": "Nelly.com",
+   "cb": "2 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "nelly-com_5cb14c68_1x1.jpg",
+    "4x5": "nelly-com_5cb14c68_4x5.jpg",
+    "9x16": "nelly-com_5cb14c68_9x16.jpg"
+   }
+  },
+  {
    "n": "OiSTER",
    "cb": "200 kr",
    "cat": "Services",
@@ -496,6 +474,28 @@
    }
   },
   {
+   "n": "Omio",
+   "cb": "4 %",
+   "cat": "Rejser, hotel & Transport",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "omio_e90e702d_1x1.jpg",
+    "4x5": "omio_e90e702d_4x5.jpg",
+    "9x16": "omio_e90e702d_9x16.jpg"
+   }
+  },
+  {
+   "n": "RITO",
+   "cb": "3 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "rito_5a13352e_1x1.jpg",
+    "4x5": "rito_5a13352e_4x5.jpg",
+    "9x16": "rito_5a13352e_9x16.jpg"
+   }
+  },
+  {
    "n": "Robell",
    "cb": "6 %",
    "cat": "Mode",
@@ -504,6 +504,17 @@
     "1x1": "robell_09274fcf_1x1.jpg",
     "4x5": "robell_09274fcf_4x5.jpg",
     "9x16": "robell_09274fcf_9x16.jpg"
+   }
+  },
+  {
+   "n": "Saxo Premium",
+   "cb": "75 kr",
+   "cat": "Streaming",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "saxo-premium_f191554f_1x1.jpg",
+    "4x5": "saxo-premium_f191554f_4x5.jpg",
+    "9x16": "saxo-premium_f191554f_9x16.jpg"
    }
   },
   {
@@ -529,6 +540,17 @@
    }
   },
   {
+   "n": "Unigardin",
+   "cb": "6 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "unigarding_1d07f407_1x1.jpg",
+    "4x5": "unigarding_1d07f407_4x5.jpg",
+    "9x16": "unigarding_1d07f407_9x16.jpg"
+   }
+  },
+  {
    "n": "Witt",
    "cb": "5 %",
    "cat": "Bolig & have",
@@ -548,17 +570,6 @@
     "1x1": "worldmart_5af65eb6_1x1.jpg",
     "4x5": "worldmart_5af65eb6_4x5.jpg",
     "9x16": "worldmart_5af65eb6_9x16.jpg"
-   }
-  },
-  {
-   "n": "Xplora",
-   "cb": "5 %",
-   "cat": "Børn",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "xplora_158e7cb1_1x1.jpg",
-    "4x5": "xplora_158e7cb1_4x5.jpg",
-    "9x16": "xplora_158e7cb1_9x16.jpg"
    }
   }
  ],
