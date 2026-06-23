@@ -1,0 +1,2 @@
+# build-images.py only. build-feed.py is stdlib-only.
+Pillow>=10.0

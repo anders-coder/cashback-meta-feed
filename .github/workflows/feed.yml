@@ -1,0 +1,60 @@
+name: Refresh Meta catalog feed
+
+# Rebuilds the Meta product feed + branded images daily from live
+# cashbackmedvisa.dk data and commits them. jsDelivr then serves with CORS:* at:
+#   https://cdn.jsdelivr.net/gh/<OWNER>/<REPO>@main/feed/catalog.csv
+#   https://cdn.jsdelivr.net/gh/<OWNER>/<REPO>@main/images/<slug>_<hash>_1x1.jpg
+# Point Meta Commerce Manager's scheduled feed at the catalog.csv URL.
+#
+# IMPORTANT: set CDN_BASE = "<OWNER>/<REPO>" in source/metalib.py before the first
+# run so the image_link URLs in the feed resolve. See HOSTING.md.
+
+on:
+  schedule:
+    - cron: "0 6 * * *"      # daily at 06:00 UTC (Commerce Manager should fetch ~08:00)
+  workflow_dispatch: {}        # allow manual "Run workflow"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalog-feed
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install -r requirements.txt
+      - name: Build feed from live site
+        working-directory: source
+        run: python3 build-feed.py
+      - name: Build branded images
+        working-directory: source
+        run: python3 build-images.py
+      - name: Commit if anything changed
+        id: commit
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed/catalog.csv feed/catalog.xml feed/partners.json feed/partners-all.json images
+          if git diff --staged --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore: refresh Meta catalog feed [skip ci]"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Purge jsDelivr cache for the CSV/XML feed
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          # Image filenames are content-hashed (new name on change) so they don't
+          # need purging; the CSV/XML reuse the same URL, so nudge jsDelivr.
+          for f in feed/catalog.csv feed/catalog.xml feed/partners.json; do
+            curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/$f" >/dev/null || true
+          done

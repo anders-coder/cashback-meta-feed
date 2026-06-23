@@ -1,0 +1,19 @@
+{
+  "_readme": "Handpick overrides. pin_* entries match by name, slug, OR a full eshop/partner link (most reliable). A handpicked 'popular' auto-fills from the site-curated feed up to POP_TARGET so it is never empty / never has offline brands. exclude = never show. Re-run build-feed.py after editing.",
+  "exclude": [],
+  "pin_highest": [],
+  "pin_popular": [
+    "https://cashbackmedvisa.dk/eshop/butikker/hotelscom/019e1641-c6e5-7341-8857-f5fb12dd617a",
+    "Synoptik",
+    "Løberen",
+    "Matas",
+    "Go Dream",
+    "https://cashbackmedvisa.dk/eshop/butikker/hellofresh/019e1b1f-fc80-714a-95d4-8dad57277be7",
+    "https://cashbackmedvisa.dk/eshop/butikker/saxo-boghandel/019e1617-18e6-715e-aa54-4e942e2a5570",
+    "https://cashbackmedvisa.dk/eshop/butikker/mofibo/019e06d9-908d-7082-af88-4c8898ac7f2f",
+    "Sony",
+    "https://cashbackmedvisa.dk/eshop/butikker/intersport/019e1691-3567-737e-ba03-20e8d56a9141",
+    "Stelton",
+    "https://cashbackmedvisa.dk/eshop/butikker/3-internet/019e16fc-d573-712f-aaf6-2b018636eb9c"
+  ]
+}

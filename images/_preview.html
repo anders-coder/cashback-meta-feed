@@ -1,0 +1,92 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Meta catalog ads — local preview</title>
+<style>
+  :root { --blue:#1434cb; --ink:#1b2440; --grey:#7a83a6; --line:#e2e7f3; --bg:#f5f7fc; }
+  * { box-sizing:border-box; }
+  body { margin:0; font:15px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+         color:var(--ink); background:var(--bg); padding:24px; }
+  h1 { font-size:22px; margin:0 0 2px; }
+  .sub { color:var(--grey); margin:0 0 18px; }
+  .bar { display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin-bottom:22px; }
+  .bar b { margin-right:4px; }
+  button { font:inherit; border:1px solid var(--line); background:#fff; color:var(--ink);
+           padding:7px 14px; border-radius:999px; cursor:pointer; }
+  button.on { background:var(--blue); color:#fff; border-color:var(--blue); }
+  h2 { font-size:16px; margin:26px 0 12px; display:flex; align-items:center; gap:8px; }
+  h2 small { color:var(--grey); font-weight:400; font-size:13px; }
+  .phone { width:340px; max-width:100%; background:#fff; border:1px solid var(--line);
+           border-radius:22px; overflow:hidden; box-shadow:0 8px 30px rgba(20,40,120,.08); }
+  .phone .cover img { width:100%; display:block; }
+  .grid { display:grid; grid-template-columns:1fr 1fr 1fr; gap:6px; padding:6px; background:#fff; }
+  .grid img { width:100%; border-radius:8px; display:block; }
+  .car { display:flex; gap:12px; overflow-x:auto; padding-bottom:10px; }
+  .car .card { flex:0 0 auto; width:260px; }
+  .car .card img { width:100%; border:1px solid var(--line); border-radius:14px; display:block; }
+  .car .card .meta { font-size:13px; padding:6px 2px; }
+  .car .card .meta b { display:block; }
+  .car .card .meta span { color:var(--grey); }
+  .note { color:var(--grey); font-size:13px; max-width:680px; }
+</style>
+
+<h1>Meta catalog ads — local creative preview</h1>
+<p class="sub">Mock of how the generated images appear in a Meta <b>Collection</b> and <b>Carousel</b> ad. Live render from <code>preview.json</code>.</p>
+
+<div class="bar">
+  <b>Set:</b>
+  <button data-tier="popular" class="on">Mest populære</button>
+  <button data-tier="highest">Højeste cashback</button>
+  <button data-tier="catalog">Hele kataloget</button>
+  <span style="width:18px"></span>
+  <b>Ratio:</b>
+  <button data-ratio="1x1" class="on">1:1</button>
+  <button data-ratio="4x5">4:5</button>
+  <button data-ratio="9x16">9:16</button>
+</div>
+
+<h2>Collection ad <small>cover + product grid (Meta fills the grid from the product set)</small></h2>
+<div class="phone">
+  <div class="cover"><img id="cover" alt="cover"></div>
+  <div class="grid" id="grid"></div>
+</div>
+
+<h2>Carousel ad <small>swipeable partner cards in the chosen ratio</small></h2>
+<div class="car" id="car"></div>
+
+<p class="note" id="count"></p>
+
+<script>
+let DATA = {partners:[], covers:{}};
+let tier = "popular", ratio = "1x1";
+
+function render() {
+  const ps = DATA.partners.filter(p => tier === "catalog" ? true : p.tier === tier);
+  // collection cover (covers only exist for highest/popular; fall back to popular)
+  const cov = DATA.covers[tier] || DATA.covers.popular;
+  document.getElementById("cover").src = (cov && (cov["9x16"] && ratio === "9x16" ? cov["9x16"] : cov["1x1"])) || "";
+  // grid uses 1:1 always (Meta grid is square-ish)
+  document.getElementById("grid").innerHTML =
+    ps.slice(0, 6).map(p => `<img src="${p.imgs["1x1"]}" title="${p.n} — ${p.cb||""}">`).join("");
+  // carousel uses the selected ratio
+  document.getElementById("car").innerHTML =
+    ps.map(p => `<div class="card"><img src="${p.imgs[ratio]}">
+      <div class="meta"><b>${p.n}</b><span>${p.cb||""} · ${p.cat||""}</span></div></div>`).join("");
+  document.getElementById("count").textContent =
+    `${ps.length} partners in "${tier}" · ratio ${ratio} · ${DATA.partners.length} total in feed`;
+}
+
+document.querySelectorAll("button[data-tier]").forEach(b => b.onclick = () => {
+  tier = b.dataset.tier;
+  document.querySelectorAll("button[data-tier]").forEach(x => x.classList.toggle("on", x === b));
+  render();
+});
+document.querySelectorAll("button[data-ratio]").forEach(b => b.onclick = () => {
+  ratio = b.dataset.ratio;
+  document.querySelectorAll("button[data-ratio]").forEach(x => x.classList.toggle("on", x === b));
+  render();
+});
+
+fetch("preview.json").then(r => r.json()).then(d => { DATA = d; render(); })
+  .catch(e => document.body.insertAdjacentHTML("beforeend",
+    `<p style="color:#c00">Could not load preview.json — run <code>python3 build-images.py</code> and serve this folder over http.</p>`));
+</script>
