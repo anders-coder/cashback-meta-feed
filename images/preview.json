@@ -265,6 +265,17 @@
    }
   },
   {
+   "n": "Allente",
+   "cb": "450 kr",
+   "cat": "Services",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "viasat_f0a0be4e_1x1.jpg",
+    "4x5": "viasat_f0a0be4e_4x5.jpg",
+    "9x16": "viasat_f0a0be4e_9x16.jpg"
+   }
+  },
+  {
    "n": "Anne Brauner",
    "cb": "5 %",
    "cat": "Mode",
@@ -287,36 +298,36 @@
    }
   },
   {
-   "n": "Beautycos",
-   "cb": "5 %",
+   "n": "Bodystore",
+   "cb": "3 %",
    "cat": "Skønhed og Pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "beautycos_ef6c437b_1x1.jpg",
-    "4x5": "beautycos_ef6c437b_4x5.jpg",
-    "9x16": "beautycos_ef6c437b_9x16.jpg"
+    "1x1": "bodystore-dk_fc601489_1x1.jpg",
+    "4x5": "bodystore-dk_fc601489_4x5.jpg",
+    "9x16": "bodystore-dk_fc601489_9x16.jpg"
    }
   },
   {
-   "n": "Bornfiber",
-   "cb": "250 kr",
+   "n": "CallMe 5G Internet",
+   "cb": "400 kr",
    "cat": "Services",
    "tier": "catalog",
    "imgs": {
-    "1x1": "bornfiber_94d5afb2_1x1.jpg",
-    "4x5": "bornfiber_94d5afb2_4x5.jpg",
-    "9x16": "bornfiber_94d5afb2_9x16.jpg"
+    "1x1": "callme-5g-internet_f9e416ef_1x1.jpg",
+    "4x5": "callme-5g-internet_f9e416ef_4x5.jpg",
+    "9x16": "callme-5g-internet_f9e416ef_9x16.jpg"
    }
   },
   {
-   "n": "daekonline.dk",
-   "cb": "2 %",
-   "cat": "Rejser, hotel & Transport",
+   "n": "Daniel Wellington",
+   "cb": "6 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "daekonline-dk_89405d28_1x1.jpg",
-    "4x5": "daekonline-dk_89405d28_4x5.jpg",
-    "9x16": "daekonline-dk_89405d28_9x16.jpg"
+    "1x1": "daniel-wellington_87d6e03e_1x1.jpg",
+    "4x5": "daniel-wellington_87d6e03e_4x5.jpg",
+    "9x16": "daniel-wellington_87d6e03e_9x16.jpg"
    }
   },
   {
@@ -331,25 +342,14 @@
    }
   },
   {
-   "n": "DH Wines",
-   "cb": "6 %",
-   "cat": "Dagligvarer",
+   "n": "Direct Ferries",
+   "cb": "2 %",
+   "cat": "Rejser, hotel & Transport",
    "tier": "catalog",
    "imgs": {
-    "1x1": "dh-wines_125b5cba_1x1.jpg",
-    "4x5": "dh-wines_125b5cba_4x5.jpg",
-    "9x16": "dh-wines_125b5cba_9x16.jpg"
-   }
-  },
-  {
-   "n": "Duka",
-   "cb": "100 kr",
-   "cat": "Mobiltelefoni",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "duka_26d41d8c_1x1.jpg",
-    "4x5": "duka_26d41d8c_4x5.jpg",
-    "9x16": "duka_26d41d8c_9x16.jpg"
+    "1x1": "direct-ferries_035ae109_1x1.jpg",
+    "4x5": "direct-ferries_035ae109_4x5.jpg",
+    "9x16": "direct-ferries_035ae109_9x16.jpg"
    }
   },
   {
@@ -375,36 +375,36 @@
    }
   },
   {
-   "n": "Flixbus",
+   "n": "Homeshop",
+   "cb": "1 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "homeshop_40f10603_1x1.jpg",
+    "4x5": "homeshop_40f10603_4x5.jpg",
+    "9x16": "homeshop_40f10603_9x16.jpg"
+   }
+  },
+  {
+   "n": "InkClub",
+   "cb": "8 %",
+   "cat": "Elektronik",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "inkclub_b8105e37_1x1.jpg",
+    "4x5": "inkclub_b8105e37_4x5.jpg",
+    "9x16": "inkclub_b8105e37_9x16.jpg"
+   }
+  },
+  {
+   "n": "JBL.com",
    "cb": "2 %",
-   "cat": "Rejser, hotel & Transport",
+   "cat": "Elektronik",
    "tier": "catalog",
    "imgs": {
-    "1x1": "flixbus_a0fd2226_1x1.jpg",
-    "4x5": "flixbus_a0fd2226_4x5.jpg",
-    "9x16": "flixbus_a0fd2226_9x16.jpg"
-   }
-  },
-  {
-   "n": "Gents",
-   "cb": "6 %",
-   "cat": "Skønhed og Pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "gents_1f151d19_1x1.jpg",
-    "4x5": "gents_1f151d19_4x5.jpg",
-    "9x16": "gents_1f151d19_9x16.jpg"
-   }
-  },
-  {
-   "n": "Haglöfs",
-   "cb": "4 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "haglofs_a660b03a_1x1.jpg",
-    "4x5": "haglofs_a660b03a_4x5.jpg",
-    "9x16": "haglofs_a660b03a_9x16.jpg"
+    "1x1": "jbl-com_2c7184d7_1x1.jpg",
+    "4x5": "jbl-com_2c7184d7_4x5.jpg",
+    "9x16": "jbl-com_2c7184d7_9x16.jpg"
    }
   },
   {
@@ -441,17 +441,6 @@
    }
   },
   {
-   "n": "Nespresso",
-   "cb": "8 %",
-   "cat": "Dagligvarer",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "nespresso_80ce2872_1x1.jpg",
-    "4x5": "nespresso_80ce2872_4x5.jpg",
-    "9x16": "nespresso_80ce2872_9x16.jpg"
-   }
-  },
-  {
    "n": "OiSTER",
    "cb": "200 kr",
    "cat": "Services",
@@ -460,6 +449,17 @@
     "1x1": "oister_1a51ba63_1x1.jpg",
     "4x5": "oister_1a51ba63_4x5.jpg",
     "9x16": "oister_1a51ba63_9x16.jpg"
+   }
+  },
+  {
+   "n": "PlusLED",
+   "cb": "7 %",
+   "cat": "Elektronik",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "plusled_06a6e496_1x1.jpg",
+    "4x5": "plusled_06a6e496_4x5.jpg",
+    "9x16": "plusled_06a6e496_9x16.jpg"
    }
   },
   {
@@ -474,28 +474,6 @@
    }
   },
   {
-   "n": "Saxo Premium",
-   "cb": "75 kr",
-   "cat": "Streaming",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "saxo-premium_f191554f_1x1.jpg",
-    "4x5": "saxo-premium_f191554f_4x5.jpg",
-    "9x16": "saxo-premium_f191554f_9x16.jpg"
-   }
-  },
-  {
-   "n": "Scootworld.dk",
-   "cb": "4 %",
-   "cat": "Sport & Fitness",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "scootworlddk_a781855b_1x1.jpg",
-    "4x5": "scootworlddk_a781855b_4x5.jpg",
-    "9x16": "scootworlddk_a781855b_9x16.jpg"
-   }
-  },
-  {
    "n": "Shopdyner",
    "cb": "6 %",
    "cat": "Bolig & have",
@@ -507,14 +485,14 @@
    }
   },
   {
-   "n": "StockX",
-   "cb": "1 %",
+   "n": "Smykkekæden",
+   "cb": "5 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "stockx_da9cd117_1x1.jpg",
-    "4x5": "stockx_da9cd117_4x5.jpg",
-    "9x16": "stockx_da9cd117_9x16.jpg"
+    "1x1": "smykkekaeden_c3507dff_1x1.jpg",
+    "4x5": "smykkekaeden_c3507dff_4x5.jpg",
+    "9x16": "smykkekaeden_c3507dff_9x16.jpg"
    }
   },
   {
@@ -529,25 +507,14 @@
    }
   },
   {
-   "n": "Støvsugerbanden",
-   "cb": "5 %",
-   "cat": "Bolig & have",
+   "n": "Telenor Bredbånd",
+   "cb": "250 kr",
+   "cat": "Services",
    "tier": "catalog",
    "imgs": {
-    "1x1": "stovsugerbanden_a55cdaa0_1x1.jpg",
-    "4x5": "stovsugerbanden_a55cdaa0_4x5.jpg",
-    "9x16": "stovsugerbanden_a55cdaa0_9x16.jpg"
-   }
-  },
-  {
-   "n": "Unigardin",
-   "cb": "6 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "unigarding_1d07f407_1x1.jpg",
-    "4x5": "unigarding_1d07f407_4x5.jpg",
-    "9x16": "unigarding_1d07f407_9x16.jpg"
+    "1x1": "telenor-bredband_c82c88a4_1x1.jpg",
+    "4x5": "telenor-bredband_c82c88a4_4x5.jpg",
+    "9x16": "telenor-bredband_c82c88a4_9x16.jpg"
    }
   },
   {
