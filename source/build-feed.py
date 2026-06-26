@@ -533,10 +533,23 @@ META_COLS = ["id", "title", "description", "availability", "condition", "price",
 
 
 def _link(p):
+    # Every link MUST stay on cashbackmedvisa.dk. Webshop partners already carry a
+    # /eshop/butikker/<slug>/<uuid> URL; physical-store partners sometimes carry the
+    # brand's OWN external site (e.g. https://www.synoptik.dk/) — rewrite those to a
+    # find-partnere search so the click lands on the cashback page, not the shop.
     u = (p.get("url") or "").strip()
     if u.startswith("/"):
         u = "https://cashbackmedvisa.dk" + u
-    return u if u.startswith("https://") else "https://cashbackmedvisa.dk/"
+    host = urllib.parse.urlparse(u).netloc.lower()
+    if u.startswith("https://") and (host == "cashbackmedvisa.dk"
+                                     or host.endswith(".cashbackmedvisa.dk")):
+        return u
+    # Fallback: search find-partnere by brand name ("Synoptik.dk" -> "Synoptik").
+    q = re.sub(r"\.dk$", "", (p.get("n") or "").strip(), flags=re.I).strip()
+    if q:
+        return ("https://cashbackmedvisa.dk/find-partnere?filter[s]="
+                + urllib.parse.quote(q) + "&filter[type]=merchant")
+    return "https://cashbackmedvisa.dk/"
 
 
 def meta_row(p, tier):
