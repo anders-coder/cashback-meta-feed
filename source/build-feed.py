@@ -545,10 +545,11 @@ def _link(p):
                                      or host.endswith(".cashbackmedvisa.dk")):
         return u
     # Fallback: search find-partnere by brand name ("Synoptik.dk" -> "Synoptik").
+    # No filter[type] -> the page opens on the "Alle" tab so every match (butikker
+    # AND webshops) shows; filtering to a single type could hide relevant results.
     q = re.sub(r"\.dk$", "", (p.get("n") or "").strip(), flags=re.I).strip()
     if q:
-        return ("https://cashbackmedvisa.dk/find-partnere?filter[s]="
-                + urllib.parse.quote(q) + "&filter[type]=merchant")
+        return "https://cashbackmedvisa.dk/find-partnere?filter[s]=" + urllib.parse.quote(q)
     return "https://cashbackmedvisa.dk/"
 
 
