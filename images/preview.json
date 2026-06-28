@@ -265,14 +265,14 @@
    }
   },
   {
-   "n": "anew sleep",
-   "cb": "8 %",
-   "cat": "Bolig & have",
+   "n": "Acer",
+   "cb": "3 %",
+   "cat": "Elektronik",
    "tier": "catalog",
    "imgs": {
-    "1x1": "anew-sleep_c3341333_1x1.jpg",
-    "4x5": "anew-sleep_c3341333_4x5.jpg",
-    "9x16": "anew-sleep_c3341333_9x16.jpg"
+    "1x1": "acer_891f67f8_1x1.jpg",
+    "4x5": "acer_891f67f8_4x5.jpg",
+    "9x16": "acer_891f67f8_9x16.jpg"
    }
   },
   {
@@ -298,36 +298,14 @@
    }
   },
   {
-   "n": "Botex.dk",
-   "cb": "6 %",
-   "cat": "Bolig & have",
+   "n": "Compumail",
+   "cb": "1 %",
+   "cat": "Elektronik",
    "tier": "catalog",
    "imgs": {
-    "1x1": "botexdk_ac00021d_1x1.jpg",
-    "4x5": "botexdk_ac00021d_4x5.jpg",
-    "9x16": "botexdk_ac00021d_9x16.jpg"
-   }
-  },
-  {
-   "n": "Bovari",
-   "cb": "8 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "bovari_c85741b3_1x1.jpg",
-    "4x5": "bovari_c85741b3_4x5.jpg",
-    "9x16": "bovari_c85741b3_9x16.jpg"
-   }
-  },
-  {
-   "n": "Dania Bikes",
-   "cb": "3 %",
-   "cat": "Sport & Fitness",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "dania-bikes_f7c8be40_1x1.jpg",
-    "4x5": "dania-bikes_f7c8be40_4x5.jpg",
-    "9x16": "dania-bikes_f7c8be40_9x16.jpg"
+    "1x1": "compumail_8274df66_1x1.jpg",
+    "4x5": "compumail_8274df66_4x5.jpg",
+    "9x16": "compumail_8274df66_9x16.jpg"
    }
   },
   {
@@ -342,14 +320,14 @@
    }
   },
   {
-   "n": "Direct Ferries",
-   "cb": "2 %",
-   "cat": "Rejser, hotel & Transport",
+   "n": "Dynezonen",
+   "cb": "7 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "direct-ferries_035ae109_1x1.jpg",
-    "4x5": "direct-ferries_035ae109_4x5.jpg",
-    "9x16": "direct-ferries_035ae109_9x16.jpg"
+    "1x1": "dynezonen_7280fd1b_1x1.jpg",
+    "4x5": "dynezonen_7280fd1b_4x5.jpg",
+    "9x16": "dynezonen_7280fd1b_9x16.jpg"
    }
   },
   {
@@ -364,14 +342,47 @@
    }
   },
   {
-   "n": "iRobot.dk",
+   "n": "Gents",
+   "cb": "6 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "gents_1f151d19_1x1.jpg",
+    "4x5": "gents_1f151d19_4x5.jpg",
+    "9x16": "gents_1f151d19_9x16.jpg"
+   }
+  },
+  {
+   "n": "GetYourGuide",
    "cb": "5 %",
+   "cat": "Rejser, hotel & Transport",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "getyourguide_aa7d66b7_1x1.jpg",
+    "4x5": "getyourguide_aa7d66b7_4x5.jpg",
+    "9x16": "getyourguide_aa7d66b7_9x16.jpg"
+   }
+  },
+  {
+   "n": "Homeshop",
+   "cb": "1 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "homeshop_40f10603_1x1.jpg",
+    "4x5": "homeshop_40f10603_4x5.jpg",
+    "9x16": "homeshop_40f10603_9x16.jpg"
+   }
+  },
+  {
+   "n": "JBL.com",
+   "cb": "2 %",
    "cat": "Elektronik",
    "tier": "catalog",
    "imgs": {
-    "1x1": "irobotdk_8c2acd6b_1x1.jpg",
-    "4x5": "irobotdk_8c2acd6b_4x5.jpg",
-    "9x16": "irobotdk_8c2acd6b_9x16.jpg"
+    "1x1": "jbl-com_2c7184d7_1x1.jpg",
+    "4x5": "jbl-com_2c7184d7_4x5.jpg",
+    "9x16": "jbl-com_2c7184d7_9x16.jpg"
    }
   },
   {
@@ -386,14 +397,14 @@
    }
   },
   {
-   "n": "Lampegiganten",
-   "cb": "3 %",
-   "cat": "Bolig & have",
+   "n": "Lenovo",
+   "cb": "5 %",
+   "cat": "Elektronik",
    "tier": "catalog",
    "imgs": {
-    "1x1": "lampegiganten_3683b52a_1x1.jpg",
-    "4x5": "lampegiganten_3683b52a_4x5.jpg",
-    "9x16": "lampegiganten_3683b52a_9x16.jpg"
+    "1x1": "lenovo-2_d64de59a_1x1.jpg",
+    "4x5": "lenovo-2_d64de59a_4x5.jpg",
+    "9x16": "lenovo-2_d64de59a_9x16.jpg"
    }
   },
   {
@@ -419,6 +430,17 @@
    }
   },
   {
+   "n": "Micha Fashion",
+   "cb": "6 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "micha-fashion_b6843fff_1x1.jpg",
+    "4x5": "micha-fashion_b6843fff_4x5.jpg",
+    "9x16": "micha-fashion_b6843fff_9x16.jpg"
+   }
+  },
+  {
    "n": "OiSTER",
    "cb": "200 kr",
    "cat": "Services",
@@ -427,17 +449,6 @@
     "1x1": "oister_1a51ba63_1x1.jpg",
     "4x5": "oister_1a51ba63_4x5.jpg",
     "9x16": "oister_1a51ba63_9x16.jpg"
-   }
-  },
-  {
-   "n": "Pilgrim",
-   "cb": "5 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "pilgrim_97cdddd6_1x1.jpg",
-    "4x5": "pilgrim_97cdddd6_4x5.jpg",
-    "9x16": "pilgrim_97cdddd6_9x16.jpg"
    }
   },
   {
@@ -474,39 +485,6 @@
    }
   },
   {
-   "n": "Sisi Copenhagen",
-   "cb": "2 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "sisi-copenhagen_50158795_1x1.jpg",
-    "4x5": "sisi-copenhagen_50158795_4x5.jpg",
-    "9x16": "sisi-copenhagen_50158795_9x16.jpg"
-   }
-  },
-  {
-   "n": "Sistie",
-   "cb": "8 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "sistie_f9601e88_1x1.jpg",
-    "4x5": "sistie_f9601e88_4x5.jpg",
-    "9x16": "sistie_f9601e88_9x16.jpg"
-   }
-  },
-  {
-   "n": "Skovhuus-strik.dk",
-   "cb": "6 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "skovhuus-strikdk_b99f9659_1x1.jpg",
-    "4x5": "skovhuus-strikdk_b99f9659_4x5.jpg",
-    "9x16": "skovhuus-strikdk_b99f9659_9x16.jpg"
-   }
-  },
-  {
    "n": "Sokkeposten.dk",
    "cb": "6 %",
    "cat": "Mode",
@@ -518,6 +496,17 @@
    }
   },
   {
+   "n": "Special",
+   "cb": "5 %",
+   "cat": "Oplevelser & underholdning",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "special_92f0ab1e_1x1.jpg",
+    "4x5": "special_92f0ab1e_4x5.jpg",
+    "9x16": "special_92f0ab1e_9x16.jpg"
+   }
+  },
+  {
    "n": "Strawberry",
    "cb": "5 %",
    "cat": "Rejser, hotel & Transport",
@@ -526,17 +515,6 @@
     "1x1": "strawberry_ee63e194_1x1.jpg",
     "4x5": "strawberry_ee63e194_4x5.jpg",
     "9x16": "strawberry_ee63e194_9x16.jpg"
-   }
-  },
-  {
-   "n": "Stylemekka",
-   "cb": "5 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "stylemekka_b0a8d748_1x1.jpg",
-    "4x5": "stylemekka_b0a8d748_4x5.jpg",
-    "9x16": "stylemekka_b0a8d748_9x16.jpg"
    }
   },
   {
