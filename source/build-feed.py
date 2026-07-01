@@ -282,14 +282,30 @@ def public(p):
 
 
 # ---- handpicking / curation --------------------------------------------------
+# "Hard" unicode whitespace that rich-text editors (Docs/TextEdit) inject into the
+# indentation: NBSP, en/em/thin spaces, ideographic space, BOM/ZWNBSP. These are
+# invalid JSON whitespace and would crash json.load — normalize them to a plain space.
+_BAD_WS = re.compile("[   -   　﻿]")
+
+
+def _load_json_lenient(path):
+    with open(path, encoding="utf-8-sig") as f:      # utf-8-sig also strips a leading BOM
+        text = f.read()
+    fixed = _BAD_WS.sub(" ", text)
+    if fixed != text:
+        print(f"  NOTE: normalized {len(_BAD_WS.findall(text))} non-standard "
+              f"whitespace char(s) in {os.path.basename(path)} (invalid JSON) — "
+              "edit it in a plain-text editor to avoid this.")
+    return json.loads(fixed)
+
+
 def load_curate():
     """curate.json lets you override the automatic ranking. Match partners by
     `slug` (preferred, stable) or exact name. All keys are optional:
       { "exclude": [...], "pin_highest": [...], "pin_popular": [...] }
     Pinned partners appear first (in the order listed); the rest auto-fills."""
     try:
-        with open(_h("curate.json"), encoding="utf-8") as f:
-            c = json.load(f)
+        c = _load_json_lenient(_h("curate.json"))
     except FileNotFoundError:
         return {"exclude": [], "pin_highest": [], "pin_popular": []}
     return {
