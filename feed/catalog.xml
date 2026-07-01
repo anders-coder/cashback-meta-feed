@@ -5,6 +5,26 @@
     <link>https://cashbackmedvisa.dk/</link>
     <description>Optjen cashback med dit Visa-kort – i over 2.000 butikker</description>
   <item>
+    <g:id>019df7c0-74a4-705f-a150-175b8fe4c73c</g:id>
+    <g:title>Zalando Gavekort — 15 % cashback</g:title>
+    <g:description>Gavekort til Europas førende modeplatform
+Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas førende modeplatform.</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>0.00 DKK</g:price>
+    <g:link>https://cashbackmedvisa.dk/find-partnere?filter[s]=Zalando%20Gavekort</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/zalando-gavekort_956ad93e_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/zalando-gavekort_956ad93e_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/zalando-gavekort_956ad93e_9x16.jpg</g:additional_image_link>
+    <g:brand>Zalando Gavekort</g:brand>
+    <g:product_type>Mode</g:product_type>
+    <g:custom_label_0>highest</g:custom_label_0>
+    <g:custom_label_1>15 %</g:custom_label_1>
+    <g:custom_label_2>Mode</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>15</g:custom_label_4>
+  </item>
+  <item>
     <g:id>019e171d-4360-70a8-abda-127a022bf143</g:id>
     <g:title>Arctic Outdoors — 12 % cashback</g:title>
     <g:description>Arctic Outdoor udvikler funktionelt og stilrent udendørs tøj og udstyr til både mænd og kvinder — skabt til at klare alt fra vestkystblæst til højfjeldsregn.</g:description>
@@ -500,61 +520,99 @@ Stelton er et innovativt, dansk designhus, som skaber tidløse, funktionelle, mi
     <g:custom_label_4>05</g:custom_label_4>
   </item>
   <item>
-    <g:id>019e06e0-2ab0-70fe-bccb-30c0d3855b24</g:id>
-    <g:title>Babyshop — 4 % cashback</g:title>
-    <g:description>Babyshop.dk er en af Nordens hurtigst voksende netbutikker indenfor børnetøj, sko og børneprodukter såsom barnevogne, autostole, pusletasker, bæreseler og legetøj til børn fra 0-8 år. De tilbyder et stort antal nøje udvalgte produkter fra…</g:description>
+    <g:id>019e16fb-6483-7235-818d-443923ab0a04</g:id>
+    <g:title>BetterFeast — 100 kr cashback</g:title>
+    <g:description>Vil du ønske, at maden står klar på bordet, når du kommer hjem? Er du træt af at købe ind på vej hjem fra arbejde? Vi har selv ønsket en lettere hverdag og mærket behovet for mere tid med familien. Vi har derfor lavet et koncept, hvor…</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/babyshop/019e06e0-2ab0-70fe-bccb-30c0d3855b24</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/babyshop_1f85b423_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/babyshop_1f85b423_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/babyshop_1f85b423_9x16.jpg</g:additional_image_link>
-    <g:brand>Babyshop</g:brand>
-    <g:product_type>Børn</g:product_type>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/better-feast/019e16fb-6483-7235-818d-443923ab0a04</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/better-feast_a160cddb_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/better-feast_a160cddb_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/better-feast_a160cddb_9x16.jpg</g:additional_image_link>
+    <g:brand>BetterFeast</g:brand>
+    <g:product_type>Dagligvarer</g:product_type>
     <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>4 %</g:custom_label_1>
-    <g:custom_label_2>Børn</g:custom_label_2>
+    <g:custom_label_1>100 kr</g:custom_label_1>
+    <g:custom_label_2>Dagligvarer</g:custom_label_2>
     <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>04</g:custom_label_4>
+    <g:custom_label_4>00</g:custom_label_4>
   </item>
   <item>
-    <g:id>019e06de-7cca-70b7-b223-8198a7736c7b</g:id>
-    <g:title>Bubbleroom — 4 % cashback</g:title>
-    <g:description>Hos Bubbleroom er vi altid et skridt foran med stilarter til den kommende sæson. Vi er en af de største onlinebutikker i Norden og tilbyder shopping til dem, der drømmer om en mere luksuriøs hverdagsliv. Vi har kjoler til enhver lejlighed…</g:description>
+    <g:id>019e06cd-1c33-7318-bd33-0eeb48bd6f24</g:id>
+    <g:title>Björn Borg — 6 % cashback</g:title>
+    <g:description>“Alle fødes ukendte. Nogle bliver legender i århundreder. Men kun få kommer til at leve som en”. Vores produkter er lige så langtidsholdbare som mindet om tennislegenden Björn Borgs bedrifter, lige så betagende som hans spil og lige så…</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/bubbleroom/019e06de-7cca-70b7-b223-8198a7736c7b</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/bubbleroom_de59feb7_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/bubbleroom_de59feb7_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/bubbleroom_de59feb7_9x16.jpg</g:additional_image_link>
-    <g:brand>Bubbleroom</g:brand>
-    <g:product_type>Mode</g:product_type>
-    <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>4 %</g:custom_label_1>
-    <g:custom_label_2>Mode</g:custom_label_2>
-    <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>04</g:custom_label_4>
-  </item>
-  <item>
-    <g:id>019e06d2-25a4-71ed-a734-c214bcafab96</g:id>
-    <g:title>Daniel Wellington — 6 % cashback</g:title>
-    <g:description>Danielwellington.com er en af verdens førende online butikker og tilbyder stilfulde ure, armbånd og smykker med et tidløst design, der passer til enhver lejlighed. Uanset om du er inviteret til en finere begivenhed, til at spille en…</g:description>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/daniel-wellington/019e06d2-25a4-71ed-a734-c214bcafab96</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/daniel-wellington_87d6e03e_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/daniel-wellington_87d6e03e_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/daniel-wellington_87d6e03e_9x16.jpg</g:additional_image_link>
-    <g:brand>Daniel Wellington</g:brand>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/bjorn-borg/019e06cd-1c33-7318-bd33-0eeb48bd6f24</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/bjorn-borg_5e3f4ee8_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/bjorn-borg_5e3f4ee8_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/bjorn-borg_5e3f4ee8_9x16.jpg</g:additional_image_link>
+    <g:brand>Björn Borg</g:brand>
     <g:product_type>Mode</g:product_type>
     <g:custom_label_0>catalog</g:custom_label_0>
     <g:custom_label_1>6 %</g:custom_label_1>
     <g:custom_label_2>Mode</g:custom_label_2>
     <g:custom_label_3>online</g:custom_label_3>
     <g:custom_label_4>06</g:custom_label_4>
+  </item>
+  <item>
+    <g:id>019e1617-13ea-70b5-b4f0-cbd53312493d</g:id>
+    <g:title>BookBeat — 50 kr cashback</g:title>
+    <g:description>BookBeat er en digital abonnementtjeneste for lyd- og e-bøger. Du kan vælge mellem tre forskellige pakker og finde den, der passer bedst til dig. Du optjener selvom du ikke ønsker at fortsætte dit abonnement efter den gratis prøveperiode…</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>0.00 DKK</g:price>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/bookbeat/019e1617-13ea-70b5-b4f0-cbd53312493d</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/bookbeat_cc756878_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/bookbeat_cc756878_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/bookbeat_cc756878_9x16.jpg</g:additional_image_link>
+    <g:brand>BookBeat</g:brand>
+    <g:product_type>Streaming</g:product_type>
+    <g:custom_label_0>catalog</g:custom_label_0>
+    <g:custom_label_1>50 kr</g:custom_label_1>
+    <g:custom_label_2>Streaming</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>00</g:custom_label_4>
+  </item>
+  <item>
+    <g:id>019e16ea-56c6-725f-98da-d73ade2d2550</g:id>
+    <g:title>CBB Mobil — 120 kr cashback</g:title>
+    <g:description>Som kunde hos CBB får du et af de stærkeste netværk i Danmark. Hos CBB er det nemmere at være mobilkunde, CBB har nemlig gjort op med komplicerede abonnementer, bindinger og dunkle regler, som ingen kan forstå. Blandt andet derfor ligger…</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>0.00 DKK</g:price>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/cbb/019e16ea-56c6-725f-98da-d73ade2d2550</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/cbb_5a310cab_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/cbb_5a310cab_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/cbb_5a310cab_9x16.jpg</g:additional_image_link>
+    <g:brand>CBB Mobil</g:brand>
+    <g:product_type>Services</g:product_type>
+    <g:custom_label_0>catalog</g:custom_label_0>
+    <g:custom_label_1>120 kr</g:custom_label_1>
+    <g:custom_label_2>Services</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>00</g:custom_label_4>
+  </item>
+  <item>
+    <g:id>019e0789-db33-70cb-b761-714ff368bf91</g:id>
+    <g:title>Conrad — 3 % cashback</g:title>
+    <g:description>Med et sortiment på over 750.000 produkter har Conrad altid de seneste nyheder, samt unikke produkter, til gode priser. Her sælges alt fra actionkameraer og aktivitetsarmbånd til fjernstyrede biler og 3D printere.</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>0.00 DKK</g:price>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/conrad/019e0789-db33-70cb-b761-714ff368bf91</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/conrad_ae9eecf8_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/conrad_ae9eecf8_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/conrad_ae9eecf8_9x16.jpg</g:additional_image_link>
+    <g:brand>Conrad</g:brand>
+    <g:product_type>Elektronik</g:product_type>
+    <g:custom_label_0>catalog</g:custom_label_0>
+    <g:custom_label_1>3 %</g:custom_label_1>
+    <g:custom_label_2>Elektronik</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>03</g:custom_label_4>
   </item>
   <item>
     <g:id>019e1727-ba8c-72dd-ba54-8a6496a7a6af</g:id>
@@ -614,23 +672,61 @@ Stelton er et innovativt, dansk designhus, som skaber tidløse, funktionelle, mi
     <g:custom_label_4>02</g:custom_label_4>
   </item>
   <item>
-    <g:id>019e16ea-572a-7129-995a-8d5549caa48a</g:id>
-    <g:title>Interhome — 5 % cashback</g:title>
-    <g:description>Book mere end 34.000 kvalitets-testede ferieboliger og lejligheder online. Hvad enten det er en bjerghytte, villa med pool, by lejlighed eller slot – du leder efter, kan du finde det hele hos Interhome. Interhome tilbyder god kundeservice…</g:description>
+    <g:id>019e1617-1112-7381-98e9-dd4b680c3412</g:id>
+    <g:title>Greentel — 80 kr cashback</g:title>
+    <g:description>Hos Greentel har de et stort udvalg af mobilabonnementer med masser af fordele. Du får adgang til 4G netværket, ingen binding, ingen gebyr, ingen opkaldsafgift og fri tale til Greentel. Ændrer dit forbrug sig, kan du altid skifte imellem…</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/interhome/019e16ea-572a-7129-995a-8d5549caa48a</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/interhome_06b02a06_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/interhome_06b02a06_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/interhome_06b02a06_9x16.jpg</g:additional_image_link>
-    <g:brand>Interhome</g:brand>
-    <g:product_type>Rejser, hotel &amp; Transport</g:product_type>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/greentel/019e1617-1112-7381-98e9-dd4b680c3412</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/greentel_e5d166de_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/greentel_e5d166de_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/greentel_e5d166de_9x16.jpg</g:additional_image_link>
+    <g:brand>Greentel</g:brand>
+    <g:product_type>Services</g:product_type>
     <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>5 %</g:custom_label_1>
-    <g:custom_label_2>Rejser, hotel &amp; Transport</g:custom_label_2>
+    <g:custom_label_1>80 kr</g:custom_label_1>
+    <g:custom_label_2>Services</g:custom_label_2>
     <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>05</g:custom_label_4>
+    <g:custom_label_4>00</g:custom_label_4>
+  </item>
+  <item>
+    <g:id>019e171d-4b6e-7038-af98-f858b7c4d40b</g:id>
+    <g:title>Heyo — 8 % cashback</g:title>
+    <g:description>Heyo.dk er en dansk webshop, der tilbyder et udvalg af moderne accessories og livsstilsprodukter – herunder tasker, punge og små gaver – med fokus på funktionelt design og personlig stil.</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>0.00 DKK</g:price>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/heyo/019e171d-4b6e-7038-af98-f858b7c4d40b</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/heyo_921293cf_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/heyo_921293cf_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/heyo_921293cf_9x16.jpg</g:additional_image_link>
+    <g:brand>Heyo</g:brand>
+    <g:product_type>Sport &amp; Fitness</g:product_type>
+    <g:custom_label_0>catalog</g:custom_label_0>
+    <g:custom_label_1>8 %</g:custom_label_1>
+    <g:custom_label_2>Sport &amp; Fitness</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>08</g:custom_label_4>
+  </item>
+  <item>
+    <g:id>019e0789-07ce-71d7-b6dc-a99d349d3ef9</g:id>
+    <g:title>Homeshop — 1 % cashback</g:title>
+    <g:description>Homeshop.dk er en del af XL-BYG Kjellerup og har mere end 15 års erfaring som trælast og byggemarked. Her finder du Danmarks største udvalg af grill og tilbehør. Du finder alt til haven, huset og værkstedet.</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>0.00 DKK</g:price>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/homeshop/019e0789-07ce-71d7-b6dc-a99d349d3ef9</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/homeshop_40f10603_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/homeshop_40f10603_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/homeshop_40f10603_9x16.jpg</g:additional_image_link>
+    <g:brand>Homeshop</g:brand>
+    <g:product_type>Bolig &amp; have</g:product_type>
+    <g:custom_label_0>catalog</g:custom_label_0>
+    <g:custom_label_1>1 %</g:custom_label_1>
+    <g:custom_label_2>Bolig &amp; have</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>01</g:custom_label_4>
   </item>
   <item>
     <g:id>019e1727-137a-70fb-b9a6-fc1ab593e04c</g:id>
@@ -652,42 +748,23 @@ Stelton er et innovativt, dansk designhus, som skaber tidløse, funktionelle, mi
     <g:custom_label_4>05</g:custom_label_4>
   </item>
   <item>
-    <g:id>019e16ea-4c18-70ae-9feb-b567bcc472c3</g:id>
-    <g:title>Lampegiganten — 3 % cashback</g:title>
-    <g:description>Lampegiganten er en moderne lampe- og belysningsbutik på nettet. Hos os finder du alt indenfor lys og belysning.</g:description>
+    <g:id>019e1691-34fe-732f-a331-f5b2b65acbf4</g:id>
+    <g:title>LEGO — 5 % cashback</g:title>
+    <g:description>Gå på opdagelse i LEGO® universet, hvor du finder nye og klassiske legetøjsprodukter fra den populære danske legetøjsproducent, der gennem flere generationer har bragt glæde og leg til børn i alle aldre.</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/lampegiganten/019e16ea-4c18-70ae-9feb-b567bcc472c3</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/lampegiganten_3683b52a_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/lampegiganten_3683b52a_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/lampegiganten_3683b52a_9x16.jpg</g:additional_image_link>
-    <g:brand>Lampegiganten</g:brand>
-    <g:product_type>Bolig &amp; have</g:product_type>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/lego/019e1691-34fe-732f-a331-f5b2b65acbf4</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/lego_e16f83f3_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/lego_e16f83f3_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/lego_e16f83f3_9x16.jpg</g:additional_image_link>
+    <g:brand>LEGO</g:brand>
+    <g:product_type>Børn</g:product_type>
     <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>3 %</g:custom_label_1>
-    <g:custom_label_2>Bolig &amp; have</g:custom_label_2>
+    <g:custom_label_1>5 %</g:custom_label_1>
+    <g:custom_label_2>Børn</g:custom_label_2>
     <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>03</g:custom_label_4>
-  </item>
-  <item>
-    <g:id>019e06d3-afca-7032-b9e3-19c259c65c86</g:id>
-    <g:title>Lampemesteren — 3 % cashback</g:title>
-    <g:description>Hos Lampemesteren.dk har vi samlet de mest eksklusive lamper fra designere og producenter i topklassen.</g:description>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/lampemesteren/019e06d3-afca-7032-b9e3-19c259c65c86</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/lampemesteren_57e5b574_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/lampemesteren_57e5b574_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/lampemesteren_57e5b574_9x16.jpg</g:additional_image_link>
-    <g:brand>Lampemesteren</g:brand>
-    <g:product_type>Bolig &amp; have</g:product_type>
-    <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>3 %</g:custom_label_1>
-    <g:custom_label_2>Bolig &amp; have</g:custom_label_2>
-    <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>03</g:custom_label_4>
+    <g:custom_label_4>05</g:custom_label_4>
   </item>
   <item>
     <g:id>019e16fc-c90b-70af-b8f8-0cdcd00ea409</g:id>
@@ -728,42 +805,23 @@ Stelton er et innovativt, dansk designhus, som skaber tidløse, funktionelle, mi
     <g:custom_label_4>05</g:custom_label_4>
   </item>
   <item>
-    <g:id>019e1700-b10a-70f5-98a7-7d81f93462fc</g:id>
-    <g:title>Massimo Dutti — 3 % cashback</g:title>
-    <g:description>Massimo Dutti er et eksklusivt tøjmærke, kendt for sin sofistikerede og tidløse stil. Brandet tilbyder elegante kollektioner til mænd og kvinder, der kombinerer høj kvalitet, moderne design og raffinerede detaljer, perfekt til både hverdag…</g:description>
+    <g:id>019e171d-4581-734a-8763-a81c0f7d54f9</g:id>
+    <g:title>Lystfisk.dk — 6 % cashback</g:title>
+    <g:description>Lystfisk.dk er en specialbutik og webshop for lystfiskere, der tilbyder alt fra fiskestænger og hjul til grej, tøj og outdoor-udstyr til alle fiskemetoder.</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/massimo-dutti/019e1700-b10a-70f5-98a7-7d81f93462fc</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/massimo-dutti_160e65bf_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/massimo-dutti_160e65bf_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/massimo-dutti_160e65bf_9x16.jpg</g:additional_image_link>
-    <g:brand>Massimo Dutti</g:brand>
-    <g:product_type>Mode</g:product_type>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/lystfiskdk/019e171d-4581-734a-8763-a81c0f7d54f9</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/lystfiskdk_045c75ab_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/lystfiskdk_045c75ab_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/lystfiskdk_045c75ab_9x16.jpg</g:additional_image_link>
+    <g:brand>Lystfisk.dk</g:brand>
+    <g:product_type>Sport &amp; Fitness</g:product_type>
     <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>3 %</g:custom_label_1>
-    <g:custom_label_2>Mode</g:custom_label_2>
+    <g:custom_label_1>6 %</g:custom_label_1>
+    <g:custom_label_2>Sport &amp; Fitness</g:custom_label_2>
     <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>03</g:custom_label_4>
-  </item>
-  <item>
-    <g:id>019e171d-33cf-7304-b62b-8f9955eca71e</g:id>
-    <g:title>Nordic Case — 5 % cashback</g:title>
-    <g:description>Nordic Case er et premium luggage-brand, der designer stilfulde kufferter i aluminiumlegéring med fokus på funktionalitet og tidløst, nordisk design.</g:description>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/nordic-case/019e171d-33cf-7304-b62b-8f9955eca71e</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/nordic-case_9fd7127e_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/nordic-case_9fd7127e_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/nordic-case_9fd7127e_9x16.jpg</g:additional_image_link>
-    <g:brand>Nordic Case</g:brand>
-    <g:product_type>Mode</g:product_type>
-    <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>5 %</g:custom_label_1>
-    <g:custom_label_2>Mode</g:custom_label_2>
-    <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>05</g:custom_label_4>
+    <g:custom_label_4>06</g:custom_label_4>
   </item>
   <item>
     <g:id>019e1617-0425-70ba-807a-7018a454e964</g:id>
@@ -861,40 +919,21 @@ Stelton er et innovativt, dansk designhus, som skaber tidløse, funktionelle, mi
     <g:custom_label_4>05</g:custom_label_4>
   </item>
   <item>
-    <g:id>019e16fc-cc27-73d9-802d-8db06283c022</g:id>
-    <g:title>Stylemekka — 5 % cashback</g:title>
-    <g:description>Hos Stylemekka.dk kan du købe skønhedsprodukter i høj kvalitet til en fornuftig pris - vi har nemlig en vision om at levere kvalitetsprodukter til markedet bedste pris!</g:description>
+    <g:id>019e171d-3da5-721c-bb75-2ce01c38bc2e</g:id>
+    <g:title>Topgrej.dk — 4 % cashback</g:title>
+    <g:description>TopGrej er en dansk webshop og butik med specialisering i fiskegrej og outdoor-udstyr, fra fluefiskeri, kystfiskeri og havfiskeri til karpe og predator, med kæmpe udvalg af stænger, hjul, endegrej og tilbehør.</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/stylemekka/019e16fc-cc27-73d9-802d-8db06283c022</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/stylemekka_b0a8d748_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/stylemekka_b0a8d748_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/stylemekka_b0a8d748_9x16.jpg</g:additional_image_link>
-    <g:brand>Stylemekka</g:brand>
-    <g:product_type>Mode</g:product_type>
-    <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>5 %</g:custom_label_1>
-    <g:custom_label_2>Mode</g:custom_label_2>
-    <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>05</g:custom_label_4>
-  </item>
-  <item>
-    <g:id>019e06d8-9538-7272-ba1e-ca8e96261a36</g:id>
-    <g:title>VidaXL — 4 % cashback</g:title>
-    <g:description>VidaXL er en international onlineforhandler, hvor du kan finde alt, hvad du behøver til dit hjem, have, garage og gør-det-selv projekter. Konceptet er baseret på at tilbyde en bred vifte af produkter, der gør det muligt for folk at "leve…</g:description>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/vida-xl-se/019e06d8-9538-7272-ba1e-ca8e96261a36</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/vida-xl-se_a8eb3ec6_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/vida-xl-se_a8eb3ec6_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/vida-xl-se_a8eb3ec6_9x16.jpg</g:additional_image_link>
-    <g:brand>VidaXL</g:brand>
-    <g:product_type>Bolig &amp; have</g:product_type>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/topgrejdk/019e171d-3da5-721c-bb75-2ce01c38bc2e</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/topgrejdk_51041bc9_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/topgrejdk_51041bc9_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/topgrejdk_51041bc9_9x16.jpg</g:additional_image_link>
+    <g:brand>Topgrej.dk</g:brand>
+    <g:product_type>Sport &amp; Fitness</g:product_type>
     <g:custom_label_0>catalog</g:custom_label_0>
     <g:custom_label_1>4 %</g:custom_label_1>
-    <g:custom_label_2>Bolig &amp; have</g:custom_label_2>
+    <g:custom_label_2>Sport &amp; Fitness</g:custom_label_2>
     <g:custom_label_3>online</g:custom_label_3>
     <g:custom_label_4>04</g:custom_label_4>
   </item>
@@ -937,23 +976,23 @@ Stelton er et innovativt, dansk designhus, som skaber tidløse, funktionelle, mi
     <g:custom_label_4>06</g:custom_label_4>
   </item>
   <item>
-    <g:id>019e1707-284f-73e5-966a-cf4e26719748</g:id>
-    <g:title>Xplora — 5 % cashback</g:title>
-    <g:description>Udforsk dit barns første mobiltelefon – designet som et smartwatch uden internetadgang. Vores innovative mobilløsning er specielt tilpasset børn og deres behov, baseret på vores mission om at give børn en sikker introduktion til den…</g:description>
+    <g:id>019e16f7-5b0f-7393-8903-7a5b8682a94f</g:id>
+    <g:title>Zooplus — 3 % cashback</g:title>
+    <g:description>Zooplus.dk er en dansk onlineshop med alt inden for foder og tilbehør til kæledyr. Vores store sortiment omfatter over 8000 artikler til hunde, katte, gnavere, smådyr, fisk, fugle og heste.</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/xplora/019e1707-284f-73e5-966a-cf4e26719748</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/xplora_158e7cb1_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/xplora_158e7cb1_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/xplora_158e7cb1_9x16.jpg</g:additional_image_link>
-    <g:brand>Xplora</g:brand>
-    <g:product_type>Børn</g:product_type>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/zooplus/019e16f7-5b0f-7393-8903-7a5b8682a94f</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/zooplus_177573af_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/zooplus_177573af_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/zooplus_177573af_9x16.jpg</g:additional_image_link>
+    <g:brand>Zooplus</g:brand>
+    <g:product_type>Dyr</g:product_type>
     <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>5 %</g:custom_label_1>
-    <g:custom_label_2>Børn</g:custom_label_2>
+    <g:custom_label_1>3 %</g:custom_label_1>
+    <g:custom_label_2>Dyr</g:custom_label_2>
     <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>05</g:custom_label_4>
+    <g:custom_label_4>03</g:custom_label_4>
   </item>
   </channel>
 </rss>

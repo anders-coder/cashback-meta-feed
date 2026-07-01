@@ -1,7 +1,9 @@
 {
   "_readme": "Handpick overrides. pin_* entries match by name, slug, OR a full eshop/partner link (most reliable). A handpicked 'popular' auto-fills from the site-curated feed up to POP_TARGET so it is never empty / never has offline brands. exclude = never show. Re-run build-feed.py after editing.",
   "exclude": [],
-  "pin_highest": [],
+  "pin_highest": [
+    "Zalando Gavekort"
+  ],
   "pin_popular": [
     "https://cashbackmedvisa.dk/eshop/butikker/hotelscom/019e1641-c6e5-7341-8857-f5fb12dd617a",
     "Synoptik",
