@@ -287,14 +287,14 @@
    }
   },
   {
-   "n": "AthleticGreens",
-   "cb": "6 %",
-   "cat": "Skønhed og Pleje",
+   "n": "Asus",
+   "cb": "2 %",
+   "cat": "Elektronik",
    "tier": "catalog",
    "imgs": {
-    "1x1": "athleticgreens_1cebb43f_1x1.jpg",
-    "4x5": "athleticgreens_1cebb43f_4x5.jpg",
-    "9x16": "athleticgreens_1cebb43f_9x16.jpg"
+    "1x1": "asus_726a7823_1x1.jpg",
+    "4x5": "asus_726a7823_4x5.jpg",
+    "9x16": "asus_726a7823_9x16.jpg"
    }
   },
   {
@@ -309,25 +309,47 @@
    }
   },
   {
-   "n": "Bodystore",
-   "cb": "3 %",
-   "cat": "Skønhed og Pleje",
+   "n": "Bornfiber",
+   "cb": "250 kr",
+   "cat": "Services",
    "tier": "catalog",
    "imgs": {
-    "1x1": "bodystore-dk_fc601489_1x1.jpg",
-    "4x5": "bodystore-dk_fc601489_4x5.jpg",
-    "9x16": "bodystore-dk_fc601489_9x16.jpg"
+    "1x1": "bornfiber_94d5afb2_1x1.jpg",
+    "4x5": "bornfiber_94d5afb2_4x5.jpg",
+    "9x16": "bornfiber_94d5afb2_9x16.jpg"
    }
   },
   {
-   "n": "Cocopanda",
-   "cb": "4 %",
-   "cat": "Skønhed og Pleje",
+   "n": "Bosch Home",
+   "cb": "2 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "cocopanda_241e9817_1x1.jpg",
-    "4x5": "cocopanda_241e9817_4x5.jpg",
-    "9x16": "cocopanda_241e9817_9x16.jpg"
+    "1x1": "bosch-home_352bad7f_1x1.jpg",
+    "4x5": "bosch-home_352bad7f_4x5.jpg",
+    "9x16": "bosch-home_352bad7f_9x16.jpg"
+   }
+  },
+  {
+   "n": "daekonline.dk",
+   "cb": "2 %",
+   "cat": "Rejser, hotel & Transport",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "daekonline-dk_89405d28_1x1.jpg",
+    "4x5": "daekonline-dk_89405d28_4x5.jpg",
+    "9x16": "daekonline-dk_89405d28_9x16.jpg"
+   }
+  },
+  {
+   "n": "Dansk.dk",
+   "cb": "6 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "danskdk_792645e0_1x1.jpg",
+    "4x5": "danskdk_792645e0_4x5.jpg",
+    "9x16": "danskdk_792645e0_9x16.jpg"
    }
   },
   {
@@ -342,14 +364,14 @@
    }
   },
   {
-   "n": "DH Wines",
-   "cb": "6 %",
-   "cat": "Dagligvarer",
+   "n": "Dyson",
+   "cb": "2 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "dh-wines_125b5cba_1x1.jpg",
-    "4x5": "dh-wines_125b5cba_4x5.jpg",
-    "9x16": "dh-wines_125b5cba_9x16.jpg"
+    "1x1": "dyson_8e1368c6_1x1.jpg",
+    "4x5": "dyson_8e1368c6_4x5.jpg",
+    "9x16": "dyson_8e1368c6_9x16.jpg"
    }
   },
   {
@@ -364,36 +386,25 @@
    }
   },
   {
-   "n": "Haglöfs",
+   "n": "Gina Tricot",
    "cb": "4 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "haglofs_a660b03a_1x1.jpg",
-    "4x5": "haglofs_a660b03a_4x5.jpg",
-    "9x16": "haglofs_a660b03a_9x16.jpg"
+    "1x1": "gina-tricot-ab_3c6b09da_1x1.jpg",
+    "4x5": "gina-tricot-ab_3c6b09da_4x5.jpg",
+    "9x16": "gina-tricot-ab_3c6b09da_9x16.jpg"
    }
   },
   {
-   "n": "Homeshop",
-   "cb": "1 %",
+   "n": "Gulv & Fliseeksperten",
+   "cb": "2 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "homeshop_40f10603_1x1.jpg",
-    "4x5": "homeshop_40f10603_4x5.jpg",
-    "9x16": "homeshop_40f10603_9x16.jpg"
-   }
-  },
-  {
-   "n": "Interhome",
-   "cb": "5 %",
-   "cat": "Rejser, hotel & Transport",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "interhome_06b02a06_1x1.jpg",
-    "4x5": "interhome_06b02a06_4x5.jpg",
-    "9x16": "interhome_06b02a06_9x16.jpg"
+    "1x1": "gulv-flise-eksperten_0f5dd6c6_1x1.jpg",
+    "4x5": "gulv-flise-eksperten_0f5dd6c6_4x5.jpg",
+    "9x16": "gulv-flise-eksperten_0f5dd6c6_9x16.jpg"
    }
   },
   {
@@ -405,6 +416,17 @@
     "1x1": "kaffepro_28b80021_1x1.jpg",
     "4x5": "kaffepro_28b80021_4x5.jpg",
     "9x16": "kaffepro_28b80021_9x16.jpg"
+   }
+  },
+  {
+   "n": "Lampemesteren",
+   "cb": "3 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "lampemesteren_57e5b574_1x1.jpg",
+    "4x5": "lampemesteren_57e5b574_4x5.jpg",
+    "9x16": "lampemesteren_57e5b574_9x16.jpg"
    }
   },
   {
@@ -430,6 +452,28 @@
    }
   },
   {
+   "n": "Nelly.com",
+   "cb": "2 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "nelly-com_5cb14c68_1x1.jpg",
+    "4x5": "nelly-com_5cb14c68_4x5.jpg",
+    "9x16": "nelly-com_5cb14c68_9x16.jpg"
+   }
+  },
+  {
+   "n": "Nordic Case",
+   "cb": "5 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "nordic-case_9fd7127e_1x1.jpg",
+    "4x5": "nordic-case_9fd7127e_4x5.jpg",
+    "9x16": "nordic-case_9fd7127e_9x16.jpg"
+   }
+  },
+  {
    "n": "OiSTER",
    "cb": "200 kr",
    "cat": "Services",
@@ -452,14 +496,25 @@
    }
   },
   {
-   "n": "Scootworld.dk",
-   "cb": "4 %",
-   "cat": "Sport & Fitness",
+   "n": "SAMSUNG",
+   "cb": "2 %",
+   "cat": "Elektronik",
    "tier": "catalog",
    "imgs": {
-    "1x1": "scootworlddk_a781855b_1x1.jpg",
-    "4x5": "scootworlddk_a781855b_4x5.jpg",
-    "9x16": "scootworlddk_a781855b_9x16.jpg"
+    "1x1": "samsung_38f73044_1x1.jpg",
+    "4x5": "samsung_38f73044_4x5.jpg",
+    "9x16": "samsung_38f73044_9x16.jpg"
+   }
+  },
+  {
+   "n": "Saxo Premium",
+   "cb": "75 kr",
+   "cat": "Streaming",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "saxo-premium_f191554f_1x1.jpg",
+    "4x5": "saxo-premium_f191554f_4x5.jpg",
+    "9x16": "saxo-premium_f191554f_9x16.jpg"
    }
   },
   {
@@ -474,6 +529,17 @@
    }
   },
   {
+   "n": "Siemens Home",
+   "cb": "3 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "siemens-home_7fa34b68_1x1.jpg",
+    "4x5": "siemens-home_7fa34b68_4x5.jpg",
+    "9x16": "siemens-home_7fa34b68_9x16.jpg"
+   }
+  },
+  {
    "n": "Strawberry",
    "cb": "5 %",
    "cat": "Rejser, hotel & Transport",
@@ -485,36 +551,25 @@
    }
   },
   {
-   "n": "Vanilla Copenhagen",
-   "cb": "7 %",
-   "cat": "Børn",
+   "n": "Telenor Bredbånd",
+   "cb": "250 kr",
+   "cat": "Services",
    "tier": "catalog",
    "imgs": {
-    "1x1": "vanilla-copenhagen_7377fe02_1x1.jpg",
-    "4x5": "vanilla-copenhagen_7377fe02_4x5.jpg",
-    "9x16": "vanilla-copenhagen_7377fe02_9x16.jpg"
+    "1x1": "telenor-bredband_c82c88a4_1x1.jpg",
+    "4x5": "telenor-bredband_c82c88a4_4x5.jpg",
+    "9x16": "telenor-bredband_c82c88a4_9x16.jpg"
    }
   },
   {
-   "n": "VVS.dk",
-   "cb": "2 %",
+   "n": "VidaXL",
+   "cb": "4 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "vvsdk_5b868839_1x1.jpg",
-    "4x5": "vvsdk_5b868839_4x5.jpg",
-    "9x16": "vvsdk_5b868839_9x16.jpg"
-   }
-  },
-  {
-   "n": "Wattoo",
-   "cb": "2 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "wattoo_7a18beec_1x1.jpg",
-    "4x5": "wattoo_7a18beec_4x5.jpg",
-    "9x16": "wattoo_7a18beec_9x16.jpg"
+    "1x1": "vida-xl-se_a8eb3ec6_1x1.jpg",
+    "4x5": "vida-xl-se_a8eb3ec6_4x5.jpg",
+    "9x16": "vida-xl-se_a8eb3ec6_9x16.jpg"
    }
   },
   {
