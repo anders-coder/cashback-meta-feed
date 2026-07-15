@@ -276,14 +276,25 @@
    }
   },
   {
-   "n": "Acer",
-   "cb": "3 %",
-   "cat": "Elektronik",
+   "n": "About you",
+   "cb": "2 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "acer_891f67f8_1x1.jpg",
-    "4x5": "acer_891f67f8_4x5.jpg",
-    "9x16": "acer_891f67f8_9x16.jpg"
+    "1x1": "about-you_ae11816f_1x1.jpg",
+    "4x5": "about-you_ae11816f_4x5.jpg",
+    "9x16": "about-you_ae11816f_9x16.jpg"
+   }
+  },
+  {
+   "n": "Alexander Lyngaard",
+   "cb": "8 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "alexander-lyngaard_9c34e795_1x1.jpg",
+    "4x5": "alexander-lyngaard_9c34e795_4x5.jpg",
+    "9x16": "alexander-lyngaard_9c34e795_9x16.jpg"
    }
   },
   {
@@ -298,17 +309,6 @@
    }
   },
   {
-   "n": "AthleticGreens",
-   "cb": "6 %",
-   "cat": "Skønhed og Pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "athleticgreens_1cebb43f_1x1.jpg",
-    "4x5": "athleticgreens_1cebb43f_4x5.jpg",
-    "9x16": "athleticgreens_1cebb43f_9x16.jpg"
-   }
-  },
-  {
    "n": "Avis",
    "cb": "5 %",
    "cat": "Services",
@@ -320,14 +320,25 @@
    }
   },
   {
-   "n": "Carpardoo",
-   "cb": "5 %",
-   "cat": "Rejser, hotel & Transport",
+   "n": "Crocs",
+   "cb": "3 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "carpardoo_9a2afe26_1x1.jpg",
-    "4x5": "carpardoo_9a2afe26_4x5.jpg",
-    "9x16": "carpardoo_9a2afe26_9x16.jpg"
+    "1x1": "crocs_45a68bc1_1x1.jpg",
+    "4x5": "crocs_45a68bc1_4x5.jpg",
+    "9x16": "crocs_45a68bc1_9x16.jpg"
+   }
+  },
+  {
+   "n": "CS Megastore",
+   "cb": "1 %",
+   "cat": "Elektronik",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "computersalg_6d7cfeb1_1x1.jpg",
+    "4x5": "computersalg_6d7cfeb1_4x5.jpg",
+    "9x16": "computersalg_6d7cfeb1_9x16.jpg"
    }
   },
   {
@@ -353,28 +364,6 @@
    }
   },
   {
-   "n": "Feriehuse.dk",
-   "cb": "2 %",
-   "cat": "Oplevelser & underholdning",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "feriehusedk_b7d034e5_1x1.jpg",
-    "4x5": "feriehusedk_b7d034e5_4x5.jpg",
-    "9x16": "feriehusedk_b7d034e5_9x16.jpg"
-   }
-  },
-  {
-   "n": "Flybillet.dk",
-   "cb": "2 %",
-   "cat": "Rejser, hotel & Transport",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "flybilletdk_571645ea_1x1.jpg",
-    "4x5": "flybilletdk_571645ea_4x5.jpg",
-    "9x16": "flybilletdk_571645ea_9x16.jpg"
-   }
-  },
-  {
    "n": "Gastrotools",
    "cb": "7 %",
    "cat": "Bolig & have",
@@ -383,17 +372,6 @@
     "1x1": "gastrotools_75b72dd6_1x1.jpg",
     "4x5": "gastrotools_75b72dd6_4x5.jpg",
     "9x16": "gastrotools_75b72dd6_9x16.jpg"
-   }
-  },
-  {
-   "n": "Giuseppe Zanotti",
-   "cb": "4 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "giuseppe-zanotti_df864bf5_1x1.jpg",
-    "4x5": "giuseppe-zanotti_df864bf5_4x5.jpg",
-    "9x16": "giuseppe-zanotti_df864bf5_9x16.jpg"
    }
   },
   {
@@ -408,6 +386,28 @@
    }
   },
   {
+   "n": "InkClub",
+   "cb": "8 %",
+   "cat": "Elektronik",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "inkclub_b8105e37_1x1.jpg",
+    "4x5": "inkclub_b8105e37_4x5.jpg",
+    "9x16": "inkclub_b8105e37_9x16.jpg"
+   }
+  },
+  {
+   "n": "Jotex",
+   "cb": "3 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "jotex_9a0251bf_1x1.jpg",
+    "4x5": "jotex_9a0251bf_4x5.jpg",
+    "9x16": "jotex_9a0251bf_9x16.jpg"
+   }
+  },
+  {
    "n": "Kaffepro",
    "cb": "5 %",
    "cat": "Dagligvarer",
@@ -419,14 +419,14 @@
    }
   },
   {
-   "n": "KitchenAid",
-   "cb": "3 %",
-   "cat": "Bolig & have",
+   "n": "Libresse",
+   "cb": "5 %",
+   "cat": "Skønhed og Pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "kitchenaid_f4814600_1x1.jpg",
-    "4x5": "kitchenaid_f4814600_4x5.jpg",
-    "9x16": "kitchenaid_f4814600_9x16.jpg"
+    "1x1": "libresse_e8efc728_1x1.jpg",
+    "4x5": "libresse_e8efc728_4x5.jpg",
+    "9x16": "libresse_e8efc728_9x16.jpg"
    }
   },
   {
@@ -463,17 +463,6 @@
    }
   },
   {
-   "n": "Newport",
-   "cb": "5 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "newport_68bdf15b_1x1.jpg",
-    "4x5": "newport_68bdf15b_4x5.jpg",
-    "9x16": "newport_68bdf15b_9x16.jpg"
-   }
-  },
-  {
    "n": "OiSTER",
    "cb": "200 kr",
    "cat": "Services",
@@ -482,6 +471,17 @@
     "1x1": "oister_1a51ba63_1x1.jpg",
     "4x5": "oister_1a51ba63_4x5.jpg",
     "9x16": "oister_1a51ba63_9x16.jpg"
+   }
+  },
+  {
+   "n": "RITO",
+   "cb": "3 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "rito_5a13352e_1x1.jpg",
+    "4x5": "rito_5a13352e_4x5.jpg",
+    "9x16": "rito_5a13352e_9x16.jpg"
    }
   },
   {
@@ -496,28 +496,6 @@
    }
   },
   {
-   "n": "Saxo Premium",
-   "cb": "75 kr",
-   "cat": "Streaming",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "saxo-premium_f191554f_1x1.jpg",
-    "4x5": "saxo-premium_f191554f_4x5.jpg",
-    "9x16": "saxo-premium_f191554f_9x16.jpg"
-   }
-  },
-  {
-   "n": "Scootworld.dk",
-   "cb": "4 %",
-   "cat": "Sport & Fitness",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "scootworlddk_a781855b_1x1.jpg",
-    "4x5": "scootworlddk_a781855b_4x5.jpg",
-    "9x16": "scootworlddk_a781855b_9x16.jpg"
-   }
-  },
-  {
    "n": "Shopdyner",
    "cb": "6 %",
    "cat": "Bolig & have",
@@ -526,6 +504,17 @@
     "1x1": "shopdyner_ccff5ae0_1x1.jpg",
     "4x5": "shopdyner_ccff5ae0_4x5.jpg",
     "9x16": "shopdyner_ccff5ae0_9x16.jpg"
+   }
+  },
+  {
+   "n": "Sokkeposten.dk",
+   "cb": "6 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "sokkepostendk_dfd0362c_1x1.jpg",
+    "4x5": "sokkepostendk_dfd0362c_4x5.jpg",
+    "9x16": "sokkepostendk_dfd0362c_9x16.jpg"
    }
   },
   {
@@ -540,14 +529,14 @@
    }
   },
   {
-   "n": "VidaXL",
-   "cb": "4 %",
-   "cat": "Bolig & have",
+   "n": "Telmore Internet",
+   "cb": "200 kr",
+   "cat": "Internet",
    "tier": "catalog",
    "imgs": {
-    "1x1": "vida-xl-se_a8eb3ec6_1x1.jpg",
-    "4x5": "vida-xl-se_a8eb3ec6_4x5.jpg",
-    "9x16": "vida-xl-se_a8eb3ec6_9x16.jpg"
+    "1x1": "telmore-internet_bd338a97_1x1.jpg",
+    "4x5": "telmore-internet_bd338a97_4x5.jpg",
+    "9x16": "telmore-internet_bd338a97_9x16.jpg"
    }
   },
   {
