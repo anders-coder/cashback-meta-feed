@@ -298,25 +298,36 @@
    }
   },
   {
-   "n": "Batteribyen",
-   "cb": "5 %",
-   "cat": "Elektronik",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "batteribyen_e6a429f5_1x1.jpg",
-    "4x5": "batteribyen_e6a429f5_4x5.jpg",
-    "9x16": "batteribyen_e6a429f5_9x16.jpg"
-   }
-  },
-  {
-   "n": "Botex.dk",
-   "cb": "6 %",
+   "n": "Bovari",
+   "cb": "8 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "botexdk_ac00021d_1x1.jpg",
-    "4x5": "botexdk_ac00021d_4x5.jpg",
-    "9x16": "botexdk_ac00021d_9x16.jpg"
+    "1x1": "bovari_c85741b3_1x1.jpg",
+    "4x5": "bovari_c85741b3_4x5.jpg",
+    "9x16": "bovari_c85741b3_9x16.jpg"
+   }
+  },
+  {
+   "n": "CBB Mobil",
+   "cb": "120 kr",
+   "cat": "Services",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "cbb_5a310cab_1x1.jpg",
+    "4x5": "cbb_5a310cab_4x5.jpg",
+    "9x16": "cbb_5a310cab_9x16.jpg"
+   }
+  },
+  {
+   "n": "CS Megastore",
+   "cb": "1 %",
+   "cat": "Elektronik",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "computersalg_6d7cfeb1_1x1.jpg",
+    "4x5": "computersalg_6d7cfeb1_4x5.jpg",
+    "9x16": "computersalg_6d7cfeb1_9x16.jpg"
    }
   },
   {
@@ -331,17 +342,6 @@
    }
   },
   {
-   "n": "Direct Ferries",
-   "cb": "2 %",
-   "cat": "Rejser, hotel & Transport",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "direct-ferries_035ae109_1x1.jpg",
-    "4x5": "direct-ferries_035ae109_4x5.jpg",
-    "9x16": "direct-ferries_035ae109_9x16.jpg"
-   }
-  },
-  {
    "n": "eesy mobil",
    "cb": "200 kr",
    "cat": "Services",
@@ -353,25 +353,36 @@
    }
   },
   {
-   "n": "Green Heroes",
-   "cb": "4 %",
-   "cat": "Elektronik",
+   "n": "Ellos",
+   "cb": "5 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "green-heroes_f84fce83_1x1.jpg",
-    "4x5": "green-heroes_f84fce83_4x5.jpg",
-    "9x16": "green-heroes_f84fce83_9x16.jpg"
+    "1x1": "ellos-3_d5d5a07d_1x1.jpg",
+    "4x5": "ellos-3_d5d5a07d_4x5.jpg",
+    "9x16": "ellos-3_d5d5a07d_9x16.jpg"
    }
   },
   {
-   "n": "Homeshop",
-   "cb": "1 %",
+   "n": "Gents",
+   "cb": "6 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "gents_1f151d19_1x1.jpg",
+    "4x5": "gents_1f151d19_4x5.jpg",
+    "9x16": "gents_1f151d19_9x16.jpg"
+   }
+  },
+  {
+   "n": "Home-Tex",
+   "cb": "5 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "homeshop_40f10603_1x1.jpg",
-    "4x5": "homeshop_40f10603_4x5.jpg",
-    "9x16": "homeshop_40f10603_9x16.jpg"
+    "1x1": "home-tex-1_7935f32d_1x1.jpg",
+    "4x5": "home-tex-1_7935f32d_4x5.jpg",
+    "9x16": "home-tex-1_7935f32d_9x16.jpg"
    }
   },
   {
@@ -386,14 +397,14 @@
    }
   },
   {
-   "n": "Legeakademiet",
+   "n": "Legebyen",
    "cb": "5 %",
    "cat": "Børn",
    "tier": "catalog",
    "imgs": {
-    "1x1": "legeakademiet_f821ab04_1x1.jpg",
-    "4x5": "legeakademiet_f821ab04_4x5.jpg",
-    "9x16": "legeakademiet_f821ab04_9x16.jpg"
+    "1x1": "legebyen_f7fc33ed_1x1.jpg",
+    "4x5": "legebyen_f7fc33ed_4x5.jpg",
+    "9x16": "legebyen_f7fc33ed_9x16.jpg"
    }
   },
   {
@@ -419,14 +430,14 @@
    }
   },
   {
-   "n": "Nelly.com",
-   "cb": "2 %",
+   "n": "Micha Fashion",
+   "cb": "6 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "nelly-com_5cb14c68_1x1.jpg",
-    "4x5": "nelly-com_5cb14c68_4x5.jpg",
-    "9x16": "nelly-com_5cb14c68_9x16.jpg"
+    "1x1": "micha-fashion_b6843fff_1x1.jpg",
+    "4x5": "micha-fashion_b6843fff_4x5.jpg",
+    "9x16": "micha-fashion_b6843fff_9x16.jpg"
    }
   },
   {
@@ -452,6 +463,28 @@
    }
   },
   {
+   "n": "Outnorth",
+   "cb": "3 %",
+   "cat": "Sport & Fitness",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "outnorth_a8c64eae_1x1.jpg",
+    "4x5": "outnorth_a8c64eae_4x5.jpg",
+    "9x16": "outnorth_a8c64eae_9x16.jpg"
+   }
+  },
+  {
+   "n": "RITO",
+   "cb": "3 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "rito_5a13352e_1x1.jpg",
+    "4x5": "rito_5a13352e_4x5.jpg",
+    "9x16": "rito_5a13352e_9x16.jpg"
+   }
+  },
+  {
    "n": "Robell",
    "cb": "6 %",
    "cat": "Mode",
@@ -474,25 +507,14 @@
    }
   },
   {
-   "n": "Smartphoto",
-   "cb": "5 %",
-   "cat": "Oplevelser & underholdning",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "smartphoto_d13f1493_1x1.jpg",
-    "4x5": "smartphoto_d13f1493_4x5.jpg",
-    "9x16": "smartphoto_d13f1493_9x16.jpg"
-   }
-  },
-  {
-   "n": "Spartoo",
-   "cb": "5 %",
+   "n": "Sisi Copenhagen",
+   "cb": "2 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "spartoo_44464c04_1x1.jpg",
-    "4x5": "spartoo_44464c04_4x5.jpg",
-    "9x16": "spartoo_44464c04_9x16.jpg"
+    "1x1": "sisi-copenhagen_50158795_1x1.jpg",
+    "4x5": "sisi-copenhagen_50158795_4x5.jpg",
+    "9x16": "sisi-copenhagen_50158795_9x16.jpg"
    }
   },
   {
@@ -504,28 +526,6 @@
     "1x1": "strawberry_ee63e194_1x1.jpg",
     "4x5": "strawberry_ee63e194_4x5.jpg",
     "9x16": "strawberry_ee63e194_9x16.jpg"
-   }
-  },
-  {
-   "n": "Vanilla Copenhagen",
-   "cb": "7 %",
-   "cat": "Børn",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "vanilla-copenhagen_7377fe02_1x1.jpg",
-    "4x5": "vanilla-copenhagen_7377fe02_4x5.jpg",
-    "9x16": "vanilla-copenhagen_7377fe02_9x16.jpg"
-   }
-  },
-  {
-   "n": "Wattoo",
-   "cb": "2 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "wattoo_7a18beec_1x1.jpg",
-    "4x5": "wattoo_7a18beec_4x5.jpg",
-    "9x16": "wattoo_7a18beec_9x16.jpg"
    }
   },
   {
@@ -551,14 +551,25 @@
    }
   },
   {
-   "n": "XL Møbler",
-   "cb": "4 %",
-   "cat": "Bolig & have",
+   "n": "Xplora",
+   "cb": "5 %",
+   "cat": "Børn",
    "tier": "catalog",
    "imgs": {
-    "1x1": "xl-mobler_6b3883c7_1x1.jpg",
-    "4x5": "xl-mobler_6b3883c7_4x5.jpg",
-    "9x16": "xl-mobler_6b3883c7_9x16.jpg"
+    "1x1": "xplora_158e7cb1_1x1.jpg",
+    "4x5": "xplora_158e7cb1_4x5.jpg",
+    "9x16": "xplora_158e7cb1_9x16.jpg"
+   }
+  },
+  {
+   "n": "Zooplus",
+   "cb": "3 %",
+   "cat": "Dyr",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "zooplus_177573af_1x1.jpg",
+    "4x5": "zooplus_177573af_4x5.jpg",
+    "9x16": "zooplus_177573af_9x16.jpg"
    }
   }
  ],
