@@ -166,14 +166,14 @@
    }
   },
   {
-   "n": "Løberen - København",
+   "n": "Løberen.dk",
    "cb": "6 %",
    "cat": "Sport & fitness",
    "tier": "popular",
    "imgs": {
-    "1x1": "loberen_c15496a6_1x1.jpg",
-    "4x5": "loberen_c15496a6_4x5.jpg",
-    "9x16": "loberen_c15496a6_9x16.jpg"
+    "1x1": "loberen_8c5edd35_1x1.jpg",
+    "4x5": "loberen_8c5edd35_4x5.jpg",
+    "9x16": "loberen_8c5edd35_9x16.jpg"
    }
   },
   {
@@ -276,17 +276,6 @@
    }
   },
   {
-   "n": "Alexander Lyngaard",
-   "cb": "8 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "alexander-lyngaard_9c34e795_1x1.jpg",
-    "4x5": "alexander-lyngaard_9c34e795_4x5.jpg",
-    "9x16": "alexander-lyngaard_9c34e795_9x16.jpg"
-   }
-  },
-  {
    "n": "Anne Brauner",
    "cb": "5 %",
    "cat": "Mode",
@@ -309,14 +298,36 @@
    }
   },
   {
-   "n": "Bubbleroom",
-   "cb": "4 %",
-   "cat": "Mode",
+   "n": "Bottle Hero",
+   "cb": "6 %",
+   "cat": "Dagligvarer",
    "tier": "catalog",
    "imgs": {
-    "1x1": "bubbleroom_de59feb7_1x1.jpg",
-    "4x5": "bubbleroom_de59feb7_4x5.jpg",
-    "9x16": "bubbleroom_de59feb7_9x16.jpg"
+    "1x1": "bottle-hero_e9b91935_1x1.jpg",
+    "4x5": "bottle-hero_e9b91935_4x5.jpg",
+    "9x16": "bottle-hero_e9b91935_9x16.jpg"
+   }
+  },
+  {
+   "n": "Bovari",
+   "cb": "8 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "bovari_c85741b3_1x1.jpg",
+    "4x5": "bovari_c85741b3_4x5.jpg",
+    "9x16": "bovari_c85741b3_9x16.jpg"
+   }
+  },
+  {
+   "n": "Comforth Scandinavia",
+   "cb": "8 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "comforth-scandinavia_0feee937_1x1.jpg",
+    "4x5": "comforth-scandinavia_0feee937_4x5.jpg",
+    "9x16": "comforth-scandinavia_0feee937_9x16.jpg"
    }
   },
   {
@@ -331,25 +342,14 @@
    }
   },
   {
-   "n": "Direct Ferries",
+   "n": "Dyson",
    "cb": "2 %",
-   "cat": "Rejser, hotel & Transport",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "direct-ferries_035ae109_1x1.jpg",
-    "4x5": "direct-ferries_035ae109_4x5.jpg",
-    "9x16": "direct-ferries_035ae109_9x16.jpg"
-   }
-  },
-  {
-   "n": "eesy 5G internet",
-   "cb": "400 kr",
-   "cat": "Services",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "eesy-5g-internetddd_a082c256_1x1.jpg",
-    "4x5": "eesy-5g-internetddd_a082c256_4x5.jpg",
-    "9x16": "eesy-5g-internetddd_a082c256_9x16.jpg"
+    "1x1": "dyson_8e1368c6_1x1.jpg",
+    "4x5": "dyson_8e1368c6_4x5.jpg",
+    "9x16": "dyson_8e1368c6_9x16.jpg"
    }
   },
   {
@@ -364,25 +364,36 @@
    }
   },
   {
-   "n": "Hiper",
-   "cb": "300 kr",
-   "cat": "Services",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "hiper-dk_23f6aa7c_1x1.jpg",
-    "4x5": "hiper-dk_23f6aa7c_4x5.jpg",
-    "9x16": "hiper-dk_23f6aa7c_9x16.jpg"
-   }
-  },
-  {
-   "n": "Interhome",
+   "n": "GetYourGuide",
    "cb": "5 %",
    "cat": "Rejser, hotel & Transport",
    "tier": "catalog",
    "imgs": {
-    "1x1": "interhome_06b02a06_1x1.jpg",
-    "4x5": "interhome_06b02a06_4x5.jpg",
-    "9x16": "interhome_06b02a06_9x16.jpg"
+    "1x1": "getyourguide_aa7d66b7_1x1.jpg",
+    "4x5": "getyourguide_aa7d66b7_4x5.jpg",
+    "9x16": "getyourguide_aa7d66b7_9x16.jpg"
+   }
+  },
+  {
+   "n": "Guldsmed Lind",
+   "cb": "8 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "guldsmed-lind_da1fc804_1x1.jpg",
+    "4x5": "guldsmed-lind_da1fc804_4x5.jpg",
+    "9x16": "guldsmed-lind_da1fc804_9x16.jpg"
+   }
+  },
+  {
+   "n": "Homeshop",
+   "cb": "1 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "homeshop_40f10603_1x1.jpg",
+    "4x5": "homeshop_40f10603_4x5.jpg",
+    "9x16": "homeshop_40f10603_9x16.jpg"
    }
   },
   {
@@ -397,14 +408,36 @@
    }
   },
   {
-   "n": "Lensway",
-   "cb": "4 %",
-   "cat": "Skønhed og Pleje",
+   "n": "Lampemesteren",
+   "cb": "3 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "lensway_81ed0257_1x1.jpg",
-    "4x5": "lensway_81ed0257_4x5.jpg",
-    "9x16": "lensway_81ed0257_9x16.jpg"
+    "1x1": "lampemesteren_57e5b574_1x1.jpg",
+    "4x5": "lampemesteren_57e5b574_4x5.jpg",
+    "9x16": "lampemesteren_57e5b574_9x16.jpg"
+   }
+  },
+  {
+   "n": "Legeakademiet",
+   "cb": "5 %",
+   "cat": "Børn",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "legeakademiet_f821ab04_1x1.jpg",
+    "4x5": "legeakademiet_f821ab04_4x5.jpg",
+    "9x16": "legeakademiet_f821ab04_9x16.jpg"
+   }
+  },
+  {
+   "n": "Legebyen",
+   "cb": "5 %",
+   "cat": "Børn",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "legebyen_f7fc33ed_1x1.jpg",
+    "4x5": "legebyen_f7fc33ed_4x5.jpg",
+    "9x16": "legebyen_f7fc33ed_9x16.jpg"
    }
   },
   {
@@ -441,14 +474,14 @@
    }
   },
   {
-   "n": "Nespresso",
-   "cb": "8 %",
-   "cat": "Dagligvarer",
+   "n": "Nordic Case",
+   "cb": "5 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "nespresso_80ce2872_1x1.jpg",
-    "4x5": "nespresso_80ce2872_4x5.jpg",
-    "9x16": "nespresso_80ce2872_9x16.jpg"
+    "1x1": "nordic-case_9fd7127e_1x1.jpg",
+    "4x5": "nordic-case_9fd7127e_4x5.jpg",
+    "9x16": "nordic-case_9fd7127e_9x16.jpg"
    }
   },
   {
@@ -463,17 +496,6 @@
    }
   },
   {
-   "n": "Omio",
-   "cb": "4 %",
-   "cat": "Rejser, hotel & Transport",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "omio_e90e702d_1x1.jpg",
-    "4x5": "omio_e90e702d_4x5.jpg",
-    "9x16": "omio_e90e702d_9x16.jpg"
-   }
-  },
-  {
    "n": "Philips Hue",
    "cb": "4 %",
    "cat": "Elektronik",
@@ -482,17 +504,6 @@
     "1x1": "philips-hue_f8fc5eae_1x1.jpg",
     "4x5": "philips-hue_f8fc5eae_4x5.jpg",
     "9x16": "philips-hue_f8fc5eae_9x16.jpg"
-   }
-  },
-  {
-   "n": "Pilgrim",
-   "cb": "5 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "pilgrim_97cdddd6_1x1.jpg",
-    "4x5": "pilgrim_97cdddd6_4x5.jpg",
-    "9x16": "pilgrim_97cdddd6_9x16.jpg"
    }
   },
   {
@@ -518,6 +529,28 @@
    }
   },
   {
+   "n": "Sistie",
+   "cb": "8 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "sistie_f9601e88_1x1.jpg",
+    "4x5": "sistie_f9601e88_4x5.jpg",
+    "9x16": "sistie_f9601e88_9x16.jpg"
+   }
+  },
+  {
+   "n": "Smartphoto",
+   "cb": "5 %",
+   "cat": "Oplevelser & underholdning",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "smartphoto_d13f1493_1x1.jpg",
+    "4x5": "smartphoto_d13f1493_4x5.jpg",
+    "9x16": "smartphoto_d13f1493_9x16.jpg"
+   }
+  },
+  {
    "n": "Strawberry",
    "cb": "5 %",
    "cat": "Rejser, hotel & Transport",
@@ -526,28 +559,6 @@
     "1x1": "strawberry_ee63e194_1x1.jpg",
     "4x5": "strawberry_ee63e194_4x5.jpg",
     "9x16": "strawberry_ee63e194_9x16.jpg"
-   }
-  },
-  {
-   "n": "Timarco",
-   "cb": "5 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "timarco_666e6422_1x1.jpg",
-    "4x5": "timarco_666e6422_4x5.jpg",
-    "9x16": "timarco_666e6422_9x16.jpg"
-   }
-  },
-  {
-   "n": "Wattoo",
-   "cb": "2 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "wattoo_7a18beec_1x1.jpg",
-    "4x5": "wattoo_7a18beec_4x5.jpg",
-    "9x16": "wattoo_7a18beec_9x16.jpg"
    }
   },
   {
