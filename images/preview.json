@@ -287,6 +287,17 @@
    }
   },
   {
+   "n": "Apopro",
+   "cb": "5 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "apopro_d0dea118_1x1.jpg",
+    "4x5": "apopro_d0dea118_4x5.jpg",
+    "9x16": "apopro_d0dea118_9x16.jpg"
+   }
+  },
+  {
    "n": "Avis",
    "cb": "5 %",
    "cat": "Services",
@@ -295,17 +306,6 @@
     "1x1": "avis_90e7be26_1x1.jpg",
     "4x5": "avis_90e7be26_4x5.jpg",
     "9x16": "avis_90e7be26_9x16.jpg"
-   }
-  },
-  {
-   "n": "Bottle Hero",
-   "cb": "6 %",
-   "cat": "Dagligvarer",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "bottle-hero_e9b91935_1x1.jpg",
-    "4x5": "bottle-hero_e9b91935_4x5.jpg",
-    "9x16": "bottle-hero_e9b91935_9x16.jpg"
    }
   },
   {
@@ -342,17 +342,6 @@
    }
   },
   {
-   "n": "Dyson",
-   "cb": "2 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "dyson_8e1368c6_1x1.jpg",
-    "4x5": "dyson_8e1368c6_4x5.jpg",
-    "9x16": "dyson_8e1368c6_9x16.jpg"
-   }
-  },
-  {
    "n": "eesy mobil",
    "cb": "200 kr",
    "cat": "Services",
@@ -364,14 +353,14 @@
    }
   },
   {
-   "n": "GetYourGuide",
-   "cb": "5 %",
+   "n": "Flixbus",
+   "cb": "2 %",
    "cat": "Rejser, hotel & Transport",
    "tier": "catalog",
    "imgs": {
-    "1x1": "getyourguide_aa7d66b7_1x1.jpg",
-    "4x5": "getyourguide_aa7d66b7_4x5.jpg",
-    "9x16": "getyourguide_aa7d66b7_9x16.jpg"
+    "1x1": "flixbus_a0fd2226_1x1.jpg",
+    "4x5": "flixbus_a0fd2226_4x5.jpg",
+    "9x16": "flixbus_a0fd2226_9x16.jpg"
    }
   },
   {
@@ -386,14 +375,14 @@
    }
   },
   {
-   "n": "Homeshop",
-   "cb": "1 %",
-   "cat": "Bolig & have",
+   "n": "HC Farver",
+   "cb": "3 %",
+   "cat": "Oplevelser & underholdning",
    "tier": "catalog",
    "imgs": {
-    "1x1": "homeshop_40f10603_1x1.jpg",
-    "4x5": "homeshop_40f10603_4x5.jpg",
-    "9x16": "homeshop_40f10603_9x16.jpg"
+    "1x1": "hc-farver_882f5ea9_1x1.jpg",
+    "4x5": "hc-farver_882f5ea9_4x5.jpg",
+    "9x16": "hc-farver_882f5ea9_9x16.jpg"
    }
   },
   {
@@ -408,36 +397,14 @@
    }
   },
   {
-   "n": "Lampemesteren",
-   "cb": "3 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "lampemesteren_57e5b574_1x1.jpg",
-    "4x5": "lampemesteren_57e5b574_4x5.jpg",
-    "9x16": "lampemesteren_57e5b574_9x16.jpg"
-   }
-  },
-  {
-   "n": "Legeakademiet",
+   "n": "LEGO",
    "cb": "5 %",
    "cat": "Børn",
    "tier": "catalog",
    "imgs": {
-    "1x1": "legeakademiet_f821ab04_1x1.jpg",
-    "4x5": "legeakademiet_f821ab04_4x5.jpg",
-    "9x16": "legeakademiet_f821ab04_9x16.jpg"
-   }
-  },
-  {
-   "n": "Legebyen",
-   "cb": "5 %",
-   "cat": "Børn",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "legebyen_f7fc33ed_1x1.jpg",
-    "4x5": "legebyen_f7fc33ed_4x5.jpg",
-    "9x16": "legebyen_f7fc33ed_9x16.jpg"
+    "1x1": "lego_e16f83f3_1x1.jpg",
+    "4x5": "lego_e16f83f3_4x5.jpg",
+    "9x16": "lego_e16f83f3_9x16.jpg"
    }
   },
   {
@@ -474,14 +441,14 @@
    }
   },
   {
-   "n": "Nordic Case",
-   "cb": "5 %",
-   "cat": "Mode",
+   "n": "Ninja Kitchen",
+   "cb": "3 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "nordic-case_9fd7127e_1x1.jpg",
-    "4x5": "nordic-case_9fd7127e_4x5.jpg",
-    "9x16": "nordic-case_9fd7127e_9x16.jpg"
+    "1x1": "ninja-kitchen_ea2abba7_1x1.jpg",
+    "4x5": "ninja-kitchen_ea2abba7_4x5.jpg",
+    "9x16": "ninja-kitchen_ea2abba7_9x16.jpg"
    }
   },
   {
@@ -493,17 +460,6 @@
     "1x1": "oister_1a51ba63_1x1.jpg",
     "4x5": "oister_1a51ba63_4x5.jpg",
     "9x16": "oister_1a51ba63_9x16.jpg"
-   }
-  },
-  {
-   "n": "Philips Hue",
-   "cb": "4 %",
-   "cat": "Elektronik",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "philips-hue_f8fc5eae_1x1.jpg",
-    "4x5": "philips-hue_f8fc5eae_4x5.jpg",
-    "9x16": "philips-hue_f8fc5eae_9x16.jpg"
    }
   },
   {
@@ -529,25 +485,14 @@
    }
   },
   {
-   "n": "Sistie",
-   "cb": "8 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "sistie_f9601e88_1x1.jpg",
-    "4x5": "sistie_f9601e88_4x5.jpg",
-    "9x16": "sistie_f9601e88_9x16.jpg"
-   }
-  },
-  {
-   "n": "Smartphoto",
+   "n": "Special",
    "cb": "5 %",
    "cat": "Oplevelser & underholdning",
    "tier": "catalog",
    "imgs": {
-    "1x1": "smartphoto_d13f1493_1x1.jpg",
-    "4x5": "smartphoto_d13f1493_4x5.jpg",
-    "9x16": "smartphoto_d13f1493_9x16.jpg"
+    "1x1": "special_92f0ab1e_1x1.jpg",
+    "4x5": "special_92f0ab1e_4x5.jpg",
+    "9x16": "special_92f0ab1e_9x16.jpg"
    }
   },
   {
