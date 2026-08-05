@@ -276,17 +276,6 @@
    }
   },
   {
-   "n": "Acer",
-   "cb": "3 %",
-   "cat": "Elektronik",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "acer_891f67f8_1x1.jpg",
-    "4x5": "acer_891f67f8_4x5.jpg",
-    "9x16": "acer_891f67f8_9x16.jpg"
-   }
-  },
-  {
    "n": "Anne Brauner",
    "cb": "5 %",
    "cat": "Mode",
@@ -309,39 +298,6 @@
    }
   },
   {
-   "n": "BIVA",
-   "cb": "4 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "biva-1_3c722fa8_1x1.jpg",
-    "4x5": "biva-1_3c722fa8_4x5.jpg",
-    "9x16": "biva-1_3c722fa8_9x16.jpg"
-   }
-  },
-  {
-   "n": "Botex.dk",
-   "cb": "6 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "botexdk_ac00021d_1x1.jpg",
-    "4x5": "botexdk_ac00021d_4x5.jpg",
-    "9x16": "botexdk_ac00021d_9x16.jpg"
-   }
-  },
-  {
-   "n": "CBB Mobil",
-   "cb": "120 kr",
-   "cat": "Services",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "cbb_5a310cab_1x1.jpg",
-    "4x5": "cbb_5a310cab_4x5.jpg",
-    "9x16": "cbb_5a310cab_9x16.jpg"
-   }
-  },
-  {
    "n": "DAY ET",
    "cb": "5 %",
    "cat": "Mode",
@@ -350,17 +306,6 @@
     "1x1": "day-et_a97e52c7_1x1.jpg",
     "4x5": "day-et_a97e52c7_4x5.jpg",
     "9x16": "day-et_a97e52c7_9x16.jpg"
-   }
-  },
-  {
-   "n": "eesy 5G internet",
-   "cb": "500 kr",
-   "cat": "Services",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "eesy-5g-internetddd_1d318b27_1x1.jpg",
-    "4x5": "eesy-5g-internetddd_1d318b27_4x5.jpg",
-    "9x16": "eesy-5g-internetddd_1d318b27_9x16.jpg"
    }
   },
   {
@@ -375,36 +320,14 @@
    }
   },
   {
-   "n": "Gents",
-   "cb": "6 %",
-   "cat": "Skønhed og Pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "gents_1f151d19_1x1.jpg",
-    "4x5": "gents_1f151d19_4x5.jpg",
-    "9x16": "gents_1f151d19_9x16.jpg"
-   }
-  },
-  {
-   "n": "Green Heroes",
-   "cb": "4 %",
-   "cat": "Elektronik",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "green-heroes_f84fce83_1x1.jpg",
-    "4x5": "green-heroes_f84fce83_4x5.jpg",
-    "9x16": "green-heroes_f84fce83_9x16.jpg"
-   }
-  },
-  {
-   "n": "Interhome",
-   "cb": "5 %",
+   "n": "Flixbus",
+   "cb": "2 %",
    "cat": "Rejser, hotel & Transport",
    "tier": "catalog",
    "imgs": {
-    "1x1": "interhome_06b02a06_1x1.jpg",
-    "4x5": "interhome_06b02a06_4x5.jpg",
-    "9x16": "interhome_06b02a06_9x16.jpg"
+    "1x1": "flixbus_a0fd2226_1x1.jpg",
+    "4x5": "flixbus_a0fd2226_4x5.jpg",
+    "9x16": "flixbus_a0fd2226_9x16.jpg"
    }
   },
   {
@@ -416,6 +339,28 @@
     "1x1": "kaffepro_28b80021_1x1.jpg",
     "4x5": "kaffepro_28b80021_4x5.jpg",
     "9x16": "kaffepro_28b80021_9x16.jpg"
+   }
+  },
+  {
+   "n": "Legebyen",
+   "cb": "5 %",
+   "cat": "Børn",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "legebyen_f7fc33ed_1x1.jpg",
+    "4x5": "legebyen_f7fc33ed_4x5.jpg",
+    "9x16": "legebyen_f7fc33ed_9x16.jpg"
+   }
+  },
+  {
+   "n": "Lensway",
+   "cb": "4 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "lensway_81ed0257_1x1.jpg",
+    "4x5": "lensway_81ed0257_4x5.jpg",
+    "9x16": "lensway_81ed0257_9x16.jpg"
    }
   },
   {
@@ -441,14 +386,25 @@
    }
   },
   {
-   "n": "MyProtein",
+   "n": "Motatos",
    "cb": "5 %",
-   "cat": "Skønhed og Pleje",
+   "cat": "Dagligvarer",
    "tier": "catalog",
    "imgs": {
-    "1x1": "myprotein_69b80caf_1x1.jpg",
-    "4x5": "myprotein_69b80caf_4x5.jpg",
-    "9x16": "myprotein_69b80caf_9x16.jpg"
+    "1x1": "motatos_d57f6153_1x1.jpg",
+    "4x5": "motatos_d57f6153_4x5.jpg",
+    "9x16": "motatos_d57f6153_9x16.jpg"
+   }
+  },
+  {
+   "n": "Newport",
+   "cb": "5 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "newport_68bdf15b_1x1.jpg",
+    "4x5": "newport_68bdf15b_4x5.jpg",
+    "9x16": "newport_68bdf15b_9x16.jpg"
    }
   },
   {
@@ -463,6 +419,28 @@
    }
   },
   {
+   "n": "Parfumedreams",
+   "cb": "3 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "parfumedreams_e3cb6180_1x1.jpg",
+    "4x5": "parfumedreams_e3cb6180_4x5.jpg",
+    "9x16": "parfumedreams_e3cb6180_9x16.jpg"
+   }
+  },
+  {
+   "n": "Pixizoo",
+   "cb": "5 %",
+   "cat": "Børn",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "pixizoo-1_7b78e48d_1x1.jpg",
+    "4x5": "pixizoo-1_7b78e48d_4x5.jpg",
+    "9x16": "pixizoo-1_7b78e48d_9x16.jpg"
+   }
+  },
+  {
    "n": "Robell",
    "cb": "6 %",
    "cat": "Mode",
@@ -471,6 +449,17 @@
     "1x1": "robell_09274fcf_1x1.jpg",
     "4x5": "robell_09274fcf_4x5.jpg",
     "9x16": "robell_09274fcf_9x16.jpg"
+   }
+  },
+  {
+   "n": "Scootworld.dk",
+   "cb": "4 %",
+   "cat": "Sport & Fitness",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "scootworlddk_a781855b_1x1.jpg",
+    "4x5": "scootworlddk_a781855b_4x5.jpg",
+    "9x16": "scootworlddk_a781855b_9x16.jpg"
    }
   },
   {
@@ -485,14 +474,36 @@
    }
   },
   {
-   "n": "StockX",
-   "cb": "1 %",
+   "n": "Sisi Copenhagen",
+   "cb": "2 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "stockx_da9cd117_1x1.jpg",
-    "4x5": "stockx_da9cd117_4x5.jpg",
-    "9x16": "stockx_da9cd117_9x16.jpg"
+    "1x1": "sisi-copenhagen_50158795_1x1.jpg",
+    "4x5": "sisi-copenhagen_50158795_4x5.jpg",
+    "9x16": "sisi-copenhagen_50158795_9x16.jpg"
+   }
+  },
+  {
+   "n": "Sistie",
+   "cb": "8 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "sistie_f9601e88_1x1.jpg",
+    "4x5": "sistie_f9601e88_4x5.jpg",
+    "9x16": "sistie_f9601e88_9x16.jpg"
+   }
+  },
+  {
+   "n": "Stradivarius",
+   "cb": "4 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "stradivarius_e5a065ec_1x1.jpg",
+    "4x5": "stradivarius_e5a065ec_4x5.jpg",
+    "9x16": "stradivarius_e5a065ec_9x16.jpg"
    }
   },
   {
@@ -507,25 +518,14 @@
    }
   },
   {
-   "n": "Telmore Internet",
-   "cb": "200 kr",
-   "cat": "Internet",
+   "n": "Unigardin",
+   "cb": "6 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "telmore-internet_bd338a97_1x1.jpg",
-    "4x5": "telmore-internet_bd338a97_4x5.jpg",
-    "9x16": "telmore-internet_bd338a97_9x16.jpg"
-   }
-  },
-  {
-   "n": "Vanilla Copenhagen",
-   "cb": "7 %",
-   "cat": "Børn",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "vanilla-copenhagen_7377fe02_1x1.jpg",
-    "4x5": "vanilla-copenhagen_7377fe02_4x5.jpg",
-    "9x16": "vanilla-copenhagen_7377fe02_9x16.jpg"
+    "1x1": "unigarding_1d07f407_1x1.jpg",
+    "4x5": "unigarding_1d07f407_4x5.jpg",
+    "9x16": "unigarding_1d07f407_9x16.jpg"
    }
   },
   {
