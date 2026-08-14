@@ -1,86 +1,70 @@
-# Cashbackmedvisa — Meta catalog ads (live partner feed)
+# Update: "Nyeste butikker" — a third catalog set
 
-A **live, self-updating Meta (Facebook/Instagram) catalog ad** that showcases the
-Cashbackmedvisa partner brands — the Meta equivalent of the Kayzen "V3 partner
-showcase" endcard. One catalog item per partner, branded "Confect-style" images
-baked locally, served to Meta as a **scheduled product feed**.
+This package updates the **cashback partner catalog pipeline** you already have
+(`meta-catalog-ads`) with one addition: a **"Nyeste butikker" (newest shops)** set,
+alongside the existing "Højeste cashback" and "Mest populære". It powers a new
+**carousel ad of the newest shops** — combining **direct partnership stores and
+eShop webshops** in one set, auto-refreshed daily.
 
-## How Meta catalog ads work (≠ Kayzen)
+Nothing else changed in the feed schema, hosting, or ad setup — everything in the
+original package's README/HOSTING still applies.
 
-Meta does **not** take an interactive HTML/MRAID creative. Instead:
+---
 
-1. You create a **product catalog** in [Meta Commerce Manager](https://business.facebook.com/commerce).
-2. You connect a **scheduled feed URL** (a CSV) that Meta re-pulls daily — **this is the "live" part**.
-3. Meta renders the items into **Carousel** and **Collection** ad formats.
-4. To make items look designed instead of raw photos, we bake brand overlays
-   (logo + cashback badge + Visa frame) into each item's image — the same thing
-   [Confect](https://www.confect.io) does, here done for free with Pillow.
+## What's new
 
-The partner data, curation, and image artwork all refresh automatically on a
-daily GitHub Action — you only touch Meta again if you change the *ad*, not the data.
-
-## What this repo produces
-
-| File | Purpose |
+| Where | Change |
 |---|---|
-| `feed/catalog.csv` | **Primary Meta product feed** (one row per partner). Point Commerce Manager's scheduled feed here. |
-| `feed/catalog.xml` | Same data as RSS 2.0 + `g:` (optional alternative format). |
-| `feed/partners.json` / `partners-all.json` | Curated sets + full universe; drive the image builder and the preview. |
-| `images/<slug>_<hash>_{1x1,4x5,9x16}.jpg` | Branded partner cards in the 3 Meta ratios. `image_link` / `additional_image_link`. |
-| `images/_cover_{highest,popular}_{1x1,9x16}.jpg` | Collection-ad cover images. |
-| `images/_preview.html` | Local mock of the Collection + Carousel ad. |
+| `feed/catalog.csv` / `.xml` | Rows can now carry **`custom_label_0 = newest`** (a third tier next to `highest` / `popular` / `catalog`). |
+| `feed/partners.json` | New **`newest`** array (the curated set, max 15). |
+| `feed/partners-all.json` | Each partner gains an **`inNewest`** flag. |
+| `source/build-feed.py` | Builds the newest set (logic below). |
+| `source/build-images.py` | Renders cards for the new partners + a `_cover_newest_*` Collection cover. Also a polish fix: partner logos with baked-in white backgrounds now sit on a white chip (no more blue frame around white-box logos). |
+| `source/curate.json` | New **`pin_newest`** list (same matching rules as the other pins). |
+| `images/_preview.html` | Local preview page has a "Nyeste butikker" tab. |
 
-## Build it
+See `examples/` for rendered samples (cards + the Collection cover).
 
-```bash
-cd source
-python3 build-feed.py      # live fetch -> feed/catalog.csv + catalog.xml + partners*.json  (stdlib only)
-python3 build-images.py    # downloads heroes/logos -> branded images + covers + preview.json  (needs Pillow)
-```
+## How "newest" is selected (automatic, daily)
 
-Install Pillow once: `pip install -r requirements.txt`.
+1. **eShop webshops:** the site's own curated "latest" list.
+2. **Direct partners:** the "Nyheder" section of the partner catalog, sorted
+   newest-first by their creation date.
+3. The two sources are **interleaved** (so both partnership types stay represented),
+   de-duplicated by brand, and capped at 15.
+4. Partners in the **"Sidste chance"** section (about to leave the program) are excluded.
+5. `pin_newest` entries in `curate.json` always go first.
 
-Preview the creative locally:
+**Tier priority:** a shop that is *also* in "Højeste cashback" or "Mest populære"
+keeps that tier (`custom_label_0` holds one value). The build log prints which
+newest members were absorbed by a higher tier on every run.
 
-```bash
-cd images && python3 -m http.server 8124   # then open http://localhost:8124/_preview.html
-```
+## Deploy (same repo as before)
 
-## Feed schema (partner → Meta field)
+1. Replace `source/build-feed.py`, `source/build-images.py`, `source/curate.json`
+   (and optionally `images/_preview.html`) in the live repo with the versions in
+   this package.
+2. Trigger the workflow (*Actions → Refresh Meta catalog feed → Run workflow*) or
+   wait for the daily run. It rebuilds `feed/` + `images/` including the new set.
+3. No Commerce Manager feed changes needed — Meta ingests the same scheduled
+   `catalog.csv` URL and picks up the new rows on its next fetch.
 
-One row per partner. Meta requires `id, title, description, availability,
-condition, price, link, image_link` + `brand`. A partner has no price, so
-`price = "0.00 DKK"` and **the price element is turned off in the ad creative**
-(the real cashback value lives in the baked image badge + `custom_label_1`).
+## Create the new ad
 
-`custom_label_0` is the spine: **`highest` | `popular` | `catalog`** — it drives
-the two Meta product sets. Other labels: `1` = cashback display (`"5 %"`/`"300 kr"`),
-`2` = category, `3` = `online`/`physical`, `4` = zero-padded numeric % (sortable).
+1. **Commerce Manager → your catalog → Product sets → Create set**
+   - Name: **Nyeste butikker**
+   - Filter: **`custom_label_0` is equal to `newest`**
+2. **Ads Manager → catalog (Advantage+) ad → Carousel** on that product set —
+   exactly like the two existing ads. (A `_cover_newest_*.jpg` cover image is also
+   generated if you prefer a Collection.)
+3. Reminder from the original handoff still applies: **price element OFF** in the
+   creative template (items carry `0.00 DKK`; the cashback value is baked into the image).
 
-## Set it up in Meta (once)
-
-1. **Commerce Manager → Catalogs → Create catalog** (type: E-commerce).
-2. **Data Sources → Add items → Scheduled feed** → paste the `catalog.csv`
-   jsDelivr URL (see [HOSTING.md](HOSTING.md)) → schedule **daily** (~08:00, after the Action runs).
-   Use the feed debugger / **Issues** tab to confirm 0 errors.
-3. **Product Sets → Create set**:
-   - "Højeste cashback" → filter `custom_label_0 is equal to highest`
-   - "Mest populære" → filter `custom_label_0 is equal to popular`
-4. **Ads Manager → Sales/Traffic → Catalog ads** → choose a product set → build a
-   **Carousel** and/or **Collection** ad. In the creative template, **turn the price
-   element OFF** (our image carries the cashback value). Use the `_cover_*` image as
-   the Collection cover.
+The set membership updates itself daily — new shops flow in, and shops that stop
+being "new" (or leave the program) rotate out, with no ad changes needed.
 
 ## Curation
 
-`source/curate.json` (copied from the Kayzen project, applied every build):
-`exclude` / `pin_highest` / `pin_popular`, matched by name, slug, or a full
-`…/eshop/butikker/<slug>/<uuid>` link. Pins flow straight into the Meta product
-sets via `custom_label_0`. A handpicked "popular" auto-fills so it is never empty.
-
-## Live refresh
-
-`.github/workflows/feed.yml` runs both scripts **daily** (and on-demand) and commits
-`feed/` + `images/`. Image filenames are content-hashed, so a cashback change yields
-a new URL Meta re-fetches; the CSV URL is purged from jsDelivr after each commit.
-See [HOSTING.md](HOSTING.md) for the one required setting (`CDN_BASE`).
+`source/curate.json` → `"pin_newest": []` — pin brands to the front by name, slug,
+or full partner link; `exclude` still hides a brand from every set. Re-run
+`build-feed.py` (or let the Action run) after editing.

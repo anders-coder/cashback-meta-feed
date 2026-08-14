@@ -1,2 +1,5 @@
-# build-images.py only. build-feed.py is stdlib-only.
+# build-feed.py is stdlib-only. build-images.py needs Pillow.
+# build-video.py needs imageio-ffmpeg (bundles a static ffmpeg; fetches its
+# binary on first use, incl. on the Linux CI runner).
 Pillow>=10.0
+imageio-ffmpeg>=0.4

@@ -196,6 +196,7 @@ def parse_location(loc):
         "_sections": set(),
         "_prio": 9999,
         "_order": 0,
+        "_created": str(loc.get("created_at") or loc.get("published_at") or ""),
     }
 
 
@@ -285,7 +286,7 @@ def public(p):
 # "Hard" unicode whitespace that rich-text editors (Docs/TextEdit) inject into the
 # indentation: NBSP, en/em/thin spaces, ideographic space, BOM/ZWNBSP. These are
 # invalid JSON whitespace and would crash json.load — normalize them to a plain space.
-_BAD_WS = re.compile("[   -   　﻿]")
+_BAD_WS = re.compile("[   -   　﻿]")
 
 
 def _load_json_lenient(path):
@@ -302,16 +303,17 @@ def _load_json_lenient(path):
 def load_curate():
     """curate.json lets you override the automatic ranking. Match partners by
     `slug` (preferred, stable) or exact name. All keys are optional:
-      { "exclude": [...], "pin_highest": [...], "pin_popular": [...] }
+      { "exclude": [...], "pin_highest": [...], "pin_popular": [...], "pin_newest": [...] }
     Pinned partners appear first (in the order listed); the rest auto-fills."""
     try:
         c = _load_json_lenient(_h("curate.json"))
     except FileNotFoundError:
-        return {"exclude": [], "pin_highest": [], "pin_popular": []}
+        return {"exclude": [], "pin_highest": [], "pin_popular": [], "pin_newest": []}
     return {
         "exclude": [str(x).strip().lower() for x in c.get("exclude", []) if str(x).strip()],
         "pin_highest": [str(x).strip() for x in c.get("pin_highest", []) if str(x).strip()],
         "pin_popular": [str(x).strip() for x in c.get("pin_popular", []) if str(x).strip()],
+        "pin_newest": [str(x).strip() for x in c.get("pin_newest", []) if str(x).strip()],
     }
 
 
@@ -597,14 +599,15 @@ def meta_row(p, tier):
     }
 
 
-def build_meta_rows(universe, hid, pid):
+def build_meta_rows(universe, hid, pid, nid):
     seen, rows = set(), []
     for p in universe:
         pidv = p.get("id")
         if not pidv or pidv in seen:
             continue
         seen.add(pidv)
-        tier = "highest" if pidv in hid else ("popular" if pidv in pid else "catalog")
+        tier = ("highest" if pidv in hid else "popular" if pidv in pid
+                else "newest" if pidv in nid else "catalog")
         rows.append(meta_row(p, tier))
     return rows
 
@@ -736,12 +739,33 @@ def main():
     else:
         popular = pop_fallback[:TOP_N]
 
+    # Nyeste butikker = eShop 'latest' interleaved with DIRECT partners from the
+    # se-partnere 'Nyheder' section (sorted newest-first via created_at) — both
+    # partnership types represented. Skips 'Sidste chance' partners (about to
+    # leave) and same-brand duplicates across the two sources. Pins go first.
+    def in_section(p, key):
+        return any(key in (s or "").lower() for s in p.get("_sections", ()))
+
+    phys_new = [p for p in locations if in_section(p, "nyhed")
+                and not in_section(p, "sidste chance") and not excluded(p)]
+    phys_new.sort(key=lambda p: p.get("_created") or "", reverse=True)
+    es_latest = [p for p in es["latest"] if not excluded(p)]
+    inter, seen_names = [], set()
+    for i in range(max(len(es_latest), len(phys_new))):      # alternate the sources
+        for src in (es_latest, phys_new):
+            if i < len(src) and _norm(src[i]["n"]) not in seen_names:
+                seen_names.add(_norm(src[i]["n"]))
+                inter.append(src[i])
+    pin_n = resolve_pins(cur["pin_newest"], "newest")
+    newest = merge(pin_n, inter, TOP_N)
+
     feed = {
         "v": 1,
         "generated": datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z",
         "title": "Optjen cashback med dit Visa-kort – i over 2.000 butikker",
         "highest": [public(p) for p in highest],
         "popular": [public(p) for p in popular],
+        "newest": [public(p) for p in newest],
     }
     with open(_f("partners.json"), "w", encoding="utf-8") as f:
         json.dump(feed, f, ensure_ascii=False, separators=(",", ":"))
@@ -752,9 +776,10 @@ def main():
     # generated image files always correspond 1:1. Order: highest, popular, pool.
     hid = {p["id"] for p in highest}
     pid = {p["id"] for p in popular}
+    nid = {p["id"] for p in newest}
     cat_sorted = sorted(eshop_pool, key=lambda x: (x["n"] or "").lower())
     universe, seen = [], set()
-    for p in (highest + popular + cat_sorted):
+    for p in (highest + popular + newest + cat_sorted):
         if excluded(p) or not p.get("id") or p["id"] in seen:
             continue
         seen.add(p["id"])
@@ -763,7 +788,7 @@ def main():
     catalog = []
     for p in universe:
         o = public(p)
-        o["inHighest"], o["inPopular"] = p["id"] in hid, p["id"] in pid
+        o["inHighest"], o["inPopular"], o["inNewest"] = p["id"] in hid, p["id"] in pid, p["id"] in nid
         catalog.append(o)
     with open(_f("partners-all.json"), "w", encoding="utf-8") as f:
         json.dump({"generated": feed["generated"], "partners": catalog},
@@ -771,20 +796,26 @@ def main():
 
     # ---- Meta product feed: catalog.csv (primary) + catalog.xml (secondary) ---
     # tier (custom_label_0) is derived from hid/pid and drives the Meta product sets.
-    rows = build_meta_rows(universe, hid, pid)
+    rows = build_meta_rows(universe, hid, pid, nid)
     validate_rows(rows)
     write_meta_csv(rows, _f("catalog.csv"))
     write_meta_xml(rows, _f("catalog.xml"), feed["title"])
     n_high = sum(1 for r in rows if r["custom_label_0"] == "highest")
     n_pop = sum(1 for r in rows if r["custom_label_0"] == "popular")
-    print(f"\ncatalog feed: {len(rows)} rows  (highest={n_high}  popular={n_pop}  "
-          f"catalog={len(rows) - n_high - n_pop})  CDN_BASE={metalib.CDN_BASE}")
+    n_new = sum(1 for r in rows if r["custom_label_0"] == "newest")
+    print(f"\ncatalog feed: {len(rows)} rows  (highest={n_high}  popular={n_pop}  newest={n_new}  "
+          f"catalog={len(rows) - n_high - n_pop - n_new})  CDN_BASE={metalib.CDN_BASE}")
+    overlap = [p["n"] for p in newest if p["id"] in hid or p["id"] in pid]
+    if overlap:
+        print(f"  note: {len(overlap)} newest member(s) already in highest/popular keep that tier "
+              f"(won't appear in the newest product set): {', '.join(overlap)}")
 
     size = len(json.dumps(feed, ensure_ascii=False, separators=(",", ":")).encode("utf-8"))
-    print(f"highest: {len(highest)}  popular: {len(popular)}  partners.json={size} bytes")
+    print(f"highest: {len(highest)}  popular: {len(popular)}  newest: {len(newest)}  partners.json={size} bytes")
     print("Højeste cashback:", ", ".join(f"{p['n']} {p.get('cb')}" for p in highest[:6]))
     print("Mest populære:   ", ", ".join(f"{p['n']} {p.get('cb')}" for p in popular))
-    if not highest or not popular:
+    print("Nyeste butikker: ", ", ".join(f"{p['n']} {p.get('cb')}" for p in newest))
+    if not highest or not popular or not newest:
         raise SystemExit("ERROR: a carousel is empty")
 
 

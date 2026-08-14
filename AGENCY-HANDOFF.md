@@ -57,6 +57,8 @@ In the catalog → **Product sets → Create set**, filter on `custom_label_0`:
 
 - **"Højeste cashback"** → `custom_label_0 = highest`
 - **"Mest populære"** → `custom_label_0 = popular`
+- **"Nyeste butikker"** → `custom_label_0 = newest` (newest shops across BOTH direct partners and
+  the eShop, auto-refreshed daily; a shop that is also top-cashback/popular keeps that tier instead)
 
 These update automatically on every daily refresh. (`custom_label_1` = cashback shown, `2` =
 category, `3` = online/physical, `4` = numeric % — available for extra targeting.)

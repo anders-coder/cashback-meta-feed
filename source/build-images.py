@@ -43,7 +43,7 @@ if not os.path.isdir(os.path.dirname(os.path.abspath(_IMG))):
     _IMG = os.path.join(_HERE, "images")
 os.makedirs(_IMG, exist_ok=True)
 
-# ---- brand identity (matches the Kayzen creatives) ---------------------------
+# ---- brand identity (Cashbackmedvisa / Visa) -------------------------------
 BLUE = (20, 52, 203)          # Visa #1434cb
 BLUE_D = (12, 30, 120)        # darker shade for gradients
 INK = (27, 36, 64)
@@ -66,6 +66,26 @@ def font(path, size):
     if key not in _FCACHE:
         _FCACHE[key] = ImageFont.truetype(path, size)
     return _FCACHE[key]
+
+
+BLOGO = os.path.join(_HERE, "brand-logo.png")   # real wordmark, pre-rasterized from brand-logo.svg
+_BLOGO = None
+
+
+def brand_logo():
+    global _BLOGO
+    if _BLOGO is None:
+        _BLOGO = Image.open(BLOGO).convert("RGBA")
+    return _BLOGO
+
+
+def paste_logo(base, cx, cy, target_w):
+    """Paste the real Cashbackmedvisa/Visa wordmark centred at (cx, cy), scaled to target_w."""
+    lg = brand_logo()
+    w2 = int(target_w); h2 = max(1, round(lg.height * w2 / lg.width))
+    lg = lg.resize((w2, h2), Image.LANCZOS)
+    base.paste(lg, (int(cx - w2 / 2), int(cy - h2 / 2)), lg)
+    return h2
 
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
@@ -296,7 +316,12 @@ def logo_chip(base, p, cx, cy, maxw, maxh, s, shadow=False):
         x0, y0 = int(cx - chip_w / 2), int(cy - chip_h / 2)
         if shadow:
             _chip_shadow(base, x0, y0, chip_w, chip_h, rad, s)
-        chip_bg = BLUE if mean_lum(logo) > 200 else WHITE
+        # blue chip only for genuinely light GLYPHS on transparency; a logo that is
+        # an opaque tile (baked white background, common for direct partners) sits
+        # on white so its own background blends in seamlessly
+        a_hist = logo.split()[3].histogram()
+        opaque_frac = a_hist[255] / max(1, logo.width * logo.height)
+        chip_bg = BLUE if (mean_lum(logo) > 200 and opaque_frac < 0.95) else WHITE
         d.rounded_rectangle((x0, y0, x0 + chip_w, y0 + chip_h), radius=rad, fill=chip_bg)
         base.paste(lg, (int(cx - lw_ / 2), int(cy - lh_ / 2)), lg)
     else:
@@ -436,7 +461,7 @@ def render_card(p, ratio):
 
 
 # ---- collection cover --------------------------------------------------------
-COVER_TITLE = {"highest": "Højeste cashback", "popular": "Mest populære"}
+COVER_TITLE = {"highest": "Højeste cashback", "popular": "Mest populære", "newest": "Nyeste butikker"}
 
 
 def render_cover(tier, partners, ratio):
@@ -448,18 +473,8 @@ def render_cover(tier, partners, ratio):
     base = Image.new("RGB", (w, h), LBLUE)
     d = ImageDraw.Draw(base)
 
-    # 'Cashback | VISA' header — muted 'Cashback', blue 'VISA', centred
-    f = font(FB, int(52 * s))
-    a, b = "Cashback", "VISA"
-    wa, wb = text_w(d, a, f), text_w(d, b, f)
-    gap, bar = int(26 * s), int(4 * s)
-    hy = int(h * 0.12)
-    x = w / 2 - (wa + gap * 2 + bar + wb) / 2
-    d.text((x, hy), a, font=f, fill=MUTED)
-    x += wa + gap
-    d.rectangle((x, hy + int(8 * s), x + bar, hy + f.getbbox("H")[3]), fill=MUTED)
-    x += bar + gap
-    d.text((x, hy), b, font=font(FB, int(54 * s)), fill=BLUE)
+    # real Cashbackmedvisa / Visa wordmark at the top
+    paste_logo(base, w / 2, int(h * (0.10 if ratio == "9x16" else 0.12)), int(w * 0.44))
 
     # two-tone headline (blue line + near-black line)
     hf = font(FB, int(100 * s))
@@ -502,13 +517,14 @@ def main():
                 continue
             save(render_card(p, ratio), name)
             rendered += 1
-        tier = "highest" if p.get("inHighest") else ("popular" if p.get("inPopular") else "catalog")
+        tier = ("highest" if p.get("inHighest") else "popular" if p.get("inPopular")
+                else "newest" if p.get("inNewest") else "catalog")
         manifest.append({"n": p.get("n"), "cb": p.get("cb"), "cat": p.get("cat"),
                          "tier": tier, "imgs": imgs})
         print(f"  card {p.get('n','?')[:28]:<28} {p.get('cb') or '-':>7}")
 
     covers = {}
-    for tier in ("highest", "popular"):
+    for tier in ("highest", "popular", "newest"):
         covers[tier] = {}
         for ratio in ("1x1", "9x16"):
             name = metalib.cover_name(tier, ratio)
