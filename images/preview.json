@@ -430,80 +430,69 @@
    }
   },
   {
-   "n": "Alexander Lyngaard",
+   "n": "anew sleep",
+   "cb": "8 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "anew-sleep_c3341333_1x1.jpg",
+    "4x5": "anew-sleep_c3341333_4x5.jpg",
+    "9x16": "anew-sleep_c3341333_9x16.jpg"
+   }
+  },
+  {
+   "n": "Anne Brauner",
+   "cb": "5 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "anne-brauner_519a6c03_1x1.jpg",
+    "4x5": "anne-brauner_519a6c03_4x5.jpg",
+    "9x16": "anne-brauner_519a6c03_9x16.jpg"
+   }
+  },
+  {
+   "n": "Fodplejebutikken",
+   "cb": "8 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "fodplejebutikken_367aab2f_1x1.jpg",
+    "4x5": "fodplejebutikken_367aab2f_4x5.jpg",
+    "9x16": "fodplejebutikken_367aab2f_9x16.jpg"
+   }
+  },
+  {
+   "n": "Guldsmed Lind",
    "cb": "8 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "alexander-lyngaard_9c34e795_1x1.jpg",
-    "4x5": "alexander-lyngaard_9c34e795_4x5.jpg",
-    "9x16": "alexander-lyngaard_9c34e795_9x16.jpg"
+    "1x1": "guldsmed-lind_da1fc804_1x1.jpg",
+    "4x5": "guldsmed-lind_da1fc804_4x5.jpg",
+    "9x16": "guldsmed-lind_da1fc804_9x16.jpg"
    }
   },
   {
-   "n": "Avis",
-   "cb": "5 %",
-   "cat": "Services",
+   "n": "Havemøbelland.dk",
+   "cb": "4 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "avis_90e7be26_1x1.jpg",
-    "4x5": "avis_90e7be26_4x5.jpg",
-    "9x16": "avis_90e7be26_9x16.jpg"
+    "1x1": "havemobellanddk_5580f5a0_1x1.jpg",
+    "4x5": "havemobellanddk_5580f5a0_4x5.jpg",
+    "9x16": "havemobellanddk_5580f5a0_9x16.jpg"
    }
   },
   {
-   "n": "Björn Borg",
-   "cb": "6 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "bjorn-borg_5e3f4ee8_1x1.jpg",
-    "4x5": "bjorn-borg_5e3f4ee8_4x5.jpg",
-    "9x16": "bjorn-borg_5e3f4ee8_9x16.jpg"
-   }
-  },
-  {
-   "n": "Dania Bikes",
+   "n": "HC Farver",
    "cb": "3 %",
-   "cat": "Sport & Fitness",
+   "cat": "Oplevelser & underholdning",
    "tier": "catalog",
    "imgs": {
-    "1x1": "dania-bikes_f7c8be40_1x1.jpg",
-    "4x5": "dania-bikes_f7c8be40_4x5.jpg",
-    "9x16": "dania-bikes_f7c8be40_9x16.jpg"
-   }
-  },
-  {
-   "n": "Euroflorist",
-   "cb": "6 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "euroflorist_a5c5c6ca_1x1.jpg",
-    "4x5": "euroflorist_a5c5c6ca_4x5.jpg",
-    "9x16": "euroflorist_a5c5c6ca_9x16.jpg"
-   }
-  },
-  {
-   "n": "Homeshop",
-   "cb": "1 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "homeshop_40f10603_1x1.jpg",
-    "4x5": "homeshop_40f10603_4x5.jpg",
-    "9x16": "homeshop_40f10603_9x16.jpg"
-   }
-  },
-  {
-   "n": "iRobot.dk",
-   "cb": "5 %",
-   "cat": "Elektronik",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "irobotdk_8c2acd6b_1x1.jpg",
-    "4x5": "irobotdk_8c2acd6b_4x5.jpg",
-    "9x16": "irobotdk_8c2acd6b_9x16.jpg"
+    "1x1": "hc-farver_882f5ea9_1x1.jpg",
+    "4x5": "hc-farver_882f5ea9_4x5.jpg",
+    "9x16": "hc-farver_882f5ea9_9x16.jpg"
    }
   },
   {
@@ -515,6 +504,39 @@
     "1x1": "jorgsholm_417ac55a_1x1.jpg",
     "4x5": "jorgsholm_417ac55a_4x5.jpg",
     "9x16": "jorgsholm_417ac55a_9x16.jpg"
+   }
+  },
+  {
+   "n": "KitchenAid",
+   "cb": "3 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "kitchenaid_f4814600_1x1.jpg",
+    "4x5": "kitchenaid_f4814600_4x5.jpg",
+    "9x16": "kitchenaid_f4814600_9x16.jpg"
+   }
+  },
+  {
+   "n": "Legebyen",
+   "cb": "5 %",
+   "cat": "Børn",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "legebyen_f7fc33ed_1x1.jpg",
+    "4x5": "legebyen_f7fc33ed_4x5.jpg",
+    "9x16": "legebyen_f7fc33ed_9x16.jpg"
+   }
+  },
+  {
+   "n": "LEGO",
+   "cb": "5 %",
+   "cat": "Børn",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "lego_e16f83f3_1x1.jpg",
+    "4x5": "lego_e16f83f3_4x5.jpg",
+    "9x16": "lego_e16f83f3_9x16.jpg"
    }
   },
   {
@@ -540,6 +562,17 @@
    }
   },
   {
+   "n": "Muscle House",
+   "cb": "5 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "muscle-house_b398f24a_1x1.jpg",
+    "4x5": "muscle-house_b398f24a_4x5.jpg",
+    "9x16": "muscle-house_b398f24a_9x16.jpg"
+   }
+  },
+  {
    "n": "OiSTER",
    "cb": "200 kr",
    "cat": "Services",
@@ -551,47 +584,14 @@
    }
   },
   {
-   "n": "Philips Hue",
-   "cb": "4 %",
-   "cat": "Elektronik",
+   "n": "Special",
+   "cb": "5 %",
+   "cat": "Oplevelser & underholdning",
    "tier": "catalog",
    "imgs": {
-    "1x1": "philips-hue_f8fc5eae_1x1.jpg",
-    "4x5": "philips-hue_f8fc5eae_4x5.jpg",
-    "9x16": "philips-hue_f8fc5eae_9x16.jpg"
-   }
-  },
-  {
-   "n": "Sephora",
-   "cb": "6 %",
-   "cat": "Skønhed og Pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "sephora_946934a6_1x1.jpg",
-    "4x5": "sephora_946934a6_4x5.jpg",
-    "9x16": "sephora_946934a6_9x16.jpg"
-   }
-  },
-  {
-   "n": "Skovhuus-strik.dk",
-   "cb": "6 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "skovhuus-strikdk_b99f9659_1x1.jpg",
-    "4x5": "skovhuus-strikdk_b99f9659_4x5.jpg",
-    "9x16": "skovhuus-strikdk_b99f9659_9x16.jpg"
-   }
-  },
-  {
-   "n": "StockX",
-   "cb": "1 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "stockx_da9cd117_1x1.jpg",
-    "4x5": "stockx_da9cd117_4x5.jpg",
-    "9x16": "stockx_da9cd117_9x16.jpg"
+    "1x1": "special_92f0ab1e_1x1.jpg",
+    "4x5": "special_92f0ab1e_4x5.jpg",
+    "9x16": "special_92f0ab1e_9x16.jpg"
    }
   },
   {
@@ -603,6 +603,28 @@
     "1x1": "swapfiets_8300b341_1x1.jpg",
     "4x5": "swapfiets_8300b341_4x5.jpg",
     "9x16": "swapfiets_8300b341_9x16.jpg"
+   }
+  },
+  {
+   "n": "Vanilla Copenhagen",
+   "cb": "7 %",
+   "cat": "Børn",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "vanilla-copenhagen_7377fe02_1x1.jpg",
+    "4x5": "vanilla-copenhagen_7377fe02_4x5.jpg",
+    "9x16": "vanilla-copenhagen_7377fe02_9x16.jpg"
+   }
+  },
+  {
+   "n": "VVS.dk",
+   "cb": "2 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "vvsdk_5b868839_1x1.jpg",
+    "4x5": "vvsdk_5b868839_4x5.jpg",
+    "9x16": "vvsdk_5b868839_9x16.jpg"
    }
   }
  ],
