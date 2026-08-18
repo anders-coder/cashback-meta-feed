@@ -2,24 +2,13 @@
  "partners": [
   {
    "n": "Zalando Gavekort",
-   "cb": "8 %",
+   "cb": "15 %",
    "cat": "Mode",
    "tier": "highest",
    "imgs": {
-    "1x1": "zalando-gavekort_d94c82ed_1x1.jpg",
-    "4x5": "zalando-gavekort_d94c82ed_4x5.jpg",
-    "9x16": "zalando-gavekort_d94c82ed_9x16.jpg"
-   }
-  },
-  {
-   "n": "Care Copenhagen",
-   "cb": "12 %",
-   "cat": "Skønhed og Pleje",
-   "tier": "highest",
-   "imgs": {
-    "1x1": "care-copenhagen_f7e296ed_1x1.jpg",
-    "4x5": "care-copenhagen_f7e296ed_4x5.jpg",
-    "9x16": "care-copenhagen_f7e296ed_9x16.jpg"
+    "1x1": "zalando-gavekort_956ad93e_1x1.jpg",
+    "4x5": "zalando-gavekort_956ad93e_4x5.jpg",
+    "9x16": "zalando-gavekort_956ad93e_9x16.jpg"
    }
   },
   {
@@ -56,6 +45,17 @@
    }
   },
   {
+   "n": "Care Copenhagen",
+   "cb": "12 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "highest",
+   "imgs": {
+    "1x1": "care-copenhagen_f7e296ed_1x1.jpg",
+    "4x5": "care-copenhagen_f7e296ed_4x5.jpg",
+    "9x16": "care-copenhagen_f7e296ed_9x16.jpg"
+   }
+  },
+  {
    "n": "Øndig",
    "cb": "12 %",
    "cat": "Mode",
@@ -78,17 +78,6 @@
    }
   },
   {
-   "n": "Everlast",
-   "cb": "10 %",
-   "cat": "Sport & Fitness",
-   "tier": "highest",
-   "imgs": {
-    "1x1": "everlast_ed1af553_1x1.jpg",
-    "4x5": "everlast_ed1af553_4x5.jpg",
-    "9x16": "everlast_ed1af553_9x16.jpg"
-   }
-  },
-  {
    "n": "Cartel Copenhagen",
    "cb": "10 %",
    "cat": "Mode",
@@ -97,17 +86,6 @@
     "1x1": "cartel-copenhagen_8c70829c_1x1.jpg",
     "4x5": "cartel-copenhagen_8c70829c_4x5.jpg",
     "9x16": "cartel-copenhagen_8c70829c_9x16.jpg"
-   }
-  },
-  {
-   "n": "Anodyne",
-   "cb": "10 %",
-   "cat": "Skønhed og Pleje",
-   "tier": "highest",
-   "imgs": {
-    "1x1": "anodyne_b6f355db_1x1.jpg",
-    "4x5": "anodyne_b6f355db_4x5.jpg",
-    "9x16": "anodyne_b6f355db_9x16.jpg"
    }
   },
   {
@@ -122,6 +100,28 @@
    }
   },
   {
+   "n": "Everlast",
+   "cb": "10 %",
+   "cat": "Sport & Fitness",
+   "tier": "highest",
+   "imgs": {
+    "1x1": "everlast_ed1af553_1x1.jpg",
+    "4x5": "everlast_ed1af553_4x5.jpg",
+    "9x16": "everlast_ed1af553_9x16.jpg"
+   }
+  },
+  {
+   "n": "Anodyne",
+   "cb": "10 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "highest",
+   "imgs": {
+    "1x1": "anodyne_b6f355db_1x1.jpg",
+    "4x5": "anodyne_b6f355db_4x5.jpg",
+    "9x16": "anodyne_b6f355db_9x16.jpg"
+   }
+  },
+  {
    "n": "Xplora",
    "cb": "9 %",
    "cat": "Børn",
@@ -133,14 +133,14 @@
    }
   },
   {
-   "n": "Filibabba",
+   "n": "Comforth Scandinavia",
    "cb": "8 %",
-   "cat": "Børn",
+   "cat": "Skønhed og Pleje",
    "tier": "highest",
    "imgs": {
-    "1x1": "filibabba_17b530c8_1x1.jpg",
-    "4x5": "filibabba_17b530c8_4x5.jpg",
-    "9x16": "filibabba_17b530c8_9x16.jpg"
+    "1x1": "comforth-scandinavia_0feee937_1x1.jpg",
+    "4x5": "comforth-scandinavia_0feee937_4x5.jpg",
+    "9x16": "comforth-scandinavia_0feee937_9x16.jpg"
    }
   },
   {
@@ -292,9 +292,9 @@
    "cat": "Børn",
    "tier": "newest",
    "imgs": {
-    "1x1": "snack-boxen_4e868221_1x1.jpg",
-    "4x5": "snack-boxen_4e868221_4x5.jpg",
-    "9x16": "snack-boxen_4e868221_9x16.jpg"
+    "1x1": "snack-boxen_04f5009a_1x1.jpg",
+    "4x5": "snack-boxen_04f5009a_4x5.jpg",
+    "9x16": "snack-boxen_04f5009a_9x16.jpg"
    }
   },
   {
@@ -441,58 +441,69 @@
    }
   },
   {
-   "n": "Anne Brauner",
+   "n": "BabySam",
    "cb": "5 %",
-   "cat": "Mode",
+   "cat": "Børn",
    "tier": "catalog",
    "imgs": {
-    "1x1": "anne-brauner_519a6c03_1x1.jpg",
-    "4x5": "anne-brauner_519a6c03_4x5.jpg",
-    "9x16": "anne-brauner_519a6c03_9x16.jpg"
+    "1x1": "babysam_3beef881_1x1.jpg",
+    "4x5": "babysam_3beef881_4x5.jpg",
+    "9x16": "babysam_3beef881_9x16.jpg"
    }
   },
   {
-   "n": "Fodplejebutikken",
-   "cb": "8 %",
-   "cat": "Skønhed og Pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "fodplejebutikken_367aab2f_1x1.jpg",
-    "4x5": "fodplejebutikken_367aab2f_4x5.jpg",
-    "9x16": "fodplejebutikken_367aab2f_9x16.jpg"
-   }
-  },
-  {
-   "n": "Guldsmed Lind",
+   "n": "Blue Glass",
    "cb": "8 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "guldsmed-lind_da1fc804_1x1.jpg",
-    "4x5": "guldsmed-lind_da1fc804_4x5.jpg",
-    "9x16": "guldsmed-lind_da1fc804_9x16.jpg"
+    "1x1": "blue-glass_35dab11f_1x1.jpg",
+    "4x5": "blue-glass_35dab11f_4x5.jpg",
+    "9x16": "blue-glass_35dab11f_9x16.jpg"
    }
   },
   {
-   "n": "Havemøbelland.dk",
-   "cb": "4 %",
+   "n": "Bosch Home",
+   "cb": "2 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "havemobellanddk_5580f5a0_1x1.jpg",
-    "4x5": "havemobellanddk_5580f5a0_4x5.jpg",
-    "9x16": "havemobellanddk_5580f5a0_9x16.jpg"
+    "1x1": "bosch-home_352bad7f_1x1.jpg",
+    "4x5": "bosch-home_352bad7f_4x5.jpg",
+    "9x16": "bosch-home_352bad7f_9x16.jpg"
    }
   },
   {
-   "n": "HC Farver",
-   "cb": "3 %",
-   "cat": "Oplevelser & underholdning",
+   "n": "Bubbleroom",
+   "cb": "4 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "hc-farver_882f5ea9_1x1.jpg",
-    "4x5": "hc-farver_882f5ea9_4x5.jpg",
-    "9x16": "hc-farver_882f5ea9_9x16.jpg"
+    "1x1": "bubbleroom_de59feb7_1x1.jpg",
+    "4x5": "bubbleroom_de59feb7_4x5.jpg",
+    "9x16": "bubbleroom_de59feb7_9x16.jpg"
+   }
+  },
+  {
+   "n": "Carpardoo",
+   "cb": "5 %",
+   "cat": "Rejser, hotel & Transport",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "carpardoo_9a2afe26_1x1.jpg",
+    "4x5": "carpardoo_9a2afe26_4x5.jpg",
+    "9x16": "carpardoo_9a2afe26_9x16.jpg"
+   }
+  },
+  {
+   "n": "Homeroom",
+   "cb": "3 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "homeroom_9046abbe_1x1.jpg",
+    "4x5": "homeroom_9046abbe_4x5.jpg",
+    "9x16": "homeroom_9046abbe_9x16.jpg"
    }
   },
   {
@@ -507,39 +518,6 @@
    }
   },
   {
-   "n": "KitchenAid",
-   "cb": "3 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "kitchenaid_f4814600_1x1.jpg",
-    "4x5": "kitchenaid_f4814600_4x5.jpg",
-    "9x16": "kitchenaid_f4814600_9x16.jpg"
-   }
-  },
-  {
-   "n": "Legebyen",
-   "cb": "5 %",
-   "cat": "Børn",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "legebyen_f7fc33ed_1x1.jpg",
-    "4x5": "legebyen_f7fc33ed_4x5.jpg",
-    "9x16": "legebyen_f7fc33ed_9x16.jpg"
-   }
-  },
-  {
-   "n": "LEGO",
-   "cb": "5 %",
-   "cat": "Børn",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "lego_e16f83f3_1x1.jpg",
-    "4x5": "lego_e16f83f3_4x5.jpg",
-    "9x16": "lego_e16f83f3_9x16.jpg"
-   }
-  },
-  {
    "n": "Lounge by Zalando",
    "cb": "4 %",
    "cat": "Mode",
@@ -548,28 +526,6 @@
     "1x1": "zalando-lounge_8cdf2adc_1x1.jpg",
     "4x5": "zalando-lounge_8cdf2adc_4x5.jpg",
     "9x16": "zalando-lounge_8cdf2adc_9x16.jpg"
-   }
-  },
-  {
-   "n": "Makeup Mekka",
-   "cb": "4 %",
-   "cat": "Skønhed og Pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "makeup-mekka_a04f92a6_1x1.jpg",
-    "4x5": "makeup-mekka_a04f92a6_4x5.jpg",
-    "9x16": "makeup-mekka_a04f92a6_9x16.jpg"
-   }
-  },
-  {
-   "n": "Muscle House",
-   "cb": "5 %",
-   "cat": "Skønhed og Pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "muscle-house_b398f24a_1x1.jpg",
-    "4x5": "muscle-house_b398f24a_4x5.jpg",
-    "9x16": "muscle-house_b398f24a_9x16.jpg"
    }
   },
   {
@@ -584,14 +540,25 @@
    }
   },
   {
-   "n": "Special",
-   "cb": "5 %",
-   "cat": "Oplevelser & underholdning",
+   "n": "RITO",
+   "cb": "3 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "special_92f0ab1e_1x1.jpg",
-    "4x5": "special_92f0ab1e_4x5.jpg",
-    "9x16": "special_92f0ab1e_9x16.jpg"
+    "1x1": "rito_5a13352e_1x1.jpg",
+    "4x5": "rito_5a13352e_4x5.jpg",
+    "9x16": "rito_5a13352e_9x16.jpg"
+   }
+  },
+  {
+   "n": "Siemens Home",
+   "cb": "3 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "siemens-home_7fa34b68_1x1.jpg",
+    "4x5": "siemens-home_7fa34b68_4x5.jpg",
+    "9x16": "siemens-home_7fa34b68_9x16.jpg"
    }
   },
   {
@@ -606,25 +573,25 @@
    }
   },
   {
-   "n": "Vanilla Copenhagen",
-   "cb": "7 %",
-   "cat": "Børn",
+   "n": "Timarco",
+   "cb": "5 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "vanilla-copenhagen_7377fe02_1x1.jpg",
-    "4x5": "vanilla-copenhagen_7377fe02_4x5.jpg",
-    "9x16": "vanilla-copenhagen_7377fe02_9x16.jpg"
+    "1x1": "timarco_666e6422_1x1.jpg",
+    "4x5": "timarco_666e6422_4x5.jpg",
+    "9x16": "timarco_666e6422_9x16.jpg"
    }
   },
   {
-   "n": "VVS.dk",
-   "cb": "2 %",
+   "n": "Witt",
+   "cb": "5 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "vvsdk_5b868839_1x1.jpg",
-    "4x5": "vvsdk_5b868839_4x5.jpg",
-    "9x16": "vvsdk_5b868839_9x16.jpg"
+    "1x1": "witt_19b9c397_1x1.jpg",
+    "4x5": "witt_19b9c397_4x5.jpg",
+    "9x16": "witt_19b9c397_9x16.jpg"
    }
   }
  ],
