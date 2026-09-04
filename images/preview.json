@@ -23,6 +23,28 @@
    }
   },
   {
+   "n": "Lauridsen Vine",
+   "cb": "12 %",
+   "cat": "Dagligvarer",
+   "tier": "highest",
+   "imgs": {
+    "1x1": "lauridsen-vine_89ef2258_1x1.jpg",
+    "4x5": "lauridsen-vine_89ef2258_4x5.jpg",
+    "9x16": "lauridsen-vine_89ef2258_9x16.jpg"
+   }
+  },
+  {
+   "n": "Care Copenhagen",
+   "cb": "12 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "highest",
+   "imgs": {
+    "1x1": "care-copenhagen_f7e296ed_1x1.jpg",
+    "4x5": "care-copenhagen_f7e296ed_4x5.jpg",
+    "9x16": "care-copenhagen_f7e296ed_9x16.jpg"
+   }
+  },
+  {
    "n": "SKNS",
    "cb": "12 %",
    "cat": "Skønhed og Pleje",
@@ -56,25 +78,14 @@
    }
   },
   {
-   "n": "Care Copenhagen",
-   "cb": "12 %",
-   "cat": "Skønhed og Pleje",
+   "n": "iHero",
+   "cb": "10 %",
+   "cat": "Elektronik",
    "tier": "highest",
    "imgs": {
-    "1x1": "care-copenhagen_f7e296ed_1x1.jpg",
-    "4x5": "care-copenhagen_f7e296ed_4x5.jpg",
-    "9x16": "care-copenhagen_f7e296ed_9x16.jpg"
-   }
-  },
-  {
-   "n": "Lauridsen Vine",
-   "cb": "12 %",
-   "cat": "Dagligvarer",
-   "tier": "highest",
-   "imgs": {
-    "1x1": "lauridsen-vine_89ef2258_1x1.jpg",
-    "4x5": "lauridsen-vine_89ef2258_4x5.jpg",
-    "9x16": "lauridsen-vine_89ef2258_9x16.jpg"
+    "1x1": "ihero_641d2bac_1x1.jpg",
+    "4x5": "ihero_641d2bac_4x5.jpg",
+    "9x16": "ihero_641d2bac_9x16.jpg"
    }
   },
   {
@@ -86,17 +97,6 @@
     "1x1": "the-nap_8edfeda2_1x1.jpg",
     "4x5": "the-nap_8edfeda2_4x5.jpg",
     "9x16": "the-nap_8edfeda2_9x16.jpg"
-   }
-  },
-  {
-   "n": "iHero",
-   "cb": "10 %",
-   "cat": "Elektronik",
-   "tier": "highest",
-   "imgs": {
-    "1x1": "ihero_641d2bac_1x1.jpg",
-    "4x5": "ihero_641d2bac_4x5.jpg",
-    "9x16": "ihero_641d2bac_9x16.jpg"
    }
   },
   {
@@ -276,6 +276,17 @@
    }
   },
   {
+   "n": "FitnessFree",
+   "cb": "7 %",
+   "cat": "Sport & Fitness",
+   "tier": "newest",
+   "imgs": {
+    "1x1": "fitnessfree_ebe81ce6_1x1.jpg",
+    "4x5": "fitnessfree_ebe81ce6_4x5.jpg",
+    "9x16": "fitnessfree_ebe81ce6_9x16.jpg"
+   }
+  },
+  {
    "n": "Odense Håndbold",
    "cb": "10 %",
    "cat": "Oplevelser & underholdning",
@@ -287,47 +298,58 @@
    }
   },
   {
+   "n": "Probrush",
+   "cb": "8 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "newest",
+   "imgs": {
+    "1x1": "probrush_4f7d8c57_1x1.jpg",
+    "4x5": "probrush_4f7d8c57_4x5.jpg",
+    "9x16": "probrush_4f7d8c57_9x16.jpg"
+   }
+  },
+  {
    "n": "Yummii Yummii",
    "cb": "10 %",
    "cat": "Bolig & have",
    "tier": "newest",
    "imgs": {
-    "1x1": "yummii-yummii_df55a6c4_1x1.jpg",
-    "4x5": "yummii-yummii_df55a6c4_4x5.jpg",
-    "9x16": "yummii-yummii_df55a6c4_9x16.jpg"
+    "1x1": "yummii-yummii_315e24c1_1x1.jpg",
+    "4x5": "yummii-yummii_315e24c1_4x5.jpg",
+    "9x16": "yummii-yummii_315e24c1_9x16.jpg"
    }
   },
   {
-   "n": "Nordic Tool",
-   "cb": "5 %",
-   "cat": "Bolig & have",
+   "n": "Kajak Outdoor",
+   "cb": "6 %",
+   "cat": "Sport & Fitness",
    "tier": "newest",
    "imgs": {
-    "1x1": "nordic-tool_4b34aa24_1x1.jpg",
-    "4x5": "nordic-tool_4b34aa24_4x5.jpg",
-    "9x16": "nordic-tool_4b34aa24_9x16.jpg"
+    "1x1": "kajak-outdoor_d682db7c_1x1.jpg",
+    "4x5": "kajak-outdoor_d682db7c_4x5.jpg",
+    "9x16": "kajak-outdoor_d682db7c_9x16.jpg"
    }
   },
   {
-   "n": "DIYstudio Webshop",
+   "n": "DIYstudio.dk",
    "cb": "10 %",
    "cat": "Oplevelser & underholdning",
    "tier": "newest",
    "imgs": {
-    "1x1": "diy-studio_2c804a6a_1x1.jpg",
-    "4x5": "diy-studio_2c804a6a_4x5.jpg",
-    "9x16": "diy-studio_2c804a6a_9x16.jpg"
+    "1x1": "diy-studio_4e9f362f_1x1.jpg",
+    "4x5": "diy-studio_4e9f362f_4x5.jpg",
+    "9x16": "diy-studio_4e9f362f_9x16.jpg"
    }
   },
   {
-   "n": "Polax",
-   "cb": "7 %",
-   "cat": "Bolig & have",
+   "n": "Holdit",
+   "cb": "3 %",
+   "cat": "Mode",
    "tier": "newest",
    "imgs": {
-    "1x1": "ploax_d26c37ee_1x1.jpg",
-    "4x5": "ploax_d26c37ee_4x5.jpg",
-    "9x16": "ploax_d26c37ee_9x16.jpg"
+    "1x1": "holdit_8c987c74_1x1.jpg",
+    "4x5": "holdit_8c987c74_4x5.jpg",
+    "9x16": "holdit_8c987c74_9x16.jpg"
    }
   },
   {
@@ -339,17 +361,6 @@
     "1x1": "nordic-gear_6aab4358_1x1.jpg",
     "4x5": "nordic-gear_6aab4358_4x5.jpg",
     "9x16": "nordic-gear_6aab4358_9x16.jpg"
-   }
-  },
-  {
-   "n": "Top4Running",
-   "cb": "3 %",
-   "cat": "Sport & Fitness",
-   "tier": "newest",
-   "imgs": {
-    "1x1": "top4running_d13e13b1_1x1.jpg",
-    "4x5": "top4running_d13e13b1_4x5.jpg",
-    "9x16": "top4running_d13e13b1_9x16.jpg"
    }
   },
   {
@@ -375,14 +386,14 @@
    }
   },
   {
-   "n": "GR88",
-   "cb": "8 %",
-   "cat": "Mode",
+   "n": "Nordic Tool",
+   "cb": "5 %",
+   "cat": "Bolig & have",
    "tier": "newest",
    "imgs": {
-    "1x1": "gr88_491c9eb2_1x1.jpg",
-    "4x5": "gr88_491c9eb2_4x5.jpg",
-    "9x16": "gr88_491c9eb2_9x16.jpg"
+    "1x1": "nordic-tool_4b34aa24_1x1.jpg",
+    "4x5": "nordic-tool_4b34aa24_4x5.jpg",
+    "9x16": "nordic-tool_4b34aa24_9x16.jpg"
    }
   },
   {
@@ -397,25 +408,14 @@
    }
   },
   {
-   "n": "Reliefr",
-   "cb": "8 %",
-   "cat": "Skønhed og Pleje",
+   "n": "Polax",
+   "cb": "7 %",
+   "cat": "Bolig & have",
    "tier": "newest",
    "imgs": {
-    "1x1": "reliefr_3ee71d07_1x1.jpg",
-    "4x5": "reliefr_3ee71d07_4x5.jpg",
-    "9x16": "reliefr_3ee71d07_9x16.jpg"
-   }
-  },
-  {
-   "n": "About you",
-   "cb": "2 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "about-you_ae11816f_1x1.jpg",
-    "4x5": "about-you_ae11816f_4x5.jpg",
-    "9x16": "about-you_ae11816f_9x16.jpg"
+    "1x1": "ploax_d26c37ee_1x1.jpg",
+    "4x5": "ploax_d26c37ee_4x5.jpg",
+    "9x16": "ploax_d26c37ee_9x16.jpg"
    }
   },
   {
@@ -430,6 +430,17 @@
    }
   },
   {
+   "n": "Apopro",
+   "cb": "5 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "apopro_d0dea118_1x1.jpg",
+    "4x5": "apopro_d0dea118_4x5.jpg",
+    "9x16": "apopro_d0dea118_9x16.jpg"
+   }
+  },
+  {
    "n": "BabySam",
    "cb": "5 %",
    "cat": "Børn",
@@ -441,25 +452,14 @@
    }
   },
   {
-   "n": "BetterFeast",
-   "cb": "300 kr",
-   "cat": "Dagligvarer",
+   "n": "Björn Borg",
+   "cb": "6 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "better-feast_ec02bf63_1x1.jpg",
-    "4x5": "better-feast_ec02bf63_4x5.jpg",
-    "9x16": "better-feast_ec02bf63_9x16.jpg"
-   }
-  },
-  {
-   "n": "Blue Moon",
-   "cb": "4 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "blue-moon_f39ffa69_1x1.jpg",
-    "4x5": "blue-moon_f39ffa69_4x5.jpg",
-    "9x16": "blue-moon_f39ffa69_9x16.jpg"
+    "1x1": "bjorn-borg_5e3f4ee8_1x1.jpg",
+    "4x5": "bjorn-borg_5e3f4ee8_4x5.jpg",
+    "9x16": "bjorn-borg_5e3f4ee8_9x16.jpg"
    }
   },
   {
@@ -474,47 +474,69 @@
    }
   },
   {
-   "n": "Carpardoo",
-   "cb": "5 %",
-   "cat": "Rejser, hotel & Transport",
+   "n": "Conrad",
+   "cb": "3 %",
+   "cat": "Elektronik",
    "tier": "catalog",
    "imgs": {
-    "1x1": "carpardoo_9a2afe26_1x1.jpg",
-    "4x5": "carpardoo_9a2afe26_4x5.jpg",
-    "9x16": "carpardoo_9a2afe26_9x16.jpg"
+    "1x1": "conrad_ae9eecf8_1x1.jpg",
+    "4x5": "conrad_ae9eecf8_4x5.jpg",
+    "9x16": "conrad_ae9eecf8_9x16.jpg"
    }
   },
   {
-   "n": "Drømmeland",
-   "cb": "5 %",
-   "cat": "Bolig & have",
+   "n": "Crocs",
+   "cb": "3 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "dr-mmeland_8036415f_1x1.jpg",
-    "4x5": "dr-mmeland_8036415f_4x5.jpg",
-    "9x16": "dr-mmeland_8036415f_9x16.jpg"
+    "1x1": "crocs_45a68bc1_1x1.jpg",
+    "4x5": "crocs_45a68bc1_4x5.jpg",
+    "9x16": "crocs_45a68bc1_9x16.jpg"
    }
   },
   {
-   "n": "Dyson",
+   "n": "Filibabba",
+   "cb": "8 %",
+   "cat": "Børn",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "filibabba_17b530c8_1x1.jpg",
+    "4x5": "filibabba_17b530c8_4x5.jpg",
+    "9x16": "filibabba_17b530c8_9x16.jpg"
+   }
+  },
+  {
+   "n": "GR88",
+   "cb": "8 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "gr88_491c9eb2_1x1.jpg",
+    "4x5": "gr88_491c9eb2_4x5.jpg",
+    "9x16": "gr88_491c9eb2_9x16.jpg"
+   }
+  },
+  {
+   "n": "Lenovo",
    "cb": "2 %",
-   "cat": "Bolig & have",
+   "cat": "Elektronik",
    "tier": "catalog",
    "imgs": {
-    "1x1": "dyson_8e1368c6_1x1.jpg",
-    "4x5": "dyson_8e1368c6_4x5.jpg",
-    "9x16": "dyson_8e1368c6_9x16.jpg"
+    "1x1": "lenovo-2_0f65256f_1x1.jpg",
+    "4x5": "lenovo-2_0f65256f_4x5.jpg",
+    "9x16": "lenovo-2_0f65256f_9x16.jpg"
    }
   },
   {
-   "n": "eesy 5G internet",
-   "cb": "500 kr",
-   "cat": "Services",
+   "n": "Living Flowers",
+   "cb": "5 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "eesy-5g-internetddd_1d318b27_1x1.jpg",
-    "4x5": "eesy-5g-internetddd_1d318b27_4x5.jpg",
-    "9x16": "eesy-5g-internetddd_1d318b27_9x16.jpg"
+    "1x1": "living-flowers_11ee9065_1x1.jpg",
+    "4x5": "living-flowers_11ee9065_4x5.jpg",
+    "9x16": "living-flowers_11ee9065_9x16.jpg"
    }
   },
   {
@@ -529,6 +551,17 @@
    }
   },
   {
+   "n": "Lyko",
+   "cb": "5 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "lyko_99ab70c8_1x1.jpg",
+    "4x5": "lyko_99ab70c8_4x5.jpg",
+    "9x16": "lyko_99ab70c8_9x16.jpg"
+   }
+  },
+  {
    "n": "OiSTER",
    "cb": "350 kr",
    "cat": "Services",
@@ -540,80 +573,58 @@
    }
   },
   {
-   "n": "Pilgrim",
-   "cb": "5 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "pilgrim_97cdddd6_1x1.jpg",
-    "4x5": "pilgrim_97cdddd6_4x5.jpg",
-    "9x16": "pilgrim_97cdddd6_9x16.jpg"
-   }
-  },
-  {
-   "n": "Rennoa",
+   "n": "Reliefr",
    "cb": "8 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "reliefr_3ee71d07_1x1.jpg",
+    "4x5": "reliefr_3ee71d07_4x5.jpg",
+    "9x16": "reliefr_3ee71d07_9x16.jpg"
+   }
+  },
+  {
+   "n": "Telmore Internet",
+   "cb": "200 kr",
+   "cat": "Internet",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "telmore-internet_bd338a97_1x1.jpg",
+    "4x5": "telmore-internet_bd338a97_4x5.jpg",
+    "9x16": "telmore-internet_bd338a97_9x16.jpg"
+   }
+  },
+  {
+   "n": "Top4Running",
+   "cb": "3 %",
+   "cat": "Sport & Fitness",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "top4running_d13e13b1_1x1.jpg",
+    "4x5": "top4running_d13e13b1_4x5.jpg",
+    "9x16": "top4running_d13e13b1_9x16.jpg"
+   }
+  },
+  {
+   "n": "Vinkøleskabet",
+   "cb": "4 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "rennoa_74d851b8_1x1.jpg",
-    "4x5": "rennoa_74d851b8_4x5.jpg",
-    "9x16": "rennoa_74d851b8_9x16.jpg"
+    "1x1": "vinkoleskabet_991121a8_1x1.jpg",
+    "4x5": "vinkoleskabet_991121a8_4x5.jpg",
+    "9x16": "vinkoleskabet_991121a8_9x16.jpg"
    }
   },
   {
-   "n": "Rikki Tikki Shop",
-   "cb": "5 %",
+   "n": "XL Møbler",
+   "cb": "4 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "rikki-tikki-shop_cc4c9a99_1x1.jpg",
-    "4x5": "rikki-tikki-shop_cc4c9a99_4x5.jpg",
-    "9x16": "rikki-tikki-shop_cc4c9a99_9x16.jpg"
-   }
-  },
-  {
-   "n": "Smartphoto",
-   "cb": "5 %",
-   "cat": "Oplevelser & underholdning",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "smartphoto_d13f1493_1x1.jpg",
-    "4x5": "smartphoto_d13f1493_4x5.jpg",
-    "9x16": "smartphoto_d13f1493_9x16.jpg"
-   }
-  },
-  {
-   "n": "SPS Wine",
-   "cb": "8 %",
-   "cat": "Dagligvarer",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "sps-wine_640123f3_1x1.jpg",
-    "4x5": "sps-wine_640123f3_4x5.jpg",
-    "9x16": "sps-wine_640123f3_9x16.jpg"
-   }
-  },
-  {
-   "n": "Storage And Shelves",
-   "cb": "5 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "storage-and-shelves_59d73aef_1x1.jpg",
-    "4x5": "storage-and-shelves_59d73aef_4x5.jpg",
-    "9x16": "storage-and-shelves_59d73aef_9x16.jpg"
-   }
-  },
-  {
-   "n": "Timarco",
-   "cb": "5 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "timarco_666e6422_1x1.jpg",
-    "4x5": "timarco_666e6422_4x5.jpg",
-    "9x16": "timarco_666e6422_9x16.jpg"
+    "1x1": "xl-mobler_6b3883c7_1x1.jpg",
+    "4x5": "xl-mobler_6b3883c7_4x5.jpg",
+    "9x16": "xl-mobler_6b3883c7_9x16.jpg"
    }
   }
  ],
