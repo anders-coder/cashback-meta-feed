@@ -145,13 +145,13 @@
   },
   {
    "n": "Hotels.com",
-   "cb": "8 %",
+   "cb": "6 %",
    "cat": "Rejser, hotel & Transport",
    "tier": "popular",
    "imgs": {
-    "1x1": "hotelscom_18b4859e_1x1.jpg",
-    "4x5": "hotelscom_18b4859e_4x5.jpg",
-    "9x16": "hotelscom_18b4859e_9x16.jpg"
+    "1x1": "hotelscom_d5bc48aa_1x1.jpg",
+    "4x5": "hotelscom_d5bc48aa_4x5.jpg",
+    "9x16": "hotelscom_d5bc48aa_9x16.jpg"
    }
   },
   {
@@ -276,14 +276,14 @@
    }
   },
   {
-   "n": "FitnessFree",
-   "cb": "7 %",
-   "cat": "Sport & Fitness",
+   "n": "Winefriends",
+   "cb": "6 %",
+   "cat": "Dagligvarer",
    "tier": "newest",
    "imgs": {
-    "1x1": "fitnessfree_ebe81ce6_1x1.jpg",
-    "4x5": "fitnessfree_ebe81ce6_4x5.jpg",
-    "9x16": "fitnessfree_ebe81ce6_9x16.jpg"
+    "1x1": "winefriends_8d49e541_1x1.jpg",
+    "4x5": "winefriends_8d49e541_4x5.jpg",
+    "9x16": "winefriends_8d49e541_9x16.jpg"
    }
   },
   {
@@ -298,14 +298,14 @@
    }
   },
   {
-   "n": "Probrush",
-   "cb": "8 %",
-   "cat": "Skønhed og Pleje",
+   "n": "FitnessFree",
+   "cb": "7 %",
+   "cat": "Sport & Fitness",
    "tier": "newest",
    "imgs": {
-    "1x1": "probrush_4f7d8c57_1x1.jpg",
-    "4x5": "probrush_4f7d8c57_4x5.jpg",
-    "9x16": "probrush_4f7d8c57_9x16.jpg"
+    "1x1": "fitnessfree_ebe81ce6_1x1.jpg",
+    "4x5": "fitnessfree_ebe81ce6_4x5.jpg",
+    "9x16": "fitnessfree_ebe81ce6_9x16.jpg"
    }
   },
   {
@@ -320,14 +320,14 @@
    }
   },
   {
-   "n": "Kajak Outdoor",
-   "cb": "6 %",
-   "cat": "Sport & Fitness",
+   "n": "Probrush",
+   "cb": "8 %",
+   "cat": "Skønhed og Pleje",
    "tier": "newest",
    "imgs": {
-    "1x1": "kajak-outdoor_d682db7c_1x1.jpg",
-    "4x5": "kajak-outdoor_d682db7c_4x5.jpg",
-    "9x16": "kajak-outdoor_d682db7c_9x16.jpg"
+    "1x1": "probrush_4f7d8c57_1x1.jpg",
+    "4x5": "probrush_4f7d8c57_4x5.jpg",
+    "9x16": "probrush_4f7d8c57_9x16.jpg"
    }
   },
   {
@@ -342,14 +342,14 @@
    }
   },
   {
-   "n": "Holdit",
-   "cb": "3 %",
-   "cat": "Mode",
+   "n": "Kajak Outdoor",
+   "cb": "6 %",
+   "cat": "Sport & Fitness",
    "tier": "newest",
    "imgs": {
-    "1x1": "holdit_8c987c74_1x1.jpg",
-    "4x5": "holdit_8c987c74_4x5.jpg",
-    "9x16": "holdit_8c987c74_9x16.jpg"
+    "1x1": "kajak-outdoor_d682db7c_1x1.jpg",
+    "4x5": "kajak-outdoor_d682db7c_4x5.jpg",
+    "9x16": "kajak-outdoor_d682db7c_9x16.jpg"
    }
   },
   {
@@ -361,6 +361,17 @@
     "1x1": "nordic-gear_6aab4358_1x1.jpg",
     "4x5": "nordic-gear_6aab4358_4x5.jpg",
     "9x16": "nordic-gear_6aab4358_9x16.jpg"
+   }
+  },
+  {
+   "n": "Holdit",
+   "cb": "3 %",
+   "cat": "Mode",
+   "tier": "newest",
+   "imgs": {
+    "1x1": "holdit_8c987c74_1x1.jpg",
+    "4x5": "holdit_8c987c74_4x5.jpg",
+    "9x16": "holdit_8c987c74_9x16.jpg"
    }
   },
   {
@@ -386,17 +397,6 @@
    }
   },
   {
-   "n": "Nordic Tool",
-   "cb": "5 %",
-   "cat": "Bolig & have",
-   "tier": "newest",
-   "imgs": {
-    "1x1": "nordic-tool_4b34aa24_1x1.jpg",
-    "4x5": "nordic-tool_4b34aa24_4x5.jpg",
-    "9x16": "nordic-tool_4b34aa24_9x16.jpg"
-   }
-  },
-  {
    "n": "UgleCare.dk",
    "cb": "3 %",
    "cat": "Skønhed & pleje",
@@ -408,25 +408,14 @@
    }
   },
   {
-   "n": "Polax",
-   "cb": "7 %",
+   "n": "Nordic Tool",
+   "cb": "5 %",
    "cat": "Bolig & have",
    "tier": "newest",
    "imgs": {
-    "1x1": "ploax_d26c37ee_1x1.jpg",
-    "4x5": "ploax_d26c37ee_4x5.jpg",
-    "9x16": "ploax_d26c37ee_9x16.jpg"
-   }
-  },
-  {
-   "n": "Animigo",
-   "cb": "7 %",
-   "cat": "Dyr",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "animigo_c4aa6db6_1x1.jpg",
-    "4x5": "animigo_c4aa6db6_4x5.jpg",
-    "9x16": "animigo_c4aa6db6_9x16.jpg"
+    "1x1": "nordic-tool_4b34aa24_1x1.jpg",
+    "4x5": "nordic-tool_4b34aa24_4x5.jpg",
+    "9x16": "nordic-tool_4b34aa24_9x16.jpg"
    }
   },
   {
@@ -452,58 +441,36 @@
    }
   },
   {
-   "n": "Björn Borg",
+   "n": "Bovari",
+   "cb": "8 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "bovari_c85741b3_1x1.jpg",
+    "4x5": "bovari_c85741b3_4x5.jpg",
+    "9x16": "bovari_c85741b3_9x16.jpg"
+   }
+  },
+  {
+   "n": "Cocopanda",
+   "cb": "4 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "cocopanda_241e9817_1x1.jpg",
+    "4x5": "cocopanda_241e9817_4x5.jpg",
+    "9x16": "cocopanda_241e9817_9x16.jpg"
+   }
+  },
+  {
+   "n": "Dansk.dk",
    "cb": "6 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "bjorn-borg_5e3f4ee8_1x1.jpg",
-    "4x5": "bjorn-borg_5e3f4ee8_4x5.jpg",
-    "9x16": "bjorn-borg_5e3f4ee8_9x16.jpg"
-   }
-  },
-  {
-   "n": "CallMe 5G Internet",
-   "cb": "400 kr",
-   "cat": "Services",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "callme-5g-internet_f9e416ef_1x1.jpg",
-    "4x5": "callme-5g-internet_f9e416ef_4x5.jpg",
-    "9x16": "callme-5g-internet_f9e416ef_9x16.jpg"
-   }
-  },
-  {
-   "n": "Conrad",
-   "cb": "3 %",
-   "cat": "Elektronik",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "conrad_ae9eecf8_1x1.jpg",
-    "4x5": "conrad_ae9eecf8_4x5.jpg",
-    "9x16": "conrad_ae9eecf8_9x16.jpg"
-   }
-  },
-  {
-   "n": "Crocs",
-   "cb": "3 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "crocs_45a68bc1_1x1.jpg",
-    "4x5": "crocs_45a68bc1_4x5.jpg",
-    "9x16": "crocs_45a68bc1_9x16.jpg"
-   }
-  },
-  {
-   "n": "Filibabba",
-   "cb": "8 %",
-   "cat": "Børn",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "filibabba_17b530c8_1x1.jpg",
-    "4x5": "filibabba_17b530c8_4x5.jpg",
-    "9x16": "filibabba_17b530c8_9x16.jpg"
+    "1x1": "danskdk_792645e0_1x1.jpg",
+    "4x5": "danskdk_792645e0_4x5.jpg",
+    "9x16": "danskdk_792645e0_9x16.jpg"
    }
   },
   {
@@ -518,25 +485,14 @@
    }
   },
   {
-   "n": "Lenovo",
-   "cb": "2 %",
-   "cat": "Elektronik",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "lenovo-2_0f65256f_1x1.jpg",
-    "4x5": "lenovo-2_0f65256f_4x5.jpg",
-    "9x16": "lenovo-2_0f65256f_9x16.jpg"
-   }
-  },
-  {
-   "n": "Living Flowers",
-   "cb": "5 %",
+   "n": "Homeshop",
+   "cb": "1 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "living-flowers_11ee9065_1x1.jpg",
-    "4x5": "living-flowers_11ee9065_4x5.jpg",
-    "9x16": "living-flowers_11ee9065_9x16.jpg"
+    "1x1": "homeshop_40f10603_1x1.jpg",
+    "4x5": "homeshop_40f10603_4x5.jpg",
+    "9x16": "homeshop_40f10603_9x16.jpg"
    }
   },
   {
@@ -551,14 +507,14 @@
    }
   },
   {
-   "n": "Lyko",
+   "n": "MyProtein",
    "cb": "5 %",
    "cat": "Skønhed og Pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "lyko_99ab70c8_1x1.jpg",
-    "4x5": "lyko_99ab70c8_4x5.jpg",
-    "9x16": "lyko_99ab70c8_9x16.jpg"
+    "1x1": "myprotein_69b80caf_1x1.jpg",
+    "4x5": "myprotein_69b80caf_4x5.jpg",
+    "9x16": "myprotein_69b80caf_9x16.jpg"
    }
   },
   {
@@ -573,25 +529,36 @@
    }
   },
   {
-   "n": "Reliefr",
-   "cb": "8 %",
-   "cat": "Skønhed og Pleje",
+   "n": "Polax",
+   "cb": "7 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "reliefr_3ee71d07_1x1.jpg",
-    "4x5": "reliefr_3ee71d07_4x5.jpg",
-    "9x16": "reliefr_3ee71d07_9x16.jpg"
+    "1x1": "ploax_d26c37ee_1x1.jpg",
+    "4x5": "ploax_d26c37ee_4x5.jpg",
+    "9x16": "ploax_d26c37ee_9x16.jpg"
    }
   },
   {
-   "n": "Telmore Internet",
-   "cb": "200 kr",
-   "cat": "Internet",
+   "n": "RITO",
+   "cb": "3 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "telmore-internet_bd338a97_1x1.jpg",
-    "4x5": "telmore-internet_bd338a97_4x5.jpg",
-    "9x16": "telmore-internet_bd338a97_9x16.jpg"
+    "1x1": "rito_5a13352e_1x1.jpg",
+    "4x5": "rito_5a13352e_4x5.jpg",
+    "9x16": "rito_5a13352e_9x16.jpg"
+   }
+  },
+  {
+   "n": "Støvsugerbanden",
+   "cb": "5 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "stovsugerbanden_a55cdaa0_1x1.jpg",
+    "4x5": "stovsugerbanden_a55cdaa0_4x5.jpg",
+    "9x16": "stovsugerbanden_a55cdaa0_9x16.jpg"
    }
   },
   {
@@ -606,25 +573,14 @@
    }
   },
   {
-   "n": "Vinkøleskabet",
-   "cb": "4 %",
-   "cat": "Bolig & have",
+   "n": "Zooplus",
+   "cb": "3 %",
+   "cat": "Dyr",
    "tier": "catalog",
    "imgs": {
-    "1x1": "vinkoleskabet_991121a8_1x1.jpg",
-    "4x5": "vinkoleskabet_991121a8_4x5.jpg",
-    "9x16": "vinkoleskabet_991121a8_9x16.jpg"
-   }
-  },
-  {
-   "n": "XL Møbler",
-   "cb": "4 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "xl-mobler_6b3883c7_1x1.jpg",
-    "4x5": "xl-mobler_6b3883c7_4x5.jpg",
-    "9x16": "xl-mobler_6b3883c7_9x16.jpg"
+    "1x1": "zooplus_177573af_1x1.jpg",
+    "4x5": "zooplus_177573af_4x5.jpg",
+    "9x16": "zooplus_177573af_9x16.jpg"
    }
   }
  ],
