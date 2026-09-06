@@ -166,14 +166,14 @@
    }
   },
   {
-   "n": "Løberen.dk",
+   "n": "Løberen - København",
    "cb": "6 %",
    "cat": "Sport & fitness",
    "tier": "popular",
    "imgs": {
-    "1x1": "loberen_8c5edd35_1x1.jpg",
-    "4x5": "loberen_8c5edd35_4x5.jpg",
-    "9x16": "loberen_8c5edd35_9x16.jpg"
+    "1x1": "loberen_c15496a6_1x1.jpg",
+    "4x5": "loberen_c15496a6_4x5.jpg",
+    "9x16": "loberen_c15496a6_9x16.jpg"
    }
   },
   {
@@ -419,17 +419,6 @@
    }
   },
   {
-   "n": "Apopro",
-   "cb": "5 %",
-   "cat": "Skønhed og Pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "apopro_d0dea118_1x1.jpg",
-    "4x5": "apopro_d0dea118_4x5.jpg",
-    "9x16": "apopro_d0dea118_9x16.jpg"
-   }
-  },
-  {
    "n": "BabySam",
    "cb": "5 %",
    "cat": "Børn",
@@ -441,36 +430,14 @@
    }
   },
   {
-   "n": "Bovari",
-   "cb": "8 %",
-   "cat": "Bolig & have",
+   "n": "CallMe 5G Internet",
+   "cb": "400 kr",
+   "cat": "Services",
    "tier": "catalog",
    "imgs": {
-    "1x1": "bovari_c85741b3_1x1.jpg",
-    "4x5": "bovari_c85741b3_4x5.jpg",
-    "9x16": "bovari_c85741b3_9x16.jpg"
-   }
-  },
-  {
-   "n": "Cocopanda",
-   "cb": "4 %",
-   "cat": "Skønhed og Pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "cocopanda_241e9817_1x1.jpg",
-    "4x5": "cocopanda_241e9817_4x5.jpg",
-    "9x16": "cocopanda_241e9817_9x16.jpg"
-   }
-  },
-  {
-   "n": "Dansk.dk",
-   "cb": "6 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "danskdk_792645e0_1x1.jpg",
-    "4x5": "danskdk_792645e0_4x5.jpg",
-    "9x16": "danskdk_792645e0_9x16.jpg"
+    "1x1": "callme-5g-internet_f9e416ef_1x1.jpg",
+    "4x5": "callme-5g-internet_f9e416ef_4x5.jpg",
+    "9x16": "callme-5g-internet_f9e416ef_9x16.jpg"
    }
   },
   {
@@ -485,14 +452,36 @@
    }
   },
   {
-   "n": "Homeshop",
-   "cb": "1 %",
-   "cat": "Bolig & have",
+   "n": "Jabra",
+   "cb": "4 %",
+   "cat": "Elektronik",
    "tier": "catalog",
    "imgs": {
-    "1x1": "homeshop_40f10603_1x1.jpg",
-    "4x5": "homeshop_40f10603_4x5.jpg",
-    "9x16": "homeshop_40f10603_9x16.jpg"
+    "1x1": "jabra_84cfcc29_1x1.jpg",
+    "4x5": "jabra_84cfcc29_4x5.jpg",
+    "9x16": "jabra_84cfcc29_9x16.jpg"
+   }
+  },
+  {
+   "n": "Lebara",
+   "cb": "80 kr",
+   "cat": "Mobiltelefoni",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "lebara_42bebcba_1x1.jpg",
+    "4x5": "lebara_42bebcba_4x5.jpg",
+    "9x16": "lebara_42bebcba_9x16.jpg"
+   }
+  },
+  {
+   "n": "LEGO",
+   "cb": "5 %",
+   "cat": "Børn",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "lego_e16f83f3_1x1.jpg",
+    "4x5": "lego_e16f83f3_4x5.jpg",
+    "9x16": "lego_e16f83f3_9x16.jpg"
    }
   },
   {
@@ -507,14 +496,14 @@
    }
   },
   {
-   "n": "MyProtein",
-   "cb": "5 %",
-   "cat": "Skønhed og Pleje",
+   "n": "Micha Fashion",
+   "cb": "6 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "myprotein_69b80caf_1x1.jpg",
-    "4x5": "myprotein_69b80caf_4x5.jpg",
-    "9x16": "myprotein_69b80caf_9x16.jpg"
+    "1x1": "micha-fashion_b6843fff_1x1.jpg",
+    "4x5": "micha-fashion_b6843fff_4x5.jpg",
+    "9x16": "micha-fashion_b6843fff_9x16.jpg"
    }
   },
   {
@@ -529,6 +518,17 @@
    }
   },
   {
+   "n": "Pixizoo",
+   "cb": "5 %",
+   "cat": "Børn",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "pixizoo-1_7b78e48d_1x1.jpg",
+    "4x5": "pixizoo-1_7b78e48d_4x5.jpg",
+    "9x16": "pixizoo-1_7b78e48d_9x16.jpg"
+   }
+  },
+  {
    "n": "Polax",
    "cb": "7 %",
    "cat": "Bolig & have",
@@ -540,25 +540,25 @@
    }
   },
   {
-   "n": "RITO",
-   "cb": "3 %",
-   "cat": "Bolig & have",
+   "n": "Robell",
+   "cb": "6 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "rito_5a13352e_1x1.jpg",
-    "4x5": "rito_5a13352e_4x5.jpg",
-    "9x16": "rito_5a13352e_9x16.jpg"
+    "1x1": "robell_09274fcf_1x1.jpg",
+    "4x5": "robell_09274fcf_4x5.jpg",
+    "9x16": "robell_09274fcf_9x16.jpg"
    }
   },
   {
-   "n": "Støvsugerbanden",
-   "cb": "5 %",
-   "cat": "Bolig & have",
+   "n": "Stradivarius",
+   "cb": "4 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "stovsugerbanden_a55cdaa0_1x1.jpg",
-    "4x5": "stovsugerbanden_a55cdaa0_4x5.jpg",
-    "9x16": "stovsugerbanden_a55cdaa0_9x16.jpg"
+    "1x1": "stradivarius_e5a065ec_1x1.jpg",
+    "4x5": "stradivarius_e5a065ec_4x5.jpg",
+    "9x16": "stradivarius_e5a065ec_9x16.jpg"
    }
   },
   {
@@ -573,14 +573,25 @@
    }
   },
   {
-   "n": "Zooplus",
-   "cb": "3 %",
-   "cat": "Dyr",
+   "n": "Viator",
+   "cb": "2 %",
+   "cat": "Sport & Fitness",
    "tier": "catalog",
    "imgs": {
-    "1x1": "zooplus_177573af_1x1.jpg",
-    "4x5": "zooplus_177573af_4x5.jpg",
-    "9x16": "zooplus_177573af_9x16.jpg"
+    "1x1": "viator_64b8f414_1x1.jpg",
+    "4x5": "viator_64b8f414_4x5.jpg",
+    "9x16": "viator_64b8f414_9x16.jpg"
+   }
+  },
+  {
+   "n": "VidaXL",
+   "cb": "4 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "vida-xl-se_a8eb3ec6_1x1.jpg",
+    "4x5": "vida-xl-se_a8eb3ec6_4x5.jpg",
+    "9x16": "vida-xl-se_a8eb3ec6_9x16.jpg"
    }
   }
  ],
