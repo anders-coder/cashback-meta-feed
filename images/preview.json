@@ -23,28 +23,6 @@
    }
   },
   {
-   "n": "Care Copenhagen",
-   "cb": "12 %",
-   "cat": "Skønhed og Pleje",
-   "tier": "highest",
-   "imgs": {
-    "1x1": "care-copenhagen_f7e296ed_1x1.jpg",
-    "4x5": "care-copenhagen_f7e296ed_4x5.jpg",
-    "9x16": "care-copenhagen_f7e296ed_9x16.jpg"
-   }
-  },
-  {
-   "n": "Øndig",
-   "cb": "12 %",
-   "cat": "Mode",
-   "tier": "highest",
-   "imgs": {
-    "1x1": "ondig_a50f9c8f_1x1.jpg",
-    "4x5": "ondig_a50f9c8f_4x5.jpg",
-    "9x16": "ondig_a50f9c8f_9x16.jpg"
-   }
-  },
-  {
    "n": "BruseFilteret",
    "cb": "12 %",
    "cat": "Bolig & have",
@@ -67,6 +45,17 @@
    }
   },
   {
+   "n": "Lenson",
+   "cb": "12 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "highest",
+   "imgs": {
+    "1x1": "lenson_554475e5_1x1.jpg",
+    "4x5": "lenson_554475e5_4x5.jpg",
+    "9x16": "lenson_554475e5_9x16.jpg"
+   }
+  },
+  {
    "n": "SKNS",
    "cb": "12 %",
    "cat": "Skønhed og Pleje",
@@ -78,36 +67,25 @@
    }
   },
   {
-   "n": "Everlast",
-   "cb": "10 %",
-   "cat": "Sport & Fitness",
+   "n": "Care Copenhagen",
+   "cb": "12 %",
+   "cat": "Skønhed og Pleje",
    "tier": "highest",
    "imgs": {
-    "1x1": "everlast_ed1af553_1x1.jpg",
-    "4x5": "everlast_ed1af553_4x5.jpg",
-    "9x16": "everlast_ed1af553_9x16.jpg"
+    "1x1": "care-copenhagen_f7e296ed_1x1.jpg",
+    "4x5": "care-copenhagen_f7e296ed_4x5.jpg",
+    "9x16": "care-copenhagen_f7e296ed_9x16.jpg"
    }
   },
   {
-   "n": "iHero",
-   "cb": "10 %",
-   "cat": "Elektronik",
+   "n": "Øndig",
+   "cb": "12 %",
+   "cat": "Mode",
    "tier": "highest",
    "imgs": {
-    "1x1": "ihero_641d2bac_1x1.jpg",
-    "4x5": "ihero_641d2bac_4x5.jpg",
-    "9x16": "ihero_641d2bac_9x16.jpg"
-   }
-  },
-  {
-   "n": "The Nap",
-   "cb": "10 %",
-   "cat": "Bolig & have",
-   "tier": "highest",
-   "imgs": {
-    "1x1": "the-nap_8edfeda2_1x1.jpg",
-    "4x5": "the-nap_8edfeda2_4x5.jpg",
-    "9x16": "the-nap_8edfeda2_9x16.jpg"
+    "1x1": "ondig_a50f9c8f_1x1.jpg",
+    "4x5": "ondig_a50f9c8f_4x5.jpg",
+    "9x16": "ondig_a50f9c8f_9x16.jpg"
    }
   },
   {
@@ -122,6 +100,17 @@
    }
   },
   {
+   "n": "iHero",
+   "cb": "10 %",
+   "cat": "Elektronik",
+   "tier": "highest",
+   "imgs": {
+    "1x1": "ihero_641d2bac_1x1.jpg",
+    "4x5": "ihero_641d2bac_4x5.jpg",
+    "9x16": "ihero_641d2bac_9x16.jpg"
+   }
+  },
+  {
    "n": "Anodyne",
    "cb": "10 %",
    "cat": "Skønhed og Pleje",
@@ -133,14 +122,25 @@
    }
   },
   {
-   "n": "Xplora",
-   "cb": "9 %",
-   "cat": "Børn",
+   "n": "The Nap",
+   "cb": "10 %",
+   "cat": "Bolig & have",
    "tier": "highest",
    "imgs": {
-    "1x1": "xplora_c7918086_1x1.jpg",
-    "4x5": "xplora_c7918086_4x5.jpg",
-    "9x16": "xplora_c7918086_9x16.jpg"
+    "1x1": "the-nap_8edfeda2_1x1.jpg",
+    "4x5": "the-nap_8edfeda2_4x5.jpg",
+    "9x16": "the-nap_8edfeda2_9x16.jpg"
+   }
+  },
+  {
+   "n": "Everlast",
+   "cb": "10 %",
+   "cat": "Sport & Fitness",
+   "tier": "highest",
+   "imgs": {
+    "1x1": "everlast_ed1af553_1x1.jpg",
+    "4x5": "everlast_ed1af553_4x5.jpg",
+    "9x16": "everlast_ed1af553_9x16.jpg"
    }
   },
   {
@@ -166,14 +166,14 @@
    }
   },
   {
-   "n": "Løberen.dk",
+   "n": "Løberen - København",
    "cb": "6 %",
    "cat": "Sport & fitness",
    "tier": "popular",
    "imgs": {
-    "1x1": "loberen_8c5edd35_1x1.jpg",
-    "4x5": "loberen_8c5edd35_4x5.jpg",
-    "9x16": "loberen_8c5edd35_9x16.jpg"
+    "1x1": "loberen_c15496a6_1x1.jpg",
+    "4x5": "loberen_c15496a6_4x5.jpg",
+    "9x16": "loberen_c15496a6_9x16.jpg"
    }
   },
   {
@@ -419,17 +419,6 @@
    }
   },
   {
-   "n": "Albert",
-   "cb": "70 kr",
-   "cat": "Streaming",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "albert_555aee06_1x1.jpg",
-    "4x5": "albert_555aee06_4x5.jpg",
-    "9x16": "albert_555aee06_9x16.jpg"
-   }
-  },
-  {
    "n": "Apopro",
    "cb": "5 %",
    "cat": "Skønhed og Pleje",
@@ -438,6 +427,17 @@
     "1x1": "apopro_d0dea118_1x1.jpg",
     "4x5": "apopro_d0dea118_4x5.jpg",
     "9x16": "apopro_d0dea118_9x16.jpg"
+   }
+  },
+  {
+   "n": "Avis",
+   "cb": "5 %",
+   "cat": "Services",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "avis_90e7be26_1x1.jpg",
+    "4x5": "avis_90e7be26_4x5.jpg",
+    "9x16": "avis_90e7be26_9x16.jpg"
    }
   },
   {
@@ -452,36 +452,25 @@
    }
   },
   {
-   "n": "Bottle Hero",
-   "cb": "6 %",
-   "cat": "Dagligvarer",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "bottle-hero_e9b91935_1x1.jpg",
-    "4x5": "bottle-hero_e9b91935_4x5.jpg",
-    "9x16": "bottle-hero_e9b91935_9x16.jpg"
-   }
-  },
-  {
-   "n": "Carpardoo",
-   "cb": "5 %",
-   "cat": "Rejser, hotel & Transport",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "carpardoo_9a2afe26_1x1.jpg",
-    "4x5": "carpardoo_9a2afe26_4x5.jpg",
-    "9x16": "carpardoo_9a2afe26_9x16.jpg"
-   }
-  },
-  {
-   "n": "Dyson",
-   "cb": "2 %",
+   "n": "Blue Moon",
+   "cb": "4 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "dyson_8e1368c6_1x1.jpg",
-    "4x5": "dyson_8e1368c6_4x5.jpg",
-    "9x16": "dyson_8e1368c6_9x16.jpg"
+    "1x1": "blue-moon_f39ffa69_1x1.jpg",
+    "4x5": "blue-moon_f39ffa69_4x5.jpg",
+    "9x16": "blue-moon_f39ffa69_9x16.jpg"
+   }
+  },
+  {
+   "n": "Botex.dk",
+   "cb": "6 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "botexdk_ac00021d_1x1.jpg",
+    "4x5": "botexdk_ac00021d_4x5.jpg",
+    "9x16": "botexdk_ac00021d_9x16.jpg"
    }
   },
   {
@@ -496,36 +485,36 @@
    }
   },
   {
-   "n": "Green Comfort",
-   "cb": "4 %",
+   "n": "Guldsmed Lind",
+   "cb": "8 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "green-comfort_8e1ddf99_1x1.jpg",
-    "4x5": "green-comfort_8e1ddf99_4x5.jpg",
-    "9x16": "green-comfort_8e1ddf99_9x16.jpg"
+    "1x1": "guldsmed-lind_da1fc804_1x1.jpg",
+    "4x5": "guldsmed-lind_da1fc804_4x5.jpg",
+    "9x16": "guldsmed-lind_da1fc804_9x16.jpg"
    }
   },
   {
-   "n": "Gulv & Fliseeksperten",
-   "cb": "2 %",
-   "cat": "Bolig & have",
+   "n": "JD Sports",
+   "cb": "4 %",
+   "cat": "Sport & Fitness",
    "tier": "catalog",
    "imgs": {
-    "1x1": "gulv-flise-eksperten_0f5dd6c6_1x1.jpg",
-    "4x5": "gulv-flise-eksperten_0f5dd6c6_4x5.jpg",
-    "9x16": "gulv-flise-eksperten_0f5dd6c6_9x16.jpg"
+    "1x1": "jd-sports-dk_29d653cd_1x1.jpg",
+    "4x5": "jd-sports-dk_29d653cd_4x5.jpg",
+    "9x16": "jd-sports-dk_29d653cd_9x16.jpg"
    }
   },
   {
-   "n": "Interflora",
-   "cb": "7 %",
+   "n": "Lampemesteren",
+   "cb": "3 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "interflora_ed110d73_1x1.jpg",
-    "4x5": "interflora_ed110d73_4x5.jpg",
-    "9x16": "interflora_ed110d73_9x16.jpg"
+    "1x1": "lampemesteren_57e5b574_1x1.jpg",
+    "4x5": "lampemesteren_57e5b574_4x5.jpg",
+    "9x16": "lampemesteren_57e5b574_9x16.jpg"
    }
   },
   {
@@ -540,25 +529,25 @@
    }
   },
   {
-   "n": "Løbeshop",
-   "cb": "2 %",
-   "cat": "Sport & Fitness",
+   "n": "Lyko",
+   "cb": "5 %",
+   "cat": "Skønhed og Pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "lobeshop_01e6d8a8_1x1.jpg",
-    "4x5": "lobeshop_01e6d8a8_4x5.jpg",
-    "9x16": "lobeshop_01e6d8a8_9x16.jpg"
+    "1x1": "lyko_99ab70c8_1x1.jpg",
+    "4x5": "lyko_99ab70c8_4x5.jpg",
+    "9x16": "lyko_99ab70c8_9x16.jpg"
    }
   },
   {
-   "n": "Micha Fashion",
-   "cb": "6 %",
-   "cat": "Mode",
+   "n": "Newport",
+   "cb": "5 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "micha-fashion_b6843fff_1x1.jpg",
-    "4x5": "micha-fashion_b6843fff_4x5.jpg",
-    "9x16": "micha-fashion_b6843fff_9x16.jpg"
+    "1x1": "newport_68bdf15b_1x1.jpg",
+    "4x5": "newport_68bdf15b_4x5.jpg",
+    "9x16": "newport_68bdf15b_9x16.jpg"
    }
   },
   {
@@ -584,25 +573,14 @@
    }
   },
   {
-   "n": "Rennoa",
-   "cb": "8 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "rennoa_74d851b8_1x1.jpg",
-    "4x5": "rennoa_74d851b8_4x5.jpg",
-    "9x16": "rennoa_74d851b8_9x16.jpg"
-   }
-  },
-  {
-   "n": "StockX",
-   "cb": "1 %",
+   "n": "Spartoo",
+   "cb": "5 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "stockx_da9cd117_1x1.jpg",
-    "4x5": "stockx_da9cd117_4x5.jpg",
-    "9x16": "stockx_da9cd117_9x16.jpg"
+    "1x1": "spartoo_44464c04_1x1.jpg",
+    "4x5": "spartoo_44464c04_4x5.jpg",
+    "9x16": "spartoo_44464c04_9x16.jpg"
    }
   },
   {
@@ -614,6 +592,17 @@
     "1x1": "top4running_d13e13b1_1x1.jpg",
     "4x5": "top4running_d13e13b1_4x5.jpg",
     "9x16": "top4running_d13e13b1_9x16.jpg"
+   }
+  },
+  {
+   "n": "Watery",
+   "cb": "5 %",
+   "cat": "Sport & Fitness",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "watery_40022c6e_1x1.jpg",
+    "4x5": "watery_40022c6e_4x5.jpg",
+    "9x16": "watery_40022c6e_9x16.jpg"
    }
   }
  ],
