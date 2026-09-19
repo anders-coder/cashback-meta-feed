@@ -243,17 +243,6 @@
    }
   },
   {
-   "n": "BabySam",
-   "cb": "5 %",
-   "cat": "Børn",
-   "tier": "popular",
-   "imgs": {
-    "1x1": "babysam_3beef881_1x1.jpg",
-    "4x5": "babysam_3beef881_4x5.jpg",
-    "9x16": "babysam_3beef881_9x16.jpg"
-   }
-  },
-  {
    "n": "Lounge by Zalando",
    "cb": "4 %",
    "cat": "Mode",
@@ -262,6 +251,17 @@
     "1x1": "zalando-lounge_8cdf2adc_1x1.jpg",
     "4x5": "zalando-lounge_8cdf2adc_4x5.jpg",
     "9x16": "zalando-lounge_8cdf2adc_9x16.jpg"
+   }
+  },
+  {
+   "n": "BabySam",
+   "cb": "5 %",
+   "cat": "Børn",
+   "tier": "popular",
+   "imgs": {
+    "1x1": "babysam_3beef881_1x1.jpg",
+    "4x5": "babysam_3beef881_4x5.jpg",
+    "9x16": "babysam_3beef881_9x16.jpg"
    }
   },
   {
@@ -276,14 +276,14 @@
    }
   },
   {
-   "n": "Retrotrøjer",
+   "n": "House Lab",
    "cb": "6 %",
-   "cat": "Mode",
+   "cat": "Bolig & have",
    "tier": "newest",
    "imgs": {
-    "1x1": "retrotrojer_c8af5c43_1x1.jpg",
-    "4x5": "retrotrojer_c8af5c43_4x5.jpg",
-    "9x16": "retrotrojer_c8af5c43_9x16.jpg"
+    "1x1": "house-lab_662119d3_1x1.jpg",
+    "4x5": "house-lab_662119d3_4x5.jpg",
+    "9x16": "house-lab_662119d3_9x16.jpg"
    }
   },
   {
@@ -298,6 +298,17 @@
    }
   },
   {
+   "n": "Luxcase",
+   "cb": "6 %",
+   "cat": "Elektronik",
+   "tier": "newest",
+   "imgs": {
+    "1x1": "luxcase_7049978f_1x1.jpg",
+    "4x5": "luxcase_7049978f_4x5.jpg",
+    "9x16": "luxcase_7049978f_9x16.jpg"
+   }
+  },
+  {
    "n": "Tæppeunivers.dk",
    "cb": "5 %",
    "cat": "Bolig & have",
@@ -309,14 +320,14 @@
    }
   },
   {
-   "n": "Kreafunk",
-   "cb": "4 %",
-   "cat": "Elektronik",
+   "n": "Moonboon",
+   "cb": "6 %",
+   "cat": "Børn",
    "tier": "newest",
    "imgs": {
-    "1x1": "kreafunk_c84dd8fe_1x1.jpg",
-    "4x5": "kreafunk_c84dd8fe_4x5.jpg",
-    "9x16": "kreafunk_c84dd8fe_9x16.jpg"
+    "1x1": "moonboon_96a1fc3f_1x1.jpg",
+    "4x5": "moonboon_96a1fc3f_4x5.jpg",
+    "9x16": "moonboon_96a1fc3f_9x16.jpg"
    }
   },
   {
@@ -331,14 +342,14 @@
    }
   },
   {
-   "n": "Snowdays",
-   "cb": "5 %",
-   "cat": "Sport & Fitness",
+   "n": "Telmore mobilabonnement",
+   "cb": "200 kr",
+   "cat": "Services",
    "tier": "newest",
    "imgs": {
-    "1x1": "snowdays_e1dbc7a3_1x1.jpg",
-    "4x5": "snowdays_e1dbc7a3_4x5.jpg",
-    "9x16": "snowdays_e1dbc7a3_9x16.jpg"
+    "1x1": "telmore-mobilabonnement_7ab579a2_1x1.jpg",
+    "4x5": "telmore-mobilabonnement_7ab579a2_4x5.jpg",
+    "9x16": "telmore-mobilabonnement_7ab579a2_9x16.jpg"
    }
   },
   {
@@ -353,14 +364,14 @@
    }
   },
   {
-   "n": "Name It",
-   "cb": "3 %",
-   "cat": "Børn",
+   "n": "Oslo Skin Lab",
+   "cb": "150 kr",
+   "cat": "Skønhed og Pleje",
    "tier": "newest",
    "imgs": {
-    "1x1": "name-it_c74a6acb_1x1.jpg",
-    "4x5": "name-it_c74a6acb_4x5.jpg",
-    "9x16": "name-it_c74a6acb_9x16.jpg"
+    "1x1": "oslo-skin-lab_c64bb6ac_1x1.jpg",
+    "4x5": "oslo-skin-lab_c64bb6ac_4x5.jpg",
+    "9x16": "oslo-skin-lab_c64bb6ac_9x16.jpg"
    }
   },
   {
@@ -375,14 +386,14 @@
    }
   },
   {
-   "n": "Vila",
-   "cb": "3 %",
-   "cat": "Mode",
+   "n": "TUI Oplevelser",
+   "cb": "4 %",
+   "cat": "Rejser, hotel & Transport",
    "tier": "newest",
    "imgs": {
-    "1x1": "vila_19fddfd5_1x1.jpg",
-    "4x5": "vila_19fddfd5_4x5.jpg",
-    "9x16": "vila_19fddfd5_9x16.jpg"
+    "1x1": "tui-oplevelser_0052b041_1x1.jpg",
+    "4x5": "tui-oplevelser_0052b041_4x5.jpg",
+    "9x16": "tui-oplevelser_0052b041_9x16.jpg"
    }
   },
   {
@@ -397,14 +408,14 @@
    }
   },
   {
-   "n": "Skisport",
-   "cb": "3 %",
-   "cat": "Sport & Fitness",
+   "n": "Retrotrøjer",
+   "cb": "6 %",
+   "cat": "Mode",
    "tier": "newest",
    "imgs": {
-    "1x1": "skisport_24312a2e_1x1.jpg",
-    "4x5": "skisport_24312a2e_4x5.jpg",
-    "9x16": "skisport_24312a2e_9x16.jpg"
+    "1x1": "retrotrojer_c8af5c43_1x1.jpg",
+    "4x5": "retrotrojer_c8af5c43_4x5.jpg",
+    "9x16": "retrotrojer_c8af5c43_9x16.jpg"
    }
   },
   {
@@ -419,14 +430,14 @@
    }
   },
   {
-   "n": "Winefriends",
-   "cb": "6 %",
-   "cat": "Dagligvarer",
-   "tier": "newest",
+   "n": "Acer",
+   "cb": "3 %",
+   "cat": "Elektronik",
+   "tier": "catalog",
    "imgs": {
-    "1x1": "winefriends_8d49e541_1x1.jpg",
-    "4x5": "winefriends_8d49e541_4x5.jpg",
-    "9x16": "winefriends_8d49e541_9x16.jpg"
+    "1x1": "acer_891f67f8_1x1.jpg",
+    "4x5": "acer_891f67f8_4x5.jpg",
+    "9x16": "acer_891f67f8_9x16.jpg"
    }
   },
   {
@@ -441,135 +452,124 @@
    }
   },
   {
-   "n": "eesy 5G internet",
-   "cb": "400 kr",
-   "cat": "Services",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "eesy-5g-internetddd_a082c256_1x1.jpg",
-    "4x5": "eesy-5g-internetddd_a082c256_4x5.jpg",
-    "9x16": "eesy-5g-internetddd_a082c256_9x16.jpg"
-   }
-  },
-  {
-   "n": "eesy mobil",
-   "cb": "300 kr",
-   "cat": "Services",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "eesy-mobil_ae4697da_1x1.jpg",
-    "4x5": "eesy-mobil_ae4697da_4x5.jpg",
-    "9x16": "eesy-mobil_ae4697da_9x16.jpg"
-   }
-  },
-  {
-   "n": "Ellos",
-   "cb": "5 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "ellos-3_d5d5a07d_1x1.jpg",
-    "4x5": "ellos-3_d5d5a07d_4x5.jpg",
-    "9x16": "ellos-3_d5d5a07d_9x16.jpg"
-   }
-  },
-  {
-   "n": "FitnessFree",
-   "cb": "7 %",
-   "cat": "Sport & Fitness",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "fitnessfree_ebe81ce6_1x1.jpg",
-    "4x5": "fitnessfree_ebe81ce6_4x5.jpg",
-    "9x16": "fitnessfree_ebe81ce6_9x16.jpg"
-   }
-  },
-  {
-   "n": "Flexii",
-   "cb": "140 kr",
-   "cat": "Mobiltelefoni",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "flexii_a97189cc_1x1.jpg",
-    "4x5": "flexii_a97189cc_4x5.jpg",
-    "9x16": "flexii_a97189cc_9x16.jpg"
-   }
-  },
-  {
-   "n": "GetYourGuide",
-   "cb": "5 %",
-   "cat": "Rejser, hotel & Transport",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "getyourguide_aa7d66b7_1x1.jpg",
-    "4x5": "getyourguide_aa7d66b7_4x5.jpg",
-    "9x16": "getyourguide_aa7d66b7_9x16.jpg"
-   }
-  },
-  {
-   "n": "Guldsmed Lind",
-   "cb": "8 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "guldsmed-lind_da1fc804_1x1.jpg",
-    "4x5": "guldsmed-lind_da1fc804_4x5.jpg",
-    "9x16": "guldsmed-lind_da1fc804_9x16.jpg"
-   }
-  },
-  {
-   "n": "iRobot.dk",
-   "cb": "5 %",
-   "cat": "Elektronik",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "irobotdk_8c2acd6b_1x1.jpg",
-    "4x5": "irobotdk_8c2acd6b_4x5.jpg",
-    "9x16": "irobotdk_8c2acd6b_9x16.jpg"
-   }
-  },
-  {
-   "n": "Kajak Outdoor",
+   "n": "Bottle Hero",
    "cb": "6 %",
-   "cat": "Sport & Fitness",
+   "cat": "Dagligvarer",
    "tier": "catalog",
    "imgs": {
-    "1x1": "kajak-outdoor_d682db7c_1x1.jpg",
-    "4x5": "kajak-outdoor_d682db7c_4x5.jpg",
-    "9x16": "kajak-outdoor_d682db7c_9x16.jpg"
+    "1x1": "bottle-hero_e9b91935_1x1.jpg",
+    "4x5": "bottle-hero_e9b91935_4x5.jpg",
+    "9x16": "bottle-hero_e9b91935_9x16.jpg"
    }
   },
   {
-   "n": "OiSTER",
-   "cb": "200 kr",
-   "cat": "Services",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "oister_1a51ba63_1x1.jpg",
-    "4x5": "oister_1a51ba63_4x5.jpg",
-    "9x16": "oister_1a51ba63_9x16.jpg"
-   }
-  },
-  {
-   "n": "One2move",
-   "cb": "60 kr",
-   "cat": "Rejser, hotel & Transport",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "one2move_ee0c4db6_1x1.jpg",
-    "4x5": "one2move_ee0c4db6_4x5.jpg",
-    "9x16": "one2move_ee0c4db6_9x16.jpg"
-   }
-  },
-  {
-   "n": "Probrush",
+   "n": "Filibabba",
    "cb": "8 %",
+   "cat": "Børn",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "filibabba_17b530c8_1x1.jpg",
+    "4x5": "filibabba_17b530c8_4x5.jpg",
+    "9x16": "filibabba_17b530c8_9x16.jpg"
+   }
+  },
+  {
+   "n": "Gents",
+   "cb": "6 %",
    "cat": "Skønhed og Pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "probrush_4f7d8c57_1x1.jpg",
-    "4x5": "probrush_4f7d8c57_4x5.jpg",
-    "9x16": "probrush_4f7d8c57_9x16.jpg"
+    "1x1": "gents_1f151d19_1x1.jpg",
+    "4x5": "gents_1f151d19_4x5.jpg",
+    "9x16": "gents_1f151d19_9x16.jpg"
+   }
+  },
+  {
+   "n": "GR88",
+   "cb": "8 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "gr88_491c9eb2_1x1.jpg",
+    "4x5": "gr88_491c9eb2_4x5.jpg",
+    "9x16": "gr88_491c9eb2_9x16.jpg"
+   }
+  },
+  {
+   "n": "Green Comfort",
+   "cb": "4 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "green-comfort_8e1ddf99_1x1.jpg",
+    "4x5": "green-comfort_8e1ddf99_4x5.jpg",
+    "9x16": "green-comfort_8e1ddf99_9x16.jpg"
+   }
+  },
+  {
+   "n": "JBL.com",
+   "cb": "2 %",
+   "cat": "Elektronik",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "jbl-com_2c7184d7_1x1.jpg",
+    "4x5": "jbl-com_2c7184d7_4x5.jpg",
+    "9x16": "jbl-com_2c7184d7_9x16.jpg"
+   }
+  },
+  {
+   "n": "Kreafunk",
+   "cb": "4 %",
+   "cat": "Elektronik",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "kreafunk_c84dd8fe_1x1.jpg",
+    "4x5": "kreafunk_c84dd8fe_4x5.jpg",
+    "9x16": "kreafunk_c84dd8fe_9x16.jpg"
+   }
+  },
+  {
+   "n": "Legebyen",
+   "cb": "5 %",
+   "cat": "Børn",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "legebyen_f7fc33ed_1x1.jpg",
+    "4x5": "legebyen_f7fc33ed_4x5.jpg",
+    "9x16": "legebyen_f7fc33ed_9x16.jpg"
+   }
+  },
+  {
+   "n": "Name It",
+   "cb": "3 %",
+   "cat": "Børn",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "name-it_c74a6acb_1x1.jpg",
+    "4x5": "name-it_c74a6acb_4x5.jpg",
+    "9x16": "name-it_c74a6acb_9x16.jpg"
+   }
+  },
+  {
+   "n": "Nicehair",
+   "cb": "4 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "nicehair-1_1496d0d8_1x1.jpg",
+    "4x5": "nicehair-1_1496d0d8_4x5.jpg",
+    "9x16": "nicehair-1_1496d0d8_9x16.jpg"
+   }
+  },
+  {
+   "n": "NordicFeel",
+   "cb": "2 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "nordicfeel_5dd7d61e_1x1.jpg",
+    "4x5": "nordicfeel_5dd7d61e_4x5.jpg",
+    "9x16": "nordicfeel_5dd7d61e_9x16.jpg"
    }
   },
   {
@@ -584,14 +584,25 @@
    }
   },
   {
-   "n": "Radisson Hotels",
-   "cb": "2 %",
-   "cat": "Oplevelser & underholdning",
+   "n": "Snowdays",
+   "cb": "5 %",
+   "cat": "Sport & Fitness",
    "tier": "catalog",
    "imgs": {
-    "1x1": "radisson-hotels_03dcee1f_1x1.jpg",
-    "4x5": "radisson-hotels_03dcee1f_4x5.jpg",
-    "9x16": "radisson-hotels_03dcee1f_9x16.jpg"
+    "1x1": "snowdays_e1dbc7a3_1x1.jpg",
+    "4x5": "snowdays_e1dbc7a3_4x5.jpg",
+    "9x16": "snowdays_e1dbc7a3_9x16.jpg"
+   }
+  },
+  {
+   "n": "Vila",
+   "cb": "3 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "vila_19fddfd5_1x1.jpg",
+    "4x5": "vila_19fddfd5_4x5.jpg",
+    "9x16": "vila_19fddfd5_9x16.jpg"
    }
   }
  ],
