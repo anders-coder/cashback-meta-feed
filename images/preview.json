@@ -1,17 +1,6 @@
 {
  "partners": [
   {
-   "n": "Zalando Gavekort",
-   "cb": "8 %",
-   "cat": "Mode",
-   "tier": "highest",
-   "imgs": {
-    "1x1": "zalando-gavekort_d94c82ed_1x1.jpg",
-    "4x5": "zalando-gavekort_d94c82ed_4x5.jpg",
-    "9x16": "zalando-gavekort_d94c82ed_9x16.jpg"
-   }
-  },
-  {
    "n": "Trive",
    "cb": "15 %",
    "cat": "Skønhed og Pleje",
@@ -254,14 +243,14 @@
    }
   },
   {
-   "n": "Apopro",
+   "n": "BabySam",
    "cb": "5 %",
-   "cat": "Skønhed og Pleje",
+   "cat": "Børn",
    "tier": "popular",
    "imgs": {
-    "1x1": "apopro_d0dea118_1x1.jpg",
-    "4x5": "apopro_d0dea118_4x5.jpg",
-    "9x16": "apopro_d0dea118_9x16.jpg"
+    "1x1": "babysam_3beef881_1x1.jpg",
+    "4x5": "babysam_3beef881_4x5.jpg",
+    "9x16": "babysam_3beef881_9x16.jpg"
    }
   },
   {
@@ -430,25 +419,69 @@
    }
   },
   {
-   "n": "anew sleep",
-   "cb": "8 %",
-   "cat": "Bolig & have",
+   "n": "Apopro",
+   "cb": "5 %",
+   "cat": "Skønhed og Pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "anew-sleep_c3341333_1x1.jpg",
-    "4x5": "anew-sleep_c3341333_4x5.jpg",
-    "9x16": "anew-sleep_c3341333_9x16.jpg"
+    "1x1": "apopro_d0dea118_1x1.jpg",
+    "4x5": "apopro_d0dea118_4x5.jpg",
+    "9x16": "apopro_d0dea118_9x16.jpg"
    }
   },
   {
-   "n": "BabySam",
+   "n": "Batteribyen",
    "cb": "5 %",
-   "cat": "Børn",
+   "cat": "Elektronik",
    "tier": "catalog",
    "imgs": {
-    "1x1": "babysam_3beef881_1x1.jpg",
-    "4x5": "babysam_3beef881_4x5.jpg",
-    "9x16": "babysam_3beef881_9x16.jpg"
+    "1x1": "batteribyen_e6a429f5_1x1.jpg",
+    "4x5": "batteribyen_e6a429f5_4x5.jpg",
+    "9x16": "batteribyen_e6a429f5_9x16.jpg"
+   }
+  },
+  {
+   "n": "BetterFeast",
+   "cb": "100 kr",
+   "cat": "Dagligvarer",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "better-feast_a160cddb_1x1.jpg",
+    "4x5": "better-feast_a160cddb_4x5.jpg",
+    "9x16": "better-feast_a160cddb_9x16.jpg"
+   }
+  },
+  {
+   "n": "Dania Bikes",
+   "cb": "3 %",
+   "cat": "Sport & Fitness",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "dania-bikes_f7c8be40_1x1.jpg",
+    "4x5": "dania-bikes_f7c8be40_4x5.jpg",
+    "9x16": "dania-bikes_f7c8be40_9x16.jpg"
+   }
+  },
+  {
+   "n": "Direct Ferries",
+   "cb": "2 %",
+   "cat": "Rejser, hotel & Transport",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "direct-ferries_035ae109_1x1.jpg",
+    "4x5": "direct-ferries_035ae109_4x5.jpg",
+    "9x16": "direct-ferries_035ae109_9x16.jpg"
+   }
+  },
+  {
+   "n": "Everlast",
+   "cb": "10 %",
+   "cat": "Sport & Fitness",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "everlast_ed1af553_1x1.jpg",
+    "4x5": "everlast_ed1af553_4x5.jpg",
+    "9x16": "everlast_ed1af553_9x16.jpg"
    }
   },
   {
@@ -463,47 +496,36 @@
    }
   },
   {
-   "n": "Flybillet.dk",
-   "cb": "2 %",
-   "cat": "Rejser, hotel & Transport",
+   "n": "Fitnessshoppen",
+   "cb": "6 %",
+   "cat": "Skønhed og Pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "flybilletdk_571645ea_1x1.jpg",
-    "4x5": "flybilletdk_571645ea_4x5.jpg",
-    "9x16": "flybilletdk_571645ea_9x16.jpg"
+    "1x1": "fitnessshoppen_6525b301_1x1.jpg",
+    "4x5": "fitnessshoppen_6525b301_4x5.jpg",
+    "9x16": "fitnessshoppen_6525b301_9x16.jpg"
    }
   },
   {
-   "n": "Gorilla Sports",
-   "cb": "6 %",
+   "n": "Heyo",
+   "cb": "8 %",
    "cat": "Sport & Fitness",
    "tier": "catalog",
    "imgs": {
-    "1x1": "gorilla-sports_76197b6c_1x1.jpg",
-    "4x5": "gorilla-sports_76197b6c_4x5.jpg",
-    "9x16": "gorilla-sports_76197b6c_9x16.jpg"
+    "1x1": "heyo_921293cf_1x1.jpg",
+    "4x5": "heyo_921293cf_4x5.jpg",
+    "9x16": "heyo_921293cf_9x16.jpg"
    }
   },
   {
-   "n": "GR88",
-   "cb": "8 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "gr88_491c9eb2_1x1.jpg",
-    "4x5": "gr88_491c9eb2_4x5.jpg",
-    "9x16": "gr88_491c9eb2_9x16.jpg"
-   }
-  },
-  {
-   "n": "Jotex",
-   "cb": "3 %",
+   "n": "Homeshop",
+   "cb": "1 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "jotex_9a0251bf_1x1.jpg",
-    "4x5": "jotex_9a0251bf_4x5.jpg",
-    "9x16": "jotex_9a0251bf_9x16.jpg"
+    "1x1": "homeshop_40f10603_1x1.jpg",
+    "4x5": "homeshop_40f10603_4x5.jpg",
+    "9x16": "homeshop_40f10603_9x16.jpg"
    }
   },
   {
@@ -529,25 +551,36 @@
    }
   },
   {
-   "n": "Outnorth",
-   "cb": "3 %",
-   "cat": "Sport & Fitness",
+   "n": "Navnelapper",
+   "cb": "7 %",
+   "cat": "Børn",
    "tier": "catalog",
    "imgs": {
-    "1x1": "outnorth_a8c64eae_1x1.jpg",
-    "4x5": "outnorth_a8c64eae_4x5.jpg",
-    "9x16": "outnorth_a8c64eae_9x16.jpg"
+    "1x1": "navnelapper_d0d3bb86_1x1.jpg",
+    "4x5": "navnelapper_d0d3bb86_4x5.jpg",
+    "9x16": "navnelapper_d0d3bb86_9x16.jpg"
    }
   },
   {
-   "n": "Rikki Tikki Shop",
+   "n": "Nordic Tool",
    "cb": "5 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "rikki-tikki-shop_cc4c9a99_1x1.jpg",
-    "4x5": "rikki-tikki-shop_cc4c9a99_4x5.jpg",
-    "9x16": "rikki-tikki-shop_cc4c9a99_9x16.jpg"
+    "1x1": "nordic-tool_4b34aa24_1x1.jpg",
+    "4x5": "nordic-tool_4b34aa24_4x5.jpg",
+    "9x16": "nordic-tool_4b34aa24_9x16.jpg"
+   }
+  },
+  {
+   "n": "Sisi Copenhagen",
+   "cb": "3 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "sisi-copenhagen_87f92ffa_1x1.jpg",
+    "4x5": "sisi-copenhagen_87f92ffa_4x5.jpg",
+    "9x16": "sisi-copenhagen_87f92ffa_9x16.jpg"
    }
   },
   {
@@ -562,28 +595,6 @@
    }
   },
   {
-   "n": "Stradivarius",
-   "cb": "4 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "stradivarius_e5a065ec_1x1.jpg",
-    "4x5": "stradivarius_e5a065ec_4x5.jpg",
-    "9x16": "stradivarius_e5a065ec_9x16.jpg"
-   }
-  },
-  {
-   "n": "Støvsugerbanden",
-   "cb": "5 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "stovsugerbanden_a55cdaa0_1x1.jpg",
-    "4x5": "stovsugerbanden_a55cdaa0_4x5.jpg",
-    "9x16": "stovsugerbanden_a55cdaa0_9x16.jpg"
-   }
-  },
-  {
    "n": "Vila",
    "cb": "3 %",
    "cat": "Mode",
@@ -592,17 +603,6 @@
     "1x1": "vila_19fddfd5_1x1.jpg",
     "4x5": "vila_19fddfd5_4x5.jpg",
     "9x16": "vila_19fddfd5_9x16.jpg"
-   }
-  },
-  {
-   "n": "VVS.dk",
-   "cb": "2 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "vvsdk_5b868839_1x1.jpg",
-    "4x5": "vvsdk_5b868839_4x5.jpg",
-    "9x16": "vvsdk_5b868839_9x16.jpg"
    }
   }
  ],
