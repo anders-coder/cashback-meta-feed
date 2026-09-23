@@ -243,17 +243,6 @@
    }
   },
   {
-   "n": "Lounge by Zalando",
-   "cb": "4 %",
-   "cat": "Mode",
-   "tier": "popular",
-   "imgs": {
-    "1x1": "zalando-lounge_8cdf2adc_1x1.jpg",
-    "4x5": "zalando-lounge_8cdf2adc_4x5.jpg",
-    "9x16": "zalando-lounge_8cdf2adc_9x16.jpg"
-   }
-  },
-  {
    "n": "BabySam",
    "cb": "5 %",
    "cat": "Børn",
@@ -262,6 +251,17 @@
     "1x1": "babysam_3beef881_1x1.jpg",
     "4x5": "babysam_3beef881_4x5.jpg",
     "9x16": "babysam_3beef881_9x16.jpg"
+   }
+  },
+  {
+   "n": "Krifa",
+   "cb": "400 kr",
+   "cat": "Services",
+   "tier": "popular",
+   "imgs": {
+    "1x1": "krifa_4e3e3e5f_1x1.jpg",
+    "4x5": "krifa_4e3e3e5f_4x5.jpg",
+    "9x16": "krifa_4e3e3e5f_9x16.jpg"
    }
   },
   {
@@ -430,28 +430,6 @@
    }
   },
   {
-   "n": "anew sleep",
-   "cb": "8 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "anew-sleep_c3341333_1x1.jpg",
-    "4x5": "anew-sleep_c3341333_4x5.jpg",
-    "9x16": "anew-sleep_c3341333_9x16.jpg"
-   }
-  },
-  {
-   "n": "Anne Brauner",
-   "cb": "5 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "anne-brauner_519a6c03_1x1.jpg",
-    "4x5": "anne-brauner_519a6c03_4x5.jpg",
-    "9x16": "anne-brauner_519a6c03_9x16.jpg"
-   }
-  },
-  {
    "n": "Apopro",
    "cb": "5 %",
    "cat": "Skønhed og Pleje",
@@ -460,6 +438,17 @@
     "1x1": "apopro_d0dea118_1x1.jpg",
     "4x5": "apopro_d0dea118_4x5.jpg",
     "9x16": "apopro_d0dea118_9x16.jpg"
+   }
+  },
+  {
+   "n": "AthleticGreens",
+   "cb": "6 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "athleticgreens_1cebb43f_1x1.jpg",
+    "4x5": "athleticgreens_1cebb43f_4x5.jpg",
+    "9x16": "athleticgreens_1cebb43f_9x16.jpg"
    }
   },
   {
@@ -474,47 +463,25 @@
    }
   },
   {
-   "n": "Blue Glass",
-   "cb": "8 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "blue-glass_35dab11f_1x1.jpg",
-    "4x5": "blue-glass_35dab11f_4x5.jpg",
-    "9x16": "blue-glass_35dab11f_9x16.jpg"
-   }
-  },
-  {
-   "n": "Ellos",
-   "cb": "5 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "ellos-3_d5d5a07d_1x1.jpg",
-    "4x5": "ellos-3_d5d5a07d_4x5.jpg",
-    "9x16": "ellos-3_d5d5a07d_9x16.jpg"
-   }
-  },
-  {
-   "n": "Gina Tricot",
+   "n": "Giuseppe Zanotti",
    "cb": "4 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "gina-tricot-ab_3c6b09da_1x1.jpg",
-    "4x5": "gina-tricot-ab_3c6b09da_4x5.jpg",
-    "9x16": "gina-tricot-ab_3c6b09da_9x16.jpg"
+    "1x1": "giuseppe-zanotti_df864bf5_1x1.jpg",
+    "4x5": "giuseppe-zanotti_df864bf5_4x5.jpg",
+    "9x16": "giuseppe-zanotti_df864bf5_9x16.jpg"
    }
   },
   {
-   "n": "Homeshop",
-   "cb": "1 %",
-   "cat": "Bolig & have",
+   "n": "Hugo P",
+   "cb": "5 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "homeshop_40f10603_1x1.jpg",
-    "4x5": "homeshop_40f10603_4x5.jpg",
-    "9x16": "homeshop_40f10603_9x16.jpg"
+    "1x1": "hugo-p_3d1421a4_1x1.jpg",
+    "4x5": "hugo-p_3d1421a4_4x5.jpg",
+    "9x16": "hugo-p_3d1421a4_9x16.jpg"
    }
   },
   {
@@ -529,36 +496,58 @@
    }
   },
   {
-   "n": "Krifa",
-   "cb": "400 kr",
-   "cat": "Services",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "krifa_4e3e3e5f_1x1.jpg",
-    "4x5": "krifa_4e3e3e5f_4x5.jpg",
-    "9x16": "krifa_4e3e3e5f_9x16.jpg"
-   }
-  },
-  {
-   "n": "Luxvinduer",
+   "n": "Legeakademiet",
    "cb": "5 %",
-   "cat": "Bolig & have",
+   "cat": "Børn",
    "tier": "catalog",
    "imgs": {
-    "1x1": "luxvinduer_f891f702_1x1.jpg",
-    "4x5": "luxvinduer_f891f702_4x5.jpg",
-    "9x16": "luxvinduer_f891f702_9x16.jpg"
+    "1x1": "legeakademiet_f821ab04_1x1.jpg",
+    "4x5": "legeakademiet_f821ab04_4x5.jpg",
+    "9x16": "legeakademiet_f821ab04_9x16.jpg"
    }
   },
   {
-   "n": "Polax",
-   "cb": "7 %",
-   "cat": "Bolig & have",
+   "n": "Lensway",
+   "cb": "4 %",
+   "cat": "Skønhed og Pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "ploax_d26c37ee_1x1.jpg",
-    "4x5": "ploax_d26c37ee_4x5.jpg",
-    "9x16": "ploax_d26c37ee_9x16.jpg"
+    "1x1": "lensway_81ed0257_1x1.jpg",
+    "4x5": "lensway_81ed0257_4x5.jpg",
+    "9x16": "lensway_81ed0257_9x16.jpg"
+   }
+  },
+  {
+   "n": "Like ANNA",
+   "cb": "6 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "like-anna_8be968b3_1x1.jpg",
+    "4x5": "like-anna_8be968b3_4x5.jpg",
+    "9x16": "like-anna_8be968b3_9x16.jpg"
+   }
+  },
+  {
+   "n": "Lounge by Zalando",
+   "cb": "4 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "zalando-lounge_8cdf2adc_1x1.jpg",
+    "4x5": "zalando-lounge_8cdf2adc_4x5.jpg",
+    "9x16": "zalando-lounge_8cdf2adc_9x16.jpg"
+   }
+  },
+  {
+   "n": "Nelly.com",
+   "cb": "2 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "nelly-com_5cb14c68_1x1.jpg",
+    "4x5": "nelly-com_5cb14c68_4x5.jpg",
+    "9x16": "nelly-com_5cb14c68_9x16.jpg"
    }
   },
   {
@@ -573,36 +562,14 @@
    }
   },
   {
-   "n": "Saxo Premium",
-   "cb": "50 kr",
-   "cat": "Streaming",
+   "n": "Satana",
+   "cb": "8 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "saxo-premium_7e56be19_1x1.jpg",
-    "4x5": "saxo-premium_7e56be19_4x5.jpg",
-    "9x16": "saxo-premium_7e56be19_9x16.jpg"
-   }
-  },
-  {
-   "n": "Smartphoto",
-   "cb": "5 %",
-   "cat": "Oplevelser & underholdning",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "smartphoto_d13f1493_1x1.jpg",
-    "4x5": "smartphoto_d13f1493_4x5.jpg",
-    "9x16": "smartphoto_d13f1493_9x16.jpg"
-   }
-  },
-  {
-   "n": "Telmore Internet",
-   "cb": "250 kr",
-   "cat": "Internet",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "telmore-internet_9200e3d0_1x1.jpg",
-    "4x5": "telmore-internet_9200e3d0_4x5.jpg",
-    "9x16": "telmore-internet_9200e3d0_9x16.jpg"
+    "1x1": "satana_98525459_1x1.jpg",
+    "4x5": "satana_98525459_4x5.jpg",
+    "9x16": "satana_98525459_9x16.jpg"
    }
   },
   {
