@@ -265,14 +265,14 @@
    }
   },
   {
-   "n": "BabySam",
-   "cb": "5 %",
-   "cat": "Børn",
+   "n": "BetterFeast",
+   "cb": "100 kr",
+   "cat": "Dagligvarer",
    "tier": "popular",
    "imgs": {
-    "1x1": "babysam_3beef881_1x1.jpg",
-    "4x5": "babysam_3beef881_4x5.jpg",
-    "9x16": "babysam_3beef881_9x16.jpg"
+    "1x1": "better-feast_a160cddb_1x1.jpg",
+    "4x5": "better-feast_a160cddb_4x5.jpg",
+    "9x16": "better-feast_a160cddb_9x16.jpg"
    }
   },
   {
@@ -430,17 +430,6 @@
    }
   },
   {
-   "n": "Anne Brauner",
-   "cb": "5 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "anne-brauner_519a6c03_1x1.jpg",
-    "4x5": "anne-brauner_519a6c03_4x5.jpg",
-    "9x16": "anne-brauner_519a6c03_9x16.jpg"
-   }
-  },
-  {
    "n": "Apopro",
    "cb": "5 %",
    "cat": "Skønhed og Pleje",
@@ -452,47 +441,69 @@
    }
   },
   {
-   "n": "Avis",
-   "cb": "5 %",
-   "cat": "Services",
+   "n": "Ascendic",
+   "cb": "8 %",
+   "cat": "Sport & Fitness",
    "tier": "catalog",
    "imgs": {
-    "1x1": "avis_90e7be26_1x1.jpg",
-    "4x5": "avis_90e7be26_4x5.jpg",
-    "9x16": "avis_90e7be26_9x16.jpg"
+    "1x1": "ascendic_ed6e8dfb_1x1.jpg",
+    "4x5": "ascendic_ed6e8dfb_4x5.jpg",
+    "9x16": "ascendic_ed6e8dfb_9x16.jpg"
    }
   },
   {
-   "n": "BetterFeast",
-   "cb": "100 kr",
+   "n": "BabySam",
+   "cb": "5 %",
+   "cat": "Børn",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "babysam_3beef881_1x1.jpg",
+    "4x5": "babysam_3beef881_4x5.jpg",
+    "9x16": "babysam_3beef881_9x16.jpg"
+   }
+  },
+  {
+   "n": "Becksöndergaard",
+   "cb": "5 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "becksondergaard_8137ed82_1x1.jpg",
+    "4x5": "becksondergaard_8137ed82_4x5.jpg",
+    "9x16": "becksondergaard_8137ed82_9x16.jpg"
+   }
+  },
+  {
+   "n": "Botex.dk",
+   "cb": "6 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "botexdk_ac00021d_1x1.jpg",
+    "4x5": "botexdk_ac00021d_4x5.jpg",
+    "9x16": "botexdk_ac00021d_9x16.jpg"
+   }
+  },
+  {
+   "n": "Den sidste flaske",
+   "cb": "5 %",
    "cat": "Dagligvarer",
    "tier": "catalog",
    "imgs": {
-    "1x1": "better-feast_a160cddb_1x1.jpg",
-    "4x5": "better-feast_a160cddb_4x5.jpg",
-    "9x16": "better-feast_a160cddb_9x16.jpg"
+    "1x1": "den-sidste-flaske_a1cc8f3f_1x1.jpg",
+    "4x5": "den-sidste-flaske_a1cc8f3f_4x5.jpg",
+    "9x16": "den-sidste-flaske_a1cc8f3f_9x16.jpg"
    }
   },
   {
-   "n": "Crocs",
-   "cb": "3 %",
-   "cat": "Mode",
+   "n": "Drømmeland",
+   "cb": "5 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "crocs_45a68bc1_1x1.jpg",
-    "4x5": "crocs_45a68bc1_4x5.jpg",
-    "9x16": "crocs_45a68bc1_9x16.jpg"
-   }
-  },
-  {
-   "n": "Green Comfort",
-   "cb": "4 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "green-comfort_8e1ddf99_1x1.jpg",
-    "4x5": "green-comfort_8e1ddf99_4x5.jpg",
-    "9x16": "green-comfort_8e1ddf99_9x16.jpg"
+    "1x1": "dr-mmeland_8036415f_1x1.jpg",
+    "4x5": "dr-mmeland_8036415f_4x5.jpg",
+    "9x16": "dr-mmeland_8036415f_9x16.jpg"
    }
   },
   {
@@ -507,6 +518,17 @@
    }
   },
   {
+   "n": "Lentiamo",
+   "cb": "1 %",
+   "cat": "Skønhed og Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "lentiamo_5bf19085_1x1.jpg",
+    "4x5": "lentiamo_5bf19085_4x5.jpg",
+    "9x16": "lentiamo_5bf19085_9x16.jpg"
+   }
+  },
+  {
    "n": "Luxcase",
    "cb": "6 %",
    "cat": "Elektronik",
@@ -518,14 +540,14 @@
    }
   },
   {
-   "n": "Made In Spain",
-   "cb": "8 %",
-   "cat": "Mode",
+   "n": "Luxvinduer",
+   "cb": "5 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "made-in-spain_3751fe85_1x1.jpg",
-    "4x5": "made-in-spain_3751fe85_4x5.jpg",
-    "9x16": "made-in-spain_3751fe85_9x16.jpg"
+    "1x1": "luxvinduer_f891f702_1x1.jpg",
+    "4x5": "luxvinduer_f891f702_4x5.jpg",
+    "9x16": "luxvinduer_f891f702_9x16.jpg"
    }
   },
   {
@@ -540,6 +562,17 @@
    }
   },
   {
+   "n": "OiSTER",
+   "cb": "200 kr",
+   "cat": "Services",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "oister_1a51ba63_1x1.jpg",
+    "4x5": "oister_1a51ba63_4x5.jpg",
+    "9x16": "oister_1a51ba63_9x16.jpg"
+   }
+  },
+  {
    "n": "Oslo Skin Lab",
    "cb": "150 kr",
    "cat": "Skønhed og Pleje",
@@ -551,36 +584,14 @@
    }
   },
   {
-   "n": "Sembo",
-   "cb": "4 %",
-   "cat": "Rejser, hotel & Transport",
+   "n": "Telmore Internet",
+   "cb": "250 kr",
+   "cat": "Internet",
    "tier": "catalog",
    "imgs": {
-    "1x1": "sembo_7cf6a69a_1x1.jpg",
-    "4x5": "sembo_7cf6a69a_4x5.jpg",
-    "9x16": "sembo_7cf6a69a_9x16.jpg"
-   }
-  },
-  {
-   "n": "Sephora",
-   "cb": "6 %",
-   "cat": "Skønhed og Pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "sephora_946934a6_1x1.jpg",
-    "4x5": "sephora_946934a6_4x5.jpg",
-    "9x16": "sephora_946934a6_9x16.jpg"
-   }
-  },
-  {
-   "n": "Stradivarius",
-   "cb": "4 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "stradivarius_e5a065ec_1x1.jpg",
-    "4x5": "stradivarius_e5a065ec_4x5.jpg",
-    "9x16": "stradivarius_e5a065ec_9x16.jpg"
+    "1x1": "telmore-internet_9200e3d0_1x1.jpg",
+    "4x5": "telmore-internet_9200e3d0_4x5.jpg",
+    "9x16": "telmore-internet_9200e3d0_9x16.jpg"
    }
   },
   {
@@ -592,28 +603,6 @@
     "1x1": "telmore-mobilabonnement_7ab579a2_1x1.jpg",
     "4x5": "telmore-mobilabonnement_7ab579a2_4x5.jpg",
     "9x16": "telmore-mobilabonnement_7ab579a2_9x16.jpg"
-   }
-  },
-  {
-   "n": "Top4Running",
-   "cb": "3 %",
-   "cat": "Sport & Fitness",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "top4running_d13e13b1_1x1.jpg",
-    "4x5": "top4running_d13e13b1_4x5.jpg",
-    "9x16": "top4running_d13e13b1_9x16.jpg"
-   }
-  },
-  {
-   "n": "Urvaerket.dk",
-   "cb": "2 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "urvaerket-dk_24ed9141_1x1.jpg",
-    "4x5": "urvaerket-dk_24ed9141_4x5.jpg",
-    "9x16": "urvaerket-dk_24ed9141_9x16.jpg"
    }
   }
  ],
