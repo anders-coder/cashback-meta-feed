@@ -232,14 +232,14 @@
    }
   },
   {
-   "n": "Apopro",
-   "cb": "5 %",
-   "cat": "Skønhed & Pleje",
+   "n": "3 Internet",
+   "cb": "200 kr",
+   "cat": "Services",
    "tier": "popular",
    "imgs": {
-    "1x1": "apopro_d0dea118_1x1.jpg",
-    "4x5": "apopro_d0dea118_4x5.jpg",
-    "9x16": "apopro_d0dea118_9x16.jpg"
+    "1x1": "3-internet_1cc614ee_1x1.jpg",
+    "4x5": "3-internet_1cc614ee_4x5.jpg",
+    "9x16": "3-internet_1cc614ee_9x16.jpg"
    }
   },
   {
@@ -254,6 +254,17 @@
    }
   },
   {
+   "n": "Apopro",
+   "cb": "5 %",
+   "cat": "Skønhed & Pleje",
+   "tier": "popular",
+   "imgs": {
+    "1x1": "apopro_d0dea118_1x1.jpg",
+    "4x5": "apopro_d0dea118_4x5.jpg",
+    "9x16": "apopro_d0dea118_9x16.jpg"
+   }
+  },
+  {
    "n": "Telenor Bredbånd",
    "cb": "250 kr",
    "cat": "Services",
@@ -262,17 +273,6 @@
     "1x1": "telenor-bredband_6679617b_1x1.jpg",
     "4x5": "telenor-bredband_6679617b_4x5.jpg",
     "9x16": "telenor-bredband_6679617b_9x16.jpg"
-   }
-  },
-  {
-   "n": "Lounge by Zalando",
-   "cb": "4 %",
-   "cat": "Mode",
-   "tier": "popular",
-   "imgs": {
-    "1x1": "zalando-lounge_8cdf2adc_1x1.jpg",
-    "4x5": "zalando-lounge_8cdf2adc_4x5.jpg",
-    "9x16": "zalando-lounge_8cdf2adc_9x16.jpg"
    }
   },
   {
@@ -430,14 +430,25 @@
    }
   },
   {
-   "n": "Acer",
-   "cb": "3 %",
+   "n": "Asus",
+   "cb": "2 %",
    "cat": "Elektronik",
    "tier": "catalog",
    "imgs": {
-    "1x1": "acer_891f67f8_1x1.jpg",
-    "4x5": "acer_891f67f8_4x5.jpg",
-    "9x16": "acer_891f67f8_9x16.jpg"
+    "1x1": "asus_726a7823_1x1.jpg",
+    "4x5": "asus_726a7823_4x5.jpg",
+    "9x16": "asus_726a7823_9x16.jpg"
+   }
+  },
+  {
+   "n": "CallMe 5G Internet",
+   "cb": "400 kr",
+   "cat": "Services",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "callme-5g-internet_f9e416ef_1x1.jpg",
+    "4x5": "callme-5g-internet_f9e416ef_4x5.jpg",
+    "9x16": "callme-5g-internet_f9e416ef_9x16.jpg"
    }
   },
   {
@@ -452,36 +463,58 @@
    }
   },
   {
-   "n": "Duka",
-   "cb": "100 kr",
-   "cat": "Mobiltelefoni",
+   "n": "daekonline.dk",
+   "cb": "2 %",
+   "cat": "Rejser, hotel & Transport",
    "tier": "catalog",
    "imgs": {
-    "1x1": "duka_26d41d8c_1x1.jpg",
-    "4x5": "duka_26d41d8c_4x5.jpg",
-    "9x16": "duka_26d41d8c_9x16.jpg"
+    "1x1": "daekonline-dk_89405d28_1x1.jpg",
+    "4x5": "daekonline-dk_89405d28_4x5.jpg",
+    "9x16": "daekonline-dk_89405d28_9x16.jpg"
    }
   },
   {
-   "n": "Heyo",
+   "n": "Guldsmed Lind",
    "cb": "8 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "guldsmed-lind_da1fc804_1x1.jpg",
+    "4x5": "guldsmed-lind_da1fc804_4x5.jpg",
+    "9x16": "guldsmed-lind_da1fc804_9x16.jpg"
+   }
+  },
+  {
+   "n": "Kajak Outdoor",
+   "cb": "6 %",
    "cat": "Sport & Fitness",
    "tier": "catalog",
    "imgs": {
-    "1x1": "heyo_921293cf_1x1.jpg",
-    "4x5": "heyo_921293cf_4x5.jpg",
-    "9x16": "heyo_921293cf_9x16.jpg"
+    "1x1": "kajak-outdoor_d682db7c_1x1.jpg",
+    "4x5": "kajak-outdoor_d682db7c_4x5.jpg",
+    "9x16": "kajak-outdoor_d682db7c_9x16.jpg"
    }
   },
   {
-   "n": "JBL",
-   "cb": "2 %",
-   "cat": "Elektronik",
+   "n": "Lounge by Zalando",
+   "cb": "4 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "jbl-com_dfa3be96_1x1.jpg",
-    "4x5": "jbl-com_dfa3be96_4x5.jpg",
-    "9x16": "jbl-com_dfa3be96_9x16.jpg"
+    "1x1": "zalando-lounge_8cdf2adc_1x1.jpg",
+    "4x5": "zalando-lounge_8cdf2adc_4x5.jpg",
+    "9x16": "zalando-lounge_8cdf2adc_9x16.jpg"
+   }
+  },
+  {
+   "n": "Lyca Mobile",
+   "cb": "80 kr",
+   "cat": "Services",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "lyca-mobile_e444c941_1x1.jpg",
+    "4x5": "lyca-mobile_e444c941_4x5.jpg",
+    "9x16": "lyca-mobile_e444c941_9x16.jpg"
    }
   },
   {
@@ -496,17 +529,6 @@
    }
   },
   {
-   "n": "Makeup Mekka",
-   "cb": "4 %",
-   "cat": "Skønhed & Pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "makeup-mekka_a04f92a6_1x1.jpg",
-    "4x5": "makeup-mekka_a04f92a6_4x5.jpg",
-    "9x16": "makeup-mekka_a04f92a6_9x16.jpg"
-   }
-  },
-  {
    "n": "Musclepain",
    "cb": "8 %",
    "cat": "Skønhed & Pleje",
@@ -518,36 +540,36 @@
    }
   },
   {
-   "n": "Name It",
-   "cb": "3 %",
-   "cat": "Børn",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "name-it_c74a6acb_1x1.jpg",
-    "4x5": "name-it_c74a6acb_4x5.jpg",
-    "9x16": "name-it_c74a6acb_9x16.jpg"
-   }
-  },
-  {
-   "n": "Nicehair",
-   "cb": "4 %",
-   "cat": "Skønhed & Pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "nicehair-1_1496d0d8_1x1.jpg",
-    "4x5": "nicehair-1_1496d0d8_4x5.jpg",
-    "9x16": "nicehair-1_1496d0d8_9x16.jpg"
-   }
-  },
-  {
-   "n": "Robell",
-   "cb": "6 %",
+   "n": "Nelly.com",
+   "cb": "2 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "robell_09274fcf_1x1.jpg",
-    "4x5": "robell_09274fcf_4x5.jpg",
-    "9x16": "robell_09274fcf_9x16.jpg"
+    "1x1": "nelly-com_5cb14c68_1x1.jpg",
+    "4x5": "nelly-com_5cb14c68_4x5.jpg",
+    "9x16": "nelly-com_5cb14c68_9x16.jpg"
+   }
+  },
+  {
+   "n": "Oslo Skin Lab",
+   "cb": "150 kr",
+   "cat": "Skønhed & Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "oslo-skin-lab_c64bb6ac_1x1.jpg",
+    "4x5": "oslo-skin-lab_c64bb6ac_4x5.jpg",
+    "9x16": "oslo-skin-lab_c64bb6ac_9x16.jpg"
+   }
+  },
+  {
+   "n": "Smartphoto",
+   "cb": "5 %",
+   "cat": "Oplevelser & underholdning",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "smartphoto_d13f1493_1x1.jpg",
+    "4x5": "smartphoto_d13f1493_4x5.jpg",
+    "9x16": "smartphoto_d13f1493_9x16.jpg"
    }
   },
   {
@@ -573,25 +595,14 @@
    }
   },
   {
-   "n": "TUI Oplevelser",
-   "cb": "4 %",
-   "cat": "Rejser, hotel & Transport",
+   "n": "Vila",
+   "cb": "3 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "tui-oplevelser_0052b041_1x1.jpg",
-    "4x5": "tui-oplevelser_0052b041_4x5.jpg",
-    "9x16": "tui-oplevelser_0052b041_9x16.jpg"
-   }
-  },
-  {
-   "n": "XL Møbler",
-   "cb": "4 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "xl-mobler_6b3883c7_1x1.jpg",
-    "4x5": "xl-mobler_6b3883c7_4x5.jpg",
-    "9x16": "xl-mobler_6b3883c7_9x16.jpg"
+    "1x1": "vila_19fddfd5_1x1.jpg",
+    "4x5": "vila_19fddfd5_4x5.jpg",
+    "9x16": "vila_19fddfd5_9x16.jpg"
    }
   }
  ],
