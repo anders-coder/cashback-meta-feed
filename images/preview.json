@@ -254,14 +254,14 @@
    }
   },
   {
-   "n": "BabySam",
-   "cb": "5 %",
-   "cat": "Børn",
+   "n": "Lounge by Zalando",
+   "cb": "4 %",
+   "cat": "Mode",
    "tier": "popular",
    "imgs": {
-    "1x1": "babysam_3beef881_1x1.jpg",
-    "4x5": "babysam_3beef881_4x5.jpg",
-    "9x16": "babysam_3beef881_9x16.jpg"
+    "1x1": "zalando-lounge_8cdf2adc_1x1.jpg",
+    "4x5": "zalando-lounge_8cdf2adc_4x5.jpg",
+    "9x16": "zalando-lounge_8cdf2adc_9x16.jpg"
    }
   },
   {
@@ -369,9 +369,9 @@
    "cat": "Dagligvarer",
    "tier": "newest",
    "imgs": {
-    "1x1": "saffronwork_93d7b9b5_1x1.jpg",
-    "4x5": "saffronwork_93d7b9b5_4x5.jpg",
-    "9x16": "saffronwork_93d7b9b5_9x16.jpg"
+    "1x1": "saffronwork_64ec98bc_1x1.jpg",
+    "4x5": "saffronwork_64ec98bc_4x5.jpg",
+    "9x16": "saffronwork_64ec98bc_9x16.jpg"
    }
   },
   {
@@ -430,80 +430,91 @@
    }
   },
   {
-   "n": "Designure",
-   "cb": "6 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "designure_cae1bda1_1x1.jpg",
-    "4x5": "designure_cae1bda1_4x5.jpg",
-    "9x16": "designure_cae1bda1_9x16.jpg"
-   }
-  },
-  {
-   "n": "E-Wheels",
-   "cb": "5 %",
+   "n": "Acer",
+   "cb": "3 %",
    "cat": "Elektronik",
    "tier": "catalog",
    "imgs": {
-    "1x1": "e-wheels-2_e38d704a_1x1.jpg",
-    "4x5": "e-wheels-2_e38d704a_4x5.jpg",
-    "9x16": "e-wheels-2_e38d704a_9x16.jpg"
+    "1x1": "acer_891f67f8_1x1.jpg",
+    "4x5": "acer_891f67f8_4x5.jpg",
+    "9x16": "acer_891f67f8_9x16.jpg"
    }
   },
   {
-   "n": "HUGO BOSS",
-   "cb": "5 %",
-   "cat": "Mode",
+   "n": "Allente",
+   "cb": "250 kr",
+   "cat": "Services",
    "tier": "catalog",
    "imgs": {
-    "1x1": "hugo-boss_4ef8a0a9_1x1.jpg",
-    "4x5": "hugo-boss_4ef8a0a9_4x5.jpg",
-    "9x16": "hugo-boss_4ef8a0a9_9x16.jpg"
+    "1x1": "viasat_4d666862_1x1.jpg",
+    "4x5": "viasat_4d666862_4x5.jpg",
+    "9x16": "viasat_4d666862_9x16.jpg"
    }
   },
   {
-   "n": "Jørgsholm",
-   "cb": "8 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "jorgsholm_417ac55a_1x1.jpg",
-    "4x5": "jorgsholm_417ac55a_4x5.jpg",
-    "9x16": "jorgsholm_417ac55a_9x16.jpg"
-   }
-  },
-  {
-   "n": "LEGO",
+   "n": "BabySam",
    "cb": "5 %",
    "cat": "Børn",
    "tier": "catalog",
    "imgs": {
-    "1x1": "lego_e16f83f3_1x1.jpg",
-    "4x5": "lego_e16f83f3_4x5.jpg",
-    "9x16": "lego_e16f83f3_9x16.jpg"
+    "1x1": "babysam_3beef881_1x1.jpg",
+    "4x5": "babysam_3beef881_4x5.jpg",
+    "9x16": "babysam_3beef881_9x16.jpg"
    }
   },
   {
-   "n": "Lentiamo",
-   "cb": "1 %",
-   "cat": "Skønhed & Pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "lentiamo_5bf19085_1x1.jpg",
-    "4x5": "lentiamo_5bf19085_4x5.jpg",
-    "9x16": "lentiamo_5bf19085_9x16.jpg"
-   }
-  },
-  {
-   "n": "Lounge by Zalando",
-   "cb": "4 %",
+   "n": "Björn Borg",
+   "cb": "6 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "zalando-lounge_8cdf2adc_1x1.jpg",
-    "4x5": "zalando-lounge_8cdf2adc_4x5.jpg",
-    "9x16": "zalando-lounge_8cdf2adc_9x16.jpg"
+    "1x1": "bjorn-borg_5e3f4ee8_1x1.jpg",
+    "4x5": "bjorn-borg_5e3f4ee8_4x5.jpg",
+    "9x16": "bjorn-borg_5e3f4ee8_9x16.jpg"
+   }
+  },
+  {
+   "n": "Crocs",
+   "cb": "3 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "crocs_45a68bc1_1x1.jpg",
+    "4x5": "crocs_45a68bc1_4x5.jpg",
+    "9x16": "crocs_45a68bc1_9x16.jpg"
+   }
+  },
+  {
+   "n": "eesy 5G internet",
+   "cb": "400 kr",
+   "cat": "Services",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "eesy-5g-internetddd_a082c256_1x1.jpg",
+    "4x5": "eesy-5g-internetddd_a082c256_4x5.jpg",
+    "9x16": "eesy-5g-internetddd_a082c256_9x16.jpg"
+   }
+  },
+  {
+   "n": "GR88",
+   "cb": "8 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "gr88_491c9eb2_1x1.jpg",
+    "4x5": "gr88_491c9eb2_4x5.jpg",
+    "9x16": "gr88_491c9eb2_9x16.jpg"
+   }
+  },
+  {
+   "n": "iRobot.dk",
+   "cb": "5 %",
+   "cat": "Elektronik",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "irobotdk_8c2acd6b_1x1.jpg",
+    "4x5": "irobotdk_8c2acd6b_4x5.jpg",
+    "9x16": "irobotdk_8c2acd6b_9x16.jpg"
    }
   },
   {
@@ -518,47 +529,36 @@
    }
   },
   {
-   "n": "Nordic Tool",
-   "cb": "5 %",
-   "cat": "Bolig & have",
+   "n": "Nespresso",
+   "cb": "8 %",
+   "cat": "Dagligvarer",
    "tier": "catalog",
    "imgs": {
-    "1x1": "nordic-tool_4b34aa24_1x1.jpg",
-    "4x5": "nordic-tool_4b34aa24_4x5.jpg",
-    "9x16": "nordic-tool_4b34aa24_9x16.jpg"
+    "1x1": "nespresso_80ce2872_1x1.jpg",
+    "4x5": "nespresso_80ce2872_4x5.jpg",
+    "9x16": "nespresso_80ce2872_9x16.jpg"
    }
   },
   {
-   "n": "One2move",
-   "cb": "60 kr",
-   "cat": "Rejser, hotel & Transport",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "one2move_ee0c4db6_1x1.jpg",
-    "4x5": "one2move_ee0c4db6_4x5.jpg",
-    "9x16": "one2move_ee0c4db6_9x16.jpg"
-   }
-  },
-  {
-   "n": "RITO",
-   "cb": "3 %",
+   "n": "Rennoa",
+   "cb": "8 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "rito_5a13352e_1x1.jpg",
-    "4x5": "rito_5a13352e_4x5.jpg",
-    "9x16": "rito_5a13352e_9x16.jpg"
+    "1x1": "rennoa_74d851b8_1x1.jpg",
+    "4x5": "rennoa_74d851b8_4x5.jpg",
+    "9x16": "rennoa_74d851b8_9x16.jpg"
    }
   },
   {
-   "n": "Siemens Home",
-   "cb": "3 %",
-   "cat": "Bolig & have",
+   "n": "Scootworld.dk",
+   "cb": "4 %",
+   "cat": "Sport & Fitness",
    "tier": "catalog",
    "imgs": {
-    "1x1": "siemens-home_7fa34b68_1x1.jpg",
-    "4x5": "siemens-home_7fa34b68_4x5.jpg",
-    "9x16": "siemens-home_7fa34b68_9x16.jpg"
+    "1x1": "scootworlddk_a781855b_1x1.jpg",
+    "4x5": "scootworlddk_a781855b_4x5.jpg",
+    "9x16": "scootworlddk_a781855b_9x16.jpg"
    }
   },
   {
@@ -573,17 +573,6 @@
    }
   },
   {
-   "n": "Storage And Shelves",
-   "cb": "5 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "storage-and-shelves_59d73aef_1x1.jpg",
-    "4x5": "storage-and-shelves_59d73aef_4x5.jpg",
-    "9x16": "storage-and-shelves_59d73aef_9x16.jpg"
-   }
-  },
-  {
    "n": "Supplipet",
    "cb": "6 %",
    "cat": "Dyr",
@@ -595,25 +584,25 @@
    }
   },
   {
-   "n": "Winefriends",
-   "cb": "6 %",
-   "cat": "Dagligvarer",
+   "n": "Watery",
+   "cb": "5 %",
+   "cat": "Sport & Fitness",
    "tier": "catalog",
    "imgs": {
-    "1x1": "winefriends_8d49e541_1x1.jpg",
-    "4x5": "winefriends_8d49e541_4x5.jpg",
-    "9x16": "winefriends_8d49e541_9x16.jpg"
+    "1x1": "watery_40022c6e_1x1.jpg",
+    "4x5": "watery_40022c6e_4x5.jpg",
+    "9x16": "watery_40022c6e_9x16.jpg"
    }
   },
   {
-   "n": "Zooplus",
-   "cb": "3 %",
-   "cat": "Dyr",
+   "n": "Witt",
+   "cb": "5 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "zooplus_177573af_1x1.jpg",
-    "4x5": "zooplus_177573af_4x5.jpg",
-    "9x16": "zooplus_177573af_9x16.jpg"
+    "1x1": "witt_19b9c397_1x1.jpg",
+    "4x5": "witt_19b9c397_4x5.jpg",
+    "9x16": "witt_19b9c397_9x16.jpg"
    }
   }
  ],
