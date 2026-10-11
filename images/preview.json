@@ -430,28 +430,6 @@
    }
   },
   {
-   "n": "Acer",
-   "cb": "3 %",
-   "cat": "Elektronik",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "acer_891f67f8_1x1.jpg",
-    "4x5": "acer_891f67f8_4x5.jpg",
-    "9x16": "acer_891f67f8_9x16.jpg"
-   }
-  },
-  {
-   "n": "Allente",
-   "cb": "250 kr",
-   "cat": "Services",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "viasat_4d666862_1x1.jpg",
-    "4x5": "viasat_4d666862_4x5.jpg",
-    "9x16": "viasat_4d666862_9x16.jpg"
-   }
-  },
-  {
    "n": "BabySam",
    "cb": "5 %",
    "cat": "Børn",
@@ -463,58 +441,91 @@
    }
   },
   {
-   "n": "Björn Borg",
-   "cb": "6 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "bjorn-borg_5e3f4ee8_1x1.jpg",
-    "4x5": "bjorn-borg_5e3f4ee8_4x5.jpg",
-    "9x16": "bjorn-borg_5e3f4ee8_9x16.jpg"
-   }
-  },
-  {
-   "n": "Crocs",
-   "cb": "3 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "crocs_45a68bc1_1x1.jpg",
-    "4x5": "crocs_45a68bc1_4x5.jpg",
-    "9x16": "crocs_45a68bc1_9x16.jpg"
-   }
-  },
-  {
-   "n": "eesy 5G internet",
-   "cb": "400 kr",
+   "n": "Bornfiber",
+   "cb": "250 kr",
    "cat": "Services",
    "tier": "catalog",
    "imgs": {
-    "1x1": "eesy-5g-internetddd_a082c256_1x1.jpg",
-    "4x5": "eesy-5g-internetddd_a082c256_4x5.jpg",
-    "9x16": "eesy-5g-internetddd_a082c256_9x16.jpg"
+    "1x1": "bornfiber_94d5afb2_1x1.jpg",
+    "4x5": "bornfiber_94d5afb2_4x5.jpg",
+    "9x16": "bornfiber_94d5afb2_9x16.jpg"
    }
   },
   {
-   "n": "GR88",
-   "cb": "8 %",
-   "cat": "Mode",
+   "n": "eesy mobil",
+   "cb": "200 kr",
+   "cat": "Services",
    "tier": "catalog",
    "imgs": {
-    "1x1": "gr88_491c9eb2_1x1.jpg",
-    "4x5": "gr88_491c9eb2_4x5.jpg",
-    "9x16": "gr88_491c9eb2_9x16.jpg"
+    "1x1": "eesy-mobil_f2ab4100_1x1.jpg",
+    "4x5": "eesy-mobil_f2ab4100_4x5.jpg",
+    "9x16": "eesy-mobil_f2ab4100_9x16.jpg"
    }
   },
   {
-   "n": "iRobot.dk",
+   "n": "FitnessFree",
+   "cb": "7 %",
+   "cat": "Sport & Fitness",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "fitnessfree_ebe81ce6_1x1.jpg",
+    "4x5": "fitnessfree_ebe81ce6_4x5.jpg",
+    "9x16": "fitnessfree_ebe81ce6_9x16.jpg"
+   }
+  },
+  {
+   "n": "Gorilla Sports",
+   "cb": "6 %",
+   "cat": "Sport & Fitness",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "gorilla-sports_76197b6c_1x1.jpg",
+    "4x5": "gorilla-sports_76197b6c_4x5.jpg",
+    "9x16": "gorilla-sports_76197b6c_9x16.jpg"
+   }
+  },
+  {
+   "n": "Hiper",
+   "cb": "300 kr",
+   "cat": "Services",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "hiper-dk_23f6aa7c_1x1.jpg",
+    "4x5": "hiper-dk_23f6aa7c_4x5.jpg",
+    "9x16": "hiper-dk_23f6aa7c_9x16.jpg"
+   }
+  },
+  {
+   "n": "House Lab",
+   "cb": "6 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "house-lab_662119d3_1x1.jpg",
+    "4x5": "house-lab_662119d3_4x5.jpg",
+    "9x16": "house-lab_662119d3_9x16.jpg"
+   }
+  },
+  {
+   "n": "Interhome",
    "cb": "5 %",
-   "cat": "Elektronik",
+   "cat": "Rejser, hotel & Transport",
    "tier": "catalog",
    "imgs": {
-    "1x1": "irobotdk_8c2acd6b_1x1.jpg",
-    "4x5": "irobotdk_8c2acd6b_4x5.jpg",
-    "9x16": "irobotdk_8c2acd6b_9x16.jpg"
+    "1x1": "interhome_06b02a06_1x1.jpg",
+    "4x5": "interhome_06b02a06_4x5.jpg",
+    "9x16": "interhome_06b02a06_9x16.jpg"
+   }
+  },
+  {
+   "n": "Løbeshop",
+   "cb": "2 %",
+   "cat": "Sport & Fitness",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "lobeshop_01e6d8a8_1x1.jpg",
+    "4x5": "lobeshop_01e6d8a8_4x5.jpg",
+    "9x16": "lobeshop_01e6d8a8_9x16.jpg"
    }
   },
   {
@@ -529,36 +540,25 @@
    }
   },
   {
-   "n": "Nespresso",
-   "cb": "8 %",
-   "cat": "Dagligvarer",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "nespresso_80ce2872_1x1.jpg",
-    "4x5": "nespresso_80ce2872_4x5.jpg",
-    "9x16": "nespresso_80ce2872_9x16.jpg"
-   }
-  },
-  {
-   "n": "Rennoa",
-   "cb": "8 %",
+   "n": "Newport",
+   "cb": "5 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "rennoa_74d851b8_1x1.jpg",
-    "4x5": "rennoa_74d851b8_4x5.jpg",
-    "9x16": "rennoa_74d851b8_9x16.jpg"
+    "1x1": "newport_68bdf15b_1x1.jpg",
+    "4x5": "newport_68bdf15b_4x5.jpg",
+    "9x16": "newport_68bdf15b_9x16.jpg"
    }
   },
   {
-   "n": "Scootworld.dk",
+   "n": "Nicehair",
    "cb": "4 %",
-   "cat": "Sport & Fitness",
+   "cat": "Skønhed & Pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "scootworlddk_a781855b_1x1.jpg",
-    "4x5": "scootworlddk_a781855b_4x5.jpg",
-    "9x16": "scootworlddk_a781855b_9x16.jpg"
+    "1x1": "nicehair-1_1496d0d8_1x1.jpg",
+    "4x5": "nicehair-1_1496d0d8_4x5.jpg",
+    "9x16": "nicehair-1_1496d0d8_9x16.jpg"
    }
   },
   {
@@ -573,6 +573,28 @@
    }
   },
   {
+   "n": "Storage And Shelves",
+   "cb": "5 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "storage-and-shelves_59d73aef_1x1.jpg",
+    "4x5": "storage-and-shelves_59d73aef_4x5.jpg",
+    "9x16": "storage-and-shelves_59d73aef_9x16.jpg"
+   }
+  },
+  {
+   "n": "Stylemekka",
+   "cb": "5 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "stylemekka_b0a8d748_1x1.jpg",
+    "4x5": "stylemekka_b0a8d748_4x5.jpg",
+    "9x16": "stylemekka_b0a8d748_9x16.jpg"
+   }
+  },
+  {
    "n": "Supplipet",
    "cb": "6 %",
    "cat": "Dyr",
@@ -584,25 +606,25 @@
    }
   },
   {
-   "n": "Watery",
-   "cb": "5 %",
-   "cat": "Sport & Fitness",
+   "n": "Telmore mobilabonnement",
+   "cb": "200 kr",
+   "cat": "Services",
    "tier": "catalog",
    "imgs": {
-    "1x1": "watery_40022c6e_1x1.jpg",
-    "4x5": "watery_40022c6e_4x5.jpg",
-    "9x16": "watery_40022c6e_9x16.jpg"
+    "1x1": "telmore-mobilabonnement_7ab579a2_1x1.jpg",
+    "4x5": "telmore-mobilabonnement_7ab579a2_4x5.jpg",
+    "9x16": "telmore-mobilabonnement_7ab579a2_9x16.jpg"
    }
   },
   {
-   "n": "Witt",
-   "cb": "5 %",
-   "cat": "Bolig & have",
+   "n": "Top4Running",
+   "cb": "3 %",
+   "cat": "Sport & Fitness",
    "tier": "catalog",
    "imgs": {
-    "1x1": "witt_19b9c397_1x1.jpg",
-    "4x5": "witt_19b9c397_4x5.jpg",
-    "9x16": "witt_19b9c397_9x16.jpg"
+    "1x1": "top4running_d13e13b1_1x1.jpg",
+    "4x5": "top4running_d13e13b1_4x5.jpg",
+    "9x16": "top4running_d13e13b1_9x16.jpg"
    }
   }
  ],
