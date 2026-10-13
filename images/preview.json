@@ -243,14 +243,14 @@
    }
   },
   {
-   "n": "Apopro",
-   "cb": "5 %",
-   "cat": "Skønhed & Pleje",
+   "n": "Telenor Bredbånd",
+   "cb": "250 kr",
+   "cat": "Services",
    "tier": "popular",
    "imgs": {
-    "1x1": "apopro_d0dea118_1x1.jpg",
-    "4x5": "apopro_d0dea118_4x5.jpg",
-    "9x16": "apopro_d0dea118_9x16.jpg"
+    "1x1": "telenor-bredband_6679617b_1x1.jpg",
+    "4x5": "telenor-bredband_6679617b_4x5.jpg",
+    "9x16": "telenor-bredband_6679617b_9x16.jpg"
    }
   },
   {
@@ -265,14 +265,14 @@
    }
   },
   {
-   "n": "Telenor Bredbånd",
-   "cb": "250 kr",
-   "cat": "Services",
+   "n": "Apopro",
+   "cb": "5 %",
+   "cat": "Skønhed & Pleje",
    "tier": "popular",
    "imgs": {
-    "1x1": "telenor-bredband_6679617b_1x1.jpg",
-    "4x5": "telenor-bredband_6679617b_4x5.jpg",
-    "9x16": "telenor-bredband_6679617b_9x16.jpg"
+    "1x1": "apopro_d0dea118_1x1.jpg",
+    "4x5": "apopro_d0dea118_4x5.jpg",
+    "9x16": "apopro_d0dea118_9x16.jpg"
    }
   },
   {
@@ -430,69 +430,69 @@
    }
   },
   {
-   "n": "Botex.dk",
-   "cb": "6 %",
+   "n": "anew sleep",
+   "cb": "8 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "botexdk_ac00021d_1x1.jpg",
-    "4x5": "botexdk_ac00021d_4x5.jpg",
-    "9x16": "botexdk_ac00021d_9x16.jpg"
+    "1x1": "anew-sleep_c3341333_1x1.jpg",
+    "4x5": "anew-sleep_c3341333_4x5.jpg",
+    "9x16": "anew-sleep_c3341333_9x16.jpg"
    }
   },
   {
-   "n": "CBB Mobil",
-   "cb": "120 kr",
-   "cat": "Services",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "cbb_5a310cab_1x1.jpg",
-    "4x5": "cbb_5a310cab_4x5.jpg",
-    "9x16": "cbb_5a310cab_9x16.jpg"
-   }
-  },
-  {
-   "n": "Cocopanda",
-   "cb": "4 %",
-   "cat": "Skønhed & Pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "cocopanda_241e9817_1x1.jpg",
-    "4x5": "cocopanda_241e9817_4x5.jpg",
-    "9x16": "cocopanda_241e9817_9x16.jpg"
-   }
-  },
-  {
-   "n": "daekonline.dk",
-   "cb": "2 %",
-   "cat": "Rejser, hotel & Transport",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "daekonline-dk_89405d28_1x1.jpg",
-    "4x5": "daekonline-dk_89405d28_4x5.jpg",
-    "9x16": "daekonline-dk_89405d28_9x16.jpg"
-   }
-  },
-  {
-   "n": "DAY ET",
+   "n": "Becksöndergaard",
    "cb": "5 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "day-et_a97e52c7_1x1.jpg",
-    "4x5": "day-et_a97e52c7_4x5.jpg",
-    "9x16": "day-et_a97e52c7_9x16.jpg"
+    "1x1": "becksondergaard_8137ed82_1x1.jpg",
+    "4x5": "becksondergaard_8137ed82_4x5.jpg",
+    "9x16": "becksondergaard_8137ed82_9x16.jpg"
    }
   },
   {
-   "n": "InkClub",
-   "cb": "8 %",
+   "n": "BookBeat",
+   "cb": "50 kr",
+   "cat": "Streaming",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "bookbeat_cc756878_1x1.jpg",
+    "4x5": "bookbeat_cc756878_4x5.jpg",
+    "9x16": "bookbeat_cc756878_9x16.jpg"
+   }
+  },
+  {
+   "n": "Euroflorist",
+   "cb": "6 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "euroflorist_a5c5c6ca_1x1.jpg",
+    "4x5": "euroflorist_a5c5c6ca_4x5.jpg",
+    "9x16": "euroflorist_a5c5c6ca_9x16.jpg"
+   }
+  },
+  {
+   "n": "Factor",
+   "cb": "150 kr",
+   "cat": "Dagligvarer",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "factor_adc167e2_1x1.jpg",
+    "4x5": "factor_adc167e2_4x5.jpg",
+    "9x16": "factor_adc167e2_9x16.jpg"
+   }
+  },
+  {
+   "n": "Kreafunk",
+   "cb": "4 %",
    "cat": "Elektronik",
    "tier": "catalog",
    "imgs": {
-    "1x1": "inkclub_b8105e37_1x1.jpg",
-    "4x5": "inkclub_b8105e37_4x5.jpg",
-    "9x16": "inkclub_b8105e37_9x16.jpg"
+    "1x1": "kreafunk_c84dd8fe_1x1.jpg",
+    "4x5": "kreafunk_c84dd8fe_4x5.jpg",
+    "9x16": "kreafunk_c84dd8fe_9x16.jpg"
    }
   },
   {
@@ -507,14 +507,25 @@
    }
   },
   {
-   "n": "Lystfisk.dk",
-   "cb": "6 %",
-   "cat": "Sport & Fitness",
+   "n": "Lyca Mobile",
+   "cb": "80 kr",
+   "cat": "Services",
    "tier": "catalog",
    "imgs": {
-    "1x1": "lystfiskdk_045c75ab_1x1.jpg",
-    "4x5": "lystfiskdk_045c75ab_4x5.jpg",
-    "9x16": "lystfiskdk_045c75ab_9x16.jpg"
+    "1x1": "lyca-mobile_e444c941_1x1.jpg",
+    "4x5": "lyca-mobile_e444c941_4x5.jpg",
+    "9x16": "lyca-mobile_e444c941_9x16.jpg"
+   }
+  },
+  {
+   "n": "Micha Fashion",
+   "cb": "6 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "micha-fashion_b6843fff_1x1.jpg",
+    "4x5": "micha-fashion_b6843fff_4x5.jpg",
+    "9x16": "micha-fashion_b6843fff_9x16.jpg"
    }
   },
   {
@@ -540,25 +551,47 @@
    }
   },
   {
-   "n": "Proff Turf",
-   "cb": "8 %",
-   "cat": "Bolig & have",
+   "n": "Oslo Skin Lab",
+   "cb": "150 kr",
+   "cat": "Skønhed & Pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "proff-turf_15e16cd3_1x1.jpg",
-    "4x5": "proff-turf_15e16cd3_4x5.jpg",
-    "9x16": "proff-turf_15e16cd3_9x16.jpg"
+    "1x1": "oslo-skin-lab_c64bb6ac_1x1.jpg",
+    "4x5": "oslo-skin-lab_c64bb6ac_4x5.jpg",
+    "9x16": "oslo-skin-lab_c64bb6ac_9x16.jpg"
    }
   },
   {
-   "n": "RITO",
-   "cb": "3 %",
-   "cat": "Bolig & have",
+   "n": "SAMSUNG",
+   "cb": "2 %",
+   "cat": "Elektronik",
    "tier": "catalog",
    "imgs": {
-    "1x1": "rito_5a13352e_1x1.jpg",
-    "4x5": "rito_5a13352e_4x5.jpg",
-    "9x16": "rito_5a13352e_9x16.jpg"
+    "1x1": "samsung_38f73044_1x1.jpg",
+    "4x5": "samsung_38f73044_4x5.jpg",
+    "9x16": "samsung_38f73044_9x16.jpg"
+   }
+  },
+  {
+   "n": "Sephora",
+   "cb": "6 %",
+   "cat": "Skønhed & Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "sephora_946934a6_1x1.jpg",
+    "4x5": "sephora_946934a6_4x5.jpg",
+    "9x16": "sephora_946934a6_9x16.jpg"
+   }
+  },
+  {
+   "n": "SkinSense",
+   "cb": "6 %",
+   "cat": "Skønhed & Pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "httpsskinsensedk_f1c39173_1x1.jpg",
+    "4x5": "httpsskinsensedk_f1c39173_4x5.jpg",
+    "9x16": "httpsskinsensedk_f1c39173_9x16.jpg"
    }
   },
   {
@@ -581,17 +614,6 @@
     "1x1": "supplipet_b8ce9155_1x1.jpg",
     "4x5": "supplipet_b8ce9155_4x5.jpg",
     "9x16": "supplipet_b8ce9155_9x16.jpg"
-   }
-  },
-  {
-   "n": "Vanilla Copenhagen",
-   "cb": "7 %",
-   "cat": "Børn",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "vanilla-copenhagen_7377fe02_1x1.jpg",
-    "4x5": "vanilla-copenhagen_7377fe02_4x5.jpg",
-    "9x16": "vanilla-copenhagen_7377fe02_9x16.jpg"
    }
   }
  ],
