@@ -232,17 +232,6 @@
    }
   },
   {
-   "n": "Apopro",
-   "cb": "5 %",
-   "cat": "Skønhed & Pleje",
-   "tier": "popular",
-   "imgs": {
-    "1x1": "apopro_d0dea118_1x1.jpg",
-    "4x5": "apopro_d0dea118_4x5.jpg",
-    "9x16": "apopro_d0dea118_9x16.jpg"
-   }
-  },
-  {
    "n": "BabySam",
    "cb": "5 %",
    "cat": "Børn",
@@ -265,14 +254,25 @@
    }
   },
   {
-   "n": "Selected",
-   "cb": "6 %",
+   "n": "Lounge by Zalando",
+   "cb": "4 %",
    "cat": "Mode",
    "tier": "popular",
    "imgs": {
-    "1x1": "selected_4aba265e_1x1.jpg",
-    "4x5": "selected_4aba265e_4x5.jpg",
-    "9x16": "selected_4aba265e_9x16.jpg"
+    "1x1": "zalando-lounge_8cdf2adc_1x1.jpg",
+    "4x5": "zalando-lounge_8cdf2adc_4x5.jpg",
+    "9x16": "zalando-lounge_8cdf2adc_9x16.jpg"
+   }
+  },
+  {
+   "n": "Apopro",
+   "cb": "5 %",
+   "cat": "Skønhed & Pleje",
+   "tier": "popular",
+   "imgs": {
+    "1x1": "apopro_d0dea118_1x1.jpg",
+    "4x5": "apopro_d0dea118_4x5.jpg",
+    "9x16": "apopro_d0dea118_9x16.jpg"
    }
   },
   {
@@ -353,6 +353,17 @@
    }
   },
   {
+   "n": "Selected",
+   "cb": "6 %",
+   "cat": "Mode",
+   "tier": "newest",
+   "imgs": {
+    "1x1": "selected_4aba265e_1x1.jpg",
+    "4x5": "selected_4aba265e_4x5.jpg",
+    "9x16": "selected_4aba265e_9x16.jpg"
+   }
+  },
+  {
    "n": "Dreamystudio.dk",
    "cb": "10 %",
    "cat": "Skønhed & pleje",
@@ -408,14 +419,25 @@
    }
   },
   {
-   "n": "Anodyne",
-   "cb": "10 %",
-   "cat": "Skønhed & Pleje",
+   "n": "Animigo",
+   "cb": "7 %",
+   "cat": "Dyr",
    "tier": "catalog",
    "imgs": {
-    "1x1": "anodyne_b6f355db_1x1.jpg",
-    "4x5": "anodyne_b6f355db_4x5.jpg",
-    "9x16": "anodyne_b6f355db_9x16.jpg"
+    "1x1": "animigo_c4aa6db6_1x1.jpg",
+    "4x5": "animigo_c4aa6db6_4x5.jpg",
+    "9x16": "animigo_c4aa6db6_9x16.jpg"
+   }
+  },
+  {
+   "n": "Asus",
+   "cb": "2 %",
+   "cat": "Elektronik",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "asus_726a7823_1x1.jpg",
+    "4x5": "asus_726a7823_4x5.jpg",
+    "9x16": "asus_726a7823_9x16.jpg"
    }
   },
   {
@@ -430,6 +452,28 @@
    }
   },
   {
+   "n": "Björn Borg",
+   "cb": "6 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "bjorn-borg_5e3f4ee8_1x1.jpg",
+    "4x5": "bjorn-borg_5e3f4ee8_4x5.jpg",
+    "9x16": "bjorn-borg_5e3f4ee8_9x16.jpg"
+   }
+  },
+  {
+   "n": "Bubbleroom",
+   "cb": "4 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "bubbleroom_de59feb7_1x1.jpg",
+    "4x5": "bubbleroom_de59feb7_4x5.jpg",
+    "9x16": "bubbleroom_de59feb7_9x16.jpg"
+   }
+  },
+  {
    "n": "Bubliq",
    "cb": "8 %",
    "cat": "Bolig & have",
@@ -441,47 +485,14 @@
    }
   },
   {
-   "n": "Daniel Wellington",
-   "cb": "6 %",
-   "cat": "Mode",
+   "n": "Flexii",
+   "cb": "140 kr",
+   "cat": "Mobiltelefoni",
    "tier": "catalog",
    "imgs": {
-    "1x1": "daniel-wellington_87d6e03e_1x1.jpg",
-    "4x5": "daniel-wellington_87d6e03e_4x5.jpg",
-    "9x16": "daniel-wellington_87d6e03e_9x16.jpg"
-   }
-  },
-  {
-   "n": "DAY ET",
-   "cb": "5 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "day-et_a97e52c7_1x1.jpg",
-    "4x5": "day-et_a97e52c7_4x5.jpg",
-    "9x16": "day-et_a97e52c7_9x16.jpg"
-   }
-  },
-  {
-   "n": "Direct Ferries",
-   "cb": "2 %",
-   "cat": "Rejser, hotel & Transport",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "direct-ferries_035ae109_1x1.jpg",
-    "4x5": "direct-ferries_035ae109_4x5.jpg",
-    "9x16": "direct-ferries_035ae109_9x16.jpg"
-   }
-  },
-  {
-   "n": "Dyson",
-   "cb": "2 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "dyson_8e1368c6_1x1.jpg",
-    "4x5": "dyson_8e1368c6_4x5.jpg",
-    "9x16": "dyson_8e1368c6_9x16.jpg"
+    "1x1": "flexii_a97189cc_1x1.jpg",
+    "4x5": "flexii_a97189cc_4x5.jpg",
+    "9x16": "flexii_a97189cc_9x16.jpg"
    }
   },
   {
@@ -496,80 +507,58 @@
    }
   },
   {
-   "n": "Homeroom",
-   "cb": "3 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "homeroom_9046abbe_1x1.jpg",
-    "4x5": "homeroom_9046abbe_4x5.jpg",
-    "9x16": "homeroom_9046abbe_9x16.jpg"
-   }
-  },
-  {
-   "n": "Interhome",
-   "cb": "5 %",
-   "cat": "Rejser, hotel & Transport",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "interhome_06b02a06_1x1.jpg",
-    "4x5": "interhome_06b02a06_4x5.jpg",
-    "9x16": "interhome_06b02a06_9x16.jpg"
-   }
-  },
-  {
-   "n": "iRobot.dk",
-   "cb": "5 %",
-   "cat": "Elektronik",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "irobotdk_8c2acd6b_1x1.jpg",
-    "4x5": "irobotdk_8c2acd6b_4x5.jpg",
-    "9x16": "irobotdk_8c2acd6b_9x16.jpg"
-   }
-  },
-  {
-   "n": "Jabra",
-   "cb": "4 %",
-   "cat": "Elektronik",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "jabra_84cfcc29_1x1.jpg",
-    "4x5": "jabra_84cfcc29_4x5.jpg",
-    "9x16": "jabra_84cfcc29_9x16.jpg"
-   }
-  },
-  {
-   "n": "Legebyen",
+   "n": "Legeakademiet",
    "cb": "5 %",
    "cat": "Børn",
    "tier": "catalog",
    "imgs": {
-    "1x1": "legebyen_f7fc33ed_1x1.jpg",
-    "4x5": "legebyen_f7fc33ed_4x5.jpg",
-    "9x16": "legebyen_f7fc33ed_9x16.jpg"
+    "1x1": "legeakademiet_f821ab04_1x1.jpg",
+    "4x5": "legeakademiet_f821ab04_4x5.jpg",
+    "9x16": "legeakademiet_f821ab04_9x16.jpg"
    }
   },
   {
-   "n": "Lounge by Zalando",
-   "cb": "4 %",
-   "cat": "Mode",
+   "n": "Parfumedreams",
+   "cb": "3 %",
+   "cat": "Skønhed & Pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "zalando-lounge_8cdf2adc_1x1.jpg",
-    "4x5": "zalando-lounge_8cdf2adc_4x5.jpg",
-    "9x16": "zalando-lounge_8cdf2adc_9x16.jpg"
+    "1x1": "parfumedreams_e3cb6180_1x1.jpg",
+    "4x5": "parfumedreams_e3cb6180_4x5.jpg",
+    "9x16": "parfumedreams_e3cb6180_9x16.jpg"
    }
   },
   {
-   "n": "Sistie",
-   "cb": "8 %",
-   "cat": "Mode",
+   "n": "Radisson Hotels",
+   "cb": "2 %",
+   "cat": "Oplevelser & underholdning",
    "tier": "catalog",
    "imgs": {
-    "1x1": "sistie_f9601e88_1x1.jpg",
-    "4x5": "sistie_f9601e88_4x5.jpg",
-    "9x16": "sistie_f9601e88_9x16.jpg"
+    "1x1": "radisson-hotels_03dcee1f_1x1.jpg",
+    "4x5": "radisson-hotels_03dcee1f_4x5.jpg",
+    "9x16": "radisson-hotels_03dcee1f_9x16.jpg"
+   }
+  },
+  {
+   "n": "Skisport",
+   "cb": "3 %",
+   "cat": "Sport & Fitness",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "skisport_24312a2e_1x1.jpg",
+    "4x5": "skisport_24312a2e_4x5.jpg",
+    "9x16": "skisport_24312a2e_9x16.jpg"
+   }
+  },
+  {
+   "n": "Sologstrand.dk",
+   "cb": "3 %",
+   "cat": "Rejser, hotel & Transport",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "sologstranddk_0647a295_1x1.jpg",
+    "4x5": "sologstranddk_0647a295_4x5.jpg",
+    "9x16": "sologstranddk_0647a295_9x16.jpg"
    }
   },
   {
@@ -584,14 +573,14 @@
    }
   },
   {
-   "n": "Xplora",
-   "cb": "9 %",
-   "cat": "Børn",
+   "n": "The Nap",
+   "cb": "10 %",
+   "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "xplora_c7918086_1x1.jpg",
-    "4x5": "xplora_c7918086_4x5.jpg",
-    "9x16": "xplora_c7918086_9x16.jpg"
+    "1x1": "the-nap_8edfeda2_1x1.jpg",
+    "4x5": "the-nap_8edfeda2_4x5.jpg",
+    "9x16": "the-nap_8edfeda2_9x16.jpg"
    }
   }
  ],
