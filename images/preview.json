@@ -232,14 +232,14 @@
    }
   },
   {
-   "n": "Krifa",
-   "cb": "400 kr",
+   "n": "Telenor Bredbånd",
+   "cb": "250 kr",
    "cat": "Services",
    "tier": "popular",
    "imgs": {
-    "1x1": "krifa_8be4cfaf_1x1.jpg",
-    "4x5": "krifa_8be4cfaf_4x5.jpg",
-    "9x16": "krifa_8be4cfaf_9x16.jpg"
+    "1x1": "telenor-bredband_6679617b_1x1.jpg",
+    "4x5": "telenor-bredband_6679617b_4x5.jpg",
+    "9x16": "telenor-bredband_6679617b_9x16.jpg"
    }
   },
   {
@@ -254,25 +254,25 @@
    }
   },
   {
-   "n": "Telenor Bredbånd",
-   "cb": "250 kr",
-   "cat": "Services",
-   "tier": "popular",
-   "imgs": {
-    "1x1": "telenor-bredband_6679617b_1x1.jpg",
-    "4x5": "telenor-bredband_6679617b_4x5.jpg",
-    "9x16": "telenor-bredband_6679617b_9x16.jpg"
-   }
-  },
-  {
-   "n": "Selected",
+   "n": "Pieces",
    "cb": "6 %",
    "cat": "Mode",
    "tier": "popular",
    "imgs": {
-    "1x1": "selected_4aba265e_1x1.jpg",
-    "4x5": "selected_4aba265e_4x5.jpg",
-    "9x16": "selected_4aba265e_9x16.jpg"
+    "1x1": "pieces_caa23863_1x1.jpg",
+    "4x5": "pieces_caa23863_4x5.jpg",
+    "9x16": "pieces_caa23863_9x16.jpg"
+   }
+  },
+  {
+   "n": "Miinto",
+   "cb": "6 %",
+   "cat": "Mode",
+   "tier": "popular",
+   "imgs": {
+    "1x1": "miinto_c25b6e83_1x1.jpg",
+    "4x5": "miinto_c25b6e83_4x5.jpg",
+    "9x16": "miinto_c25b6e83_9x16.jpg"
    }
   },
   {
@@ -408,17 +408,6 @@
    }
   },
   {
-   "n": "Miinto",
-   "cb": "6 %",
-   "cat": "Mode",
-   "tier": "newest",
-   "imgs": {
-    "1x1": "miinto_c25b6e83_1x1.jpg",
-    "4x5": "miinto_c25b6e83_4x5.jpg",
-    "9x16": "miinto_c25b6e83_9x16.jpg"
-   }
-  },
-  {
    "n": "Green SM - App",
    "cb": "15 %",
    "cat": "Services",
@@ -441,17 +430,6 @@
    }
   },
   {
-   "n": "Agroland",
-   "cb": "6 %",
-   "cat": "Dyr",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "agroland_404f05ce_1x1.jpg",
-    "4x5": "agroland_404f05ce_4x5.jpg",
-    "9x16": "agroland_404f05ce_9x16.jpg"
-   }
-  },
-  {
    "n": "AIVIQ",
    "cb": "8 %",
    "cat": "Bolig & have",
@@ -460,6 +438,28 @@
     "1x1": "aiviq_49a6f28b_1x1.jpg",
     "4x5": "aiviq_49a6f28b_4x5.jpg",
     "9x16": "aiviq_49a6f28b_9x16.jpg"
+   }
+  },
+  {
+   "n": "Animigo",
+   "cb": "7 %",
+   "cat": "Dyr",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "animigo_c4aa6db6_1x1.jpg",
+    "4x5": "animigo_c4aa6db6_4x5.jpg",
+    "9x16": "animigo_c4aa6db6_9x16.jpg"
+   }
+  },
+  {
+   "n": "Ascendic",
+   "cb": "8 %",
+   "cat": "Sport & Fitness",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "ascendic_ed6e8dfb_1x1.jpg",
+    "4x5": "ascendic_ed6e8dfb_4x5.jpg",
+    "9x16": "ascendic_ed6e8dfb_9x16.jpg"
    }
   },
   {
@@ -485,69 +485,47 @@
    }
   },
   {
-   "n": "Filibabba",
+   "n": "Blue Glass",
    "cb": "8 %",
-   "cat": "Børn",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "filibabba_17b530c8_1x1.jpg",
-    "4x5": "filibabba_17b530c8_4x5.jpg",
-    "9x16": "filibabba_17b530c8_9x16.jpg"
+    "1x1": "blue-glass_35dab11f_1x1.jpg",
+    "4x5": "blue-glass_35dab11f_4x5.jpg",
+    "9x16": "blue-glass_35dab11f_9x16.jpg"
    }
   },
   {
-   "n": "Flixbus",
-   "cb": "2 %",
-   "cat": "Rejser, hotel & Transport",
+   "n": "Bornfiber",
+   "cb": "250 kr",
+   "cat": "Services",
    "tier": "catalog",
    "imgs": {
-    "1x1": "flixbus_a0fd2226_1x1.jpg",
-    "4x5": "flixbus_a0fd2226_4x5.jpg",
-    "9x16": "flixbus_a0fd2226_9x16.jpg"
+    "1x1": "bornfiber_94d5afb2_1x1.jpg",
+    "4x5": "bornfiber_94d5afb2_4x5.jpg",
+    "9x16": "bornfiber_94d5afb2_9x16.jpg"
    }
   },
   {
-   "n": "Interflora",
-   "cb": "7 %",
+   "n": "Jørgsholm",
+   "cb": "8 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "interflora_ed110d73_1x1.jpg",
-    "4x5": "interflora_ed110d73_4x5.jpg",
-    "9x16": "interflora_ed110d73_9x16.jpg"
+    "1x1": "jorgsholm_417ac55a_1x1.jpg",
+    "4x5": "jorgsholm_417ac55a_4x5.jpg",
+    "9x16": "jorgsholm_417ac55a_9x16.jpg"
    }
   },
   {
-   "n": "iRobot.dk",
-   "cb": "5 %",
-   "cat": "Elektronik",
+   "n": "Krifa",
+   "cb": "400 kr",
+   "cat": "Services",
    "tier": "catalog",
    "imgs": {
-    "1x1": "irobotdk_8c2acd6b_1x1.jpg",
-    "4x5": "irobotdk_8c2acd6b_4x5.jpg",
-    "9x16": "irobotdk_8c2acd6b_9x16.jpg"
-   }
-  },
-  {
-   "n": "Kajak Outdoor",
-   "cb": "6 %",
-   "cat": "Sport & Fitness",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "kajak-outdoor_d682db7c_1x1.jpg",
-    "4x5": "kajak-outdoor_d682db7c_4x5.jpg",
-    "9x16": "kajak-outdoor_d682db7c_9x16.jpg"
-   }
-  },
-  {
-   "n": "Legeakademiet",
-   "cb": "5 %",
-   "cat": "Børn",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "legeakademiet_f821ab04_1x1.jpg",
-    "4x5": "legeakademiet_f821ab04_4x5.jpg",
-    "9x16": "legeakademiet_f821ab04_9x16.jpg"
+    "1x1": "krifa_8be4cfaf_1x1.jpg",
+    "4x5": "krifa_8be4cfaf_4x5.jpg",
+    "9x16": "krifa_8be4cfaf_9x16.jpg"
    }
   },
   {
@@ -562,47 +540,58 @@
    }
   },
   {
-   "n": "Ninja Kitchen",
-   "cb": "3 %",
+   "n": "Rennoa",
+   "cb": "8 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "ninja-kitchen_ea2abba7_1x1.jpg",
-    "4x5": "ninja-kitchen_ea2abba7_4x5.jpg",
-    "9x16": "ninja-kitchen_ea2abba7_9x16.jpg"
+    "1x1": "rennoa_74d851b8_1x1.jpg",
+    "4x5": "rennoa_74d851b8_4x5.jpg",
+    "9x16": "rennoa_74d851b8_9x16.jpg"
    }
   },
   {
-   "n": "Philips Hue",
-   "cb": "4 %",
-   "cat": "Elektronik",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "philips-hue_f8fc5eae_1x1.jpg",
-    "4x5": "philips-hue_f8fc5eae_4x5.jpg",
-    "9x16": "philips-hue_f8fc5eae_9x16.jpg"
-   }
-  },
-  {
-   "n": "Pieces",
+   "n": "Selected",
    "cb": "6 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "pieces_caa23863_1x1.jpg",
-    "4x5": "pieces_caa23863_4x5.jpg",
-    "9x16": "pieces_caa23863_9x16.jpg"
+    "1x1": "selected_4aba265e_1x1.jpg",
+    "4x5": "selected_4aba265e_4x5.jpg",
+    "9x16": "selected_4aba265e_9x16.jpg"
    }
   },
   {
-   "n": "Sistie",
-   "cb": "8 %",
+   "n": "SkyShowtime",
+   "cb": "90 kr",
+   "cat": "Streaming",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "skyshowtime_0b37cd6a_1x1.jpg",
+    "4x5": "skyshowtime_0b37cd6a_4x5.jpg",
+    "9x16": "skyshowtime_0b37cd6a_9x16.jpg"
+   }
+  },
+  {
+   "n": "Storage And Shelves",
+   "cb": "5 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "storage-and-shelves_59d73aef_1x1.jpg",
+    "4x5": "storage-and-shelves_59d73aef_4x5.jpg",
+    "9x16": "storage-and-shelves_59d73aef_9x16.jpg"
+   }
+  },
+  {
+   "n": "Undy",
+   "cb": "5 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "sistie_f9601e88_1x1.jpg",
-    "4x5": "sistie_f9601e88_4x5.jpg",
-    "9x16": "sistie_f9601e88_9x16.jpg"
+    "1x1": "undy_978610fc_1x1.jpg",
+    "4x5": "undy_978610fc_4x5.jpg",
+    "9x16": "undy_978610fc_9x16.jpg"
    }
   }
  ],
