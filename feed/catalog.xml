@@ -350,7 +350,7 @@ Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas f�
   <item>
     <g:id>019e06d9-908d-7082-af88-4c8898ac7f2f</g:id>
     <g:title>Mofibo — 70 kr cashback</g:title>
-    <g:description>Én app - tusindvis af bøger. Gå på eventyr i et kæmpe udvalg med mere end 1 million titler indenfor alle genrer. Læs eller lyt på din smartphone og tablet, hvor i verden det passer dig. Via os får du adgang hele 60 dage (30 timer) til 0…</g:description>
+    <g:description>Om Mofibo Én app - tusindvis af bøger. Gå på eventyr i et kæmpe udvalg med mere end 1 million titler inden for alle genrer. Læs eller lyt på din smartphone eller tablet, uanset hvor i verden du befinder dig. Lige nu får du 50 % rabat i de…</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
@@ -405,25 +405,6 @@ Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas f�
     <g:custom_label_4>00</g:custom_label_4>
   </item>
   <item>
-    <g:id>019e1617-13ea-70b5-b4f0-cbd53312493d</g:id>
-    <g:title>BookBeat — 50 kr cashback</g:title>
-    <g:description>BookBeat er en digital abonnementtjeneste for lyd- og e-bøger. Du kan vælge mellem tre forskellige pakker og finde den, der passer bedst til dig. Du optjener stadig cashback selvom du ikke ønsker at fortsætte dit abonnement efter den…</g:description>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/bookbeat/019e1617-13ea-70b5-b4f0-cbd53312493d</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/bookbeat_cc756878_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/bookbeat_cc756878_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/bookbeat_cc756878_9x16.jpg</g:additional_image_link>
-    <g:brand>BookBeat</g:brand>
-    <g:product_type>Oplevelser &amp; underholdning</g:product_type>
-    <g:custom_label_0>popular</g:custom_label_0>
-    <g:custom_label_1>50 kr</g:custom_label_1>
-    <g:custom_label_2>Oplevelser &amp; underholdning</g:custom_label_2>
-    <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>00</g:custom_label_4>
-  </item>
-  <item>
     <g:id>01a17853-6ab5-72f4-9def-ec1761b5a7d4</g:id>
     <g:title>Miinto — 6 % cashback</g:title>
     <g:description>Miinto er en online modeplatform, der samler et bredt udvalg af brands og butikker ét sted. Platformen kombinerer international mode med personlig stil og gør det nemt at opdage nye favoritter. Vilkår for denne partner Der gives ikke…</g:description>
@@ -441,6 +422,44 @@ Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas f�
     <g:custom_label_2>Mode</g:custom_label_2>
     <g:custom_label_3>online</g:custom_label_3>
     <g:custom_label_4>06</g:custom_label_4>
+  </item>
+  <item>
+    <g:id>01a15367-6fcc-7009-a96a-96fe84522629</g:id>
+    <g:title>Pieces — 6 % cashback</g:title>
+    <g:description>PIECES er et dansk modebrand, der kombinerer aktuelle trends med personlig stil og feminine detaljer. Brandet tilbyder moderne design til kvinder, der ønsker at udtrykke deres individualitet.</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>0.00 DKK</g:price>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/pieces/01a15367-6fcc-7009-a96a-96fe84522629</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/pieces_caa23863_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/pieces_caa23863_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/pieces_caa23863_9x16.jpg</g:additional_image_link>
+    <g:brand>Pieces</g:brand>
+    <g:product_type>Mode</g:product_type>
+    <g:custom_label_0>popular</g:custom_label_0>
+    <g:custom_label_1>6 %</g:custom_label_1>
+    <g:custom_label_2>Mode</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>06</g:custom_label_4>
+  </item>
+  <item>
+    <g:id>019e168b-b343-735f-b95b-eea43e437b73</g:id>
+    <g:title>Apopro — 4 % cashback</g:title>
+    <g:description>Hos Apopro har vi det ene formål, at gøre apoteksvarer tilgængelige for alle danskere. Det skal være nemt og trygt for dig at bestille dine apoteksvarer og din receptmedicin. Bemærk venligst: Der kan ikke optjenes bonus på medicin og/eller…</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>0.00 DKK</g:price>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/apopro/019e168b-b343-735f-b95b-eea43e437b73</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/apopro_d645d068_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/apopro_d645d068_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/apopro_d645d068_9x16.jpg</g:additional_image_link>
+    <g:brand>Apopro</g:brand>
+    <g:product_type>Skønhed &amp; pleje</g:product_type>
+    <g:custom_label_0>popular</g:custom_label_0>
+    <g:custom_label_1>4 %</g:custom_label_1>
+    <g:custom_label_2>Skønhed &amp; pleje</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>04</g:custom_label_4>
   </item>
   <item>
     <g:id>019e1617-08c1-72dc-82a5-faf6853086a7</g:id>
@@ -462,21 +481,40 @@ Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas f�
     <g:custom_label_4>05</g:custom_label_4>
   </item>
   <item>
-    <g:id>019e168b-b343-735f-b95b-eea43e437b73</g:id>
-    <g:title>Apopro — 5 % cashback</g:title>
-    <g:description>Hos Apopro har vi det ene formål, at gøre apoteksvarer tilgængelige for alle danskere. Det skal være nemt og trygt for dig at bestille dine apoteksvarer og din receptmedicin. Bemærk venligst: Der kan ikke optjenes bonus på medicin og/eller…</g:description>
+    <g:id>01a1d3d8-b2ac-70ff-97f9-b0b1e227bad2</g:id>
+    <g:title>Husqvarna — 3 % cashback</g:title>
+    <g:description>Husqvarna er et svensk kvalitetsbrand med mere end 330 års erfaring inden for innovative løsninger til skov og have. Brandet er kendt for avanceret teknologi, funktionelt design og høj kvalitet til både private og professionelle brugere.</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/apopro/019e168b-b343-735f-b95b-eea43e437b73</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/apopro_d0dea118_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/apopro_d0dea118_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/apopro_d0dea118_9x16.jpg</g:additional_image_link>
-    <g:brand>Apopro</g:brand>
-    <g:product_type>Skønhed &amp; pleje</g:product_type>
-    <g:custom_label_0>popular</g:custom_label_0>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/husqvarna/01a1d3d8-b2ac-70ff-97f9-b0b1e227bad2</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/husqvarna_9a05234d_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/husqvarna_9a05234d_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/husqvarna_9a05234d_9x16.jpg</g:additional_image_link>
+    <g:brand>Husqvarna</g:brand>
+    <g:product_type>Bolig &amp; have</g:product_type>
+    <g:custom_label_0>newest</g:custom_label_0>
+    <g:custom_label_1>3 %</g:custom_label_1>
+    <g:custom_label_2>Bolig &amp; have</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>03</g:custom_label_4>
+  </item>
+  <item>
+    <g:id>01a15cea-77db-7293-9ef8-1cc82c4203b3</g:id>
+    <g:title>GoGift gavekort — 5 % cashback</g:title>
+    <g:description>Optjen 5 % på temagavekort hos GoGift</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>0.00 DKK</g:price>
+    <g:link>https://cashbackmedvisa.dk/find-partnere?filter[s]=GoGift%20gavekort</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/go-gift_2a09e785_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/go-gift_2a09e785_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/go-gift_2a09e785_9x16.jpg</g:additional_image_link>
+    <g:brand>GoGift gavekort</g:brand>
+    <g:product_type>Oplevelser &amp; underholdning</g:product_type>
+    <g:custom_label_0>newest</g:custom_label_0>
     <g:custom_label_1>5 %</g:custom_label_1>
-    <g:custom_label_2>Skønhed &amp; pleje</g:custom_label_2>
+    <g:custom_label_2>Oplevelser &amp; underholdning</g:custom_label_2>
     <g:custom_label_3>online</g:custom_label_3>
     <g:custom_label_4>05</g:custom_label_4>
   </item>
@@ -500,21 +538,21 @@ Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas f�
     <g:custom_label_4>06</g:custom_label_4>
   </item>
   <item>
-    <g:id>01a15cea-77db-7293-9ef8-1cc82c4203b3</g:id>
-    <g:title>GoGift gavekort — 5 % cashback</g:title>
-    <g:description>Optjen 5 % på temagavekort hos GoGift</g:description>
+    <g:id>01a1cea2-85d6-71e1-b8ce-fdab7b736abc</g:id>
+    <g:title>IntentionCPH.com — 5 % cashback</g:title>
+    <g:description>Bær dit ord, og klæd væggen i fotokunst Ny kunde: +12 %.</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/find-partnere?filter[s]=GoGift%20gavekort</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/go-gift_2a09e785_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/go-gift_2a09e785_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/go-gift_2a09e785_9x16.jpg</g:additional_image_link>
-    <g:brand>GoGift gavekort</g:brand>
-    <g:product_type>Oplevelser &amp; underholdning</g:product_type>
+    <g:link>https://cashbackmedvisa.dk/find-partnere?filter[s]=IntentionCPH.com</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/intention_a3cc00f8_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/intention_a3cc00f8_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/intention_a3cc00f8_9x16.jpg</g:additional_image_link>
+    <g:brand>IntentionCPH.com</g:brand>
+    <g:product_type>Mode</g:product_type>
     <g:custom_label_0>newest</g:custom_label_0>
     <g:custom_label_1>5 %</g:custom_label_1>
-    <g:custom_label_2>Oplevelser &amp; underholdning</g:custom_label_2>
+    <g:custom_label_2>Mode</g:custom_label_2>
     <g:custom_label_3>online</g:custom_label_3>
     <g:custom_label_4>05</g:custom_label_4>
   </item>
@@ -538,23 +576,23 @@ Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas f�
     <g:custom_label_4>03</g:custom_label_4>
   </item>
   <item>
-    <g:id>01a1a031-2851-73b3-a454-2ddcf9a5feaa</g:id>
-    <g:title>Extremelyrottenprod.com — 6 % cashback</g:title>
-    <g:description>Ekstrem metal på vinyl, cd og kassette online</g:description>
+    <g:id>01a1cfc1-d2fe-7307-9abe-8ca84b88401f</g:id>
+    <g:title>PokemonPortalen.dk — 5 % cashback</g:title>
+    <g:description>Pokémon kort, boosters og alt til samlingen</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/find-partnere?filter[s]=Extremelyrottenprod.com</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/extremely-rotten-productions_9ac86a93_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/extremely-rotten-productions_9ac86a93_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/extremely-rotten-productions_9ac86a93_9x16.jpg</g:additional_image_link>
-    <g:brand>Extremelyrottenprod.com</g:brand>
+    <g:link>https://cashbackmedvisa.dk/find-partnere?filter[s]=PokemonPortalen</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/pokemon-portalen_0789def3_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/pokemon-portalen_0789def3_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/pokemon-portalen_0789def3_9x16.jpg</g:additional_image_link>
+    <g:brand>PokemonPortalen.dk</g:brand>
     <g:product_type>Oplevelser &amp; underholdning</g:product_type>
     <g:custom_label_0>newest</g:custom_label_0>
-    <g:custom_label_1>6 %</g:custom_label_1>
+    <g:custom_label_1>5 %</g:custom_label_1>
     <g:custom_label_2>Oplevelser &amp; underholdning</g:custom_label_2>
-    <g:custom_label_3>online_physical</g:custom_label_3>
-    <g:custom_label_4>06</g:custom_label_4>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>05</g:custom_label_4>
   </item>
   <item>
     <g:id>01a1b105-e3d8-702d-956f-1579e40d6f5c</g:id>
@@ -576,23 +614,23 @@ Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas f�
     <g:custom_label_4>05</g:custom_label_4>
   </item>
   <item>
-    <g:id>01a1a043-9f7d-7092-9795-445663aa0eea</g:id>
-    <g:title>ByensIT.dk — 2 % cashback</g:title>
-    <g:description>Spilklare gamingcomputere og grej fra Byens IT</g:description>
+    <g:id>01a1cf4d-560d-72c9-87da-2bc7e253ffc6</g:id>
+    <g:title>Auto-Show.dk — 8 % cashback</g:title>
+    <g:description>Book billet til Danmarks største bilshow</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/find-partnere?filter[s]=ByensIT</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/byens-it_fe2c3de8_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/byens-it_fe2c3de8_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/byens-it_fe2c3de8_9x16.jpg</g:additional_image_link>
-    <g:brand>ByensIT.dk</g:brand>
-    <g:product_type>Elektronik</g:product_type>
+    <g:link>https://cashbackmedvisa.dk/find-partnere?filter[s]=Auto-Show</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/auto-show_8ce9d705_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/auto-show_8ce9d705_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/auto-show_8ce9d705_9x16.jpg</g:additional_image_link>
+    <g:brand>Auto-Show.dk</g:brand>
+    <g:product_type>Alt til bilen</g:product_type>
     <g:custom_label_0>newest</g:custom_label_0>
-    <g:custom_label_1>2 %</g:custom_label_1>
-    <g:custom_label_2>Elektronik</g:custom_label_2>
-    <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>02</g:custom_label_4>
+    <g:custom_label_1>8 %</g:custom_label_1>
+    <g:custom_label_2>Alt til bilen</g:custom_label_2>
+    <g:custom_label_3>online_physical</g:custom_label_3>
+    <g:custom_label_4>08</g:custom_label_4>
   </item>
   <item>
     <g:id>01a1b057-2c79-735b-91f5-f452e3c77668</g:id>
@@ -614,23 +652,23 @@ Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas f�
     <g:custom_label_4>02</g:custom_label_4>
   </item>
   <item>
-    <g:id>01a16825-6db2-71ee-9787-72a17e8b4aa9</g:id>
-    <g:title>Moonriver.dk — 10 % cashback</g:title>
-    <g:description>Scenens magi: koncerter, musicals og ballet</g:description>
+    <g:id>01a1cfd1-e58c-718f-b06e-67a6ea07b630</g:id>
+    <g:title>TårupStrandCamping.dk — 5 % cashback</g:title>
+    <g:description>Book din strandcamping ved Storebælt online</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/find-partnere?filter[s]=Moonriver</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/moonriver_c3c56a26_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/moonriver_c3c56a26_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/moonriver_c3c56a26_9x16.jpg</g:additional_image_link>
-    <g:brand>Moonriver.dk</g:brand>
-    <g:product_type>Oplevelser &amp; underholdning</g:product_type>
+    <g:link>https://cashbackmedvisa.dk/find-partnere?filter[s]=T%C3%A5rupStrandCamping</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/tarup-strand-camping_c6524012_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/tarup-strand-camping_c6524012_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/tarup-strand-camping_c6524012_9x16.jpg</g:additional_image_link>
+    <g:brand>TårupStrandCamping.dk</g:brand>
+    <g:product_type>Rejser, hotel &amp; transport</g:product_type>
     <g:custom_label_0>newest</g:custom_label_0>
-    <g:custom_label_1>10 %</g:custom_label_1>
-    <g:custom_label_2>Oplevelser &amp; underholdning</g:custom_label_2>
-    <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>10</g:custom_label_4>
+    <g:custom_label_1>5 %</g:custom_label_1>
+    <g:custom_label_2>Rejser, hotel &amp; transport</g:custom_label_2>
+    <g:custom_label_3>online_physical</g:custom_label_3>
+    <g:custom_label_4>05</g:custom_label_4>
   </item>
   <item>
     <g:id>01a1b050-41ad-70f6-ad63-8a68519177e8</g:id>
@@ -652,23 +690,23 @@ Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas f�
     <g:custom_label_4>03</g:custom_label_4>
   </item>
   <item>
-    <g:id>01a17cdd-f493-73cb-a3b5-9201feaf53c9</g:id>
-    <g:title>Dante Vine - København — 5 % cashback</g:title>
-    <g:description>Italienske vine og specialiteter håndplukket fra lokale producenter.</g:description>
+    <g:id>01a1a031-2851-73b3-a454-2ddcf9a5feaa</g:id>
+    <g:title>Extremelyrottenprod.com — 6 % cashback</g:title>
+    <g:description>Ekstrem metal på vinyl, cd og kassette online</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/find-partnere?filter[s]=Dante%20Vine%20-%20K%C3%B8benhavn</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/dante-vine_931575ec_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/dante-vine_931575ec_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/dante-vine_931575ec_9x16.jpg</g:additional_image_link>
-    <g:brand>Dante Vine - København</g:brand>
-    <g:product_type>Dagligvarer</g:product_type>
+    <g:link>https://cashbackmedvisa.dk/find-partnere?filter[s]=Extremelyrottenprod.com</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/extremely-rotten-productions_9ac86a93_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/extremely-rotten-productions_9ac86a93_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/extremely-rotten-productions_9ac86a93_9x16.jpg</g:additional_image_link>
+    <g:brand>Extremelyrottenprod.com</g:brand>
+    <g:product_type>Oplevelser &amp; underholdning</g:product_type>
     <g:custom_label_0>newest</g:custom_label_0>
-    <g:custom_label_1>5 %</g:custom_label_1>
-    <g:custom_label_2>Dagligvarer</g:custom_label_2>
-    <g:custom_label_3>physical</g:custom_label_3>
-    <g:custom_label_4>05</g:custom_label_4>
+    <g:custom_label_1>6 %</g:custom_label_1>
+    <g:custom_label_2>Oplevelser &amp; underholdning</g:custom_label_2>
+    <g:custom_label_3>online_physical</g:custom_label_3>
+    <g:custom_label_4>06</g:custom_label_4>
   </item>
   <item>
     <g:id>01a1ac37-745a-70f5-9548-d60c9f40256b</g:id>
@@ -690,23 +728,23 @@ Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas f�
     <g:custom_label_4>03</g:custom_label_4>
   </item>
   <item>
-    <g:id>01a17c91-ae0b-7225-8dc8-d14a0838e811</g:id>
-    <g:title>SportiganHelsinge.dk — 5 % cashback</g:title>
-    <g:description>Lokal sportswebshop med mærkevarer og klubtø</g:description>
+    <g:id>01a1a043-9f7d-7092-9795-445663aa0eea</g:id>
+    <g:title>ByensIT.dk — 2 % cashback</g:title>
+    <g:description>Spilklare gamingcomputere og grej fra Byens IT</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/find-partnere?filter[s]=SportiganHelsinge</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/sportigan-helsinge_06725628_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/sportigan-helsinge_06725628_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/sportigan-helsinge_06725628_9x16.jpg</g:additional_image_link>
-    <g:brand>SportiganHelsinge.dk</g:brand>
-    <g:product_type>Sport &amp; fitness</g:product_type>
+    <g:link>https://cashbackmedvisa.dk/find-partnere?filter[s]=ByensIT</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/byens-it_fe2c3de8_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/byens-it_fe2c3de8_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/byens-it_fe2c3de8_9x16.jpg</g:additional_image_link>
+    <g:brand>ByensIT.dk</g:brand>
+    <g:product_type>Elektronik</g:product_type>
     <g:custom_label_0>newest</g:custom_label_0>
-    <g:custom_label_1>5 %</g:custom_label_1>
-    <g:custom_label_2>Sport &amp; fitness</g:custom_label_2>
-    <g:custom_label_3>online_physical</g:custom_label_3>
-    <g:custom_label_4>05</g:custom_label_4>
+    <g:custom_label_1>2 %</g:custom_label_1>
+    <g:custom_label_2>Elektronik</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>02</g:custom_label_4>
   </item>
   <item>
     <g:id>01a1ac30-bb45-71f9-bc2e-a7418ac6fe70</g:id>
@@ -728,25 +766,6 @@ Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas f�
     <g:custom_label_4>03</g:custom_label_4>
   </item>
   <item>
-    <g:id>01a16813-1405-7223-be3c-ea7e33122cbf</g:id>
-    <g:title>LangsVanilje.dk — 5 % cashback</g:title>
-    <g:description>Vanilje, der dufter af Madagaskar</g:description>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/find-partnere?filter[s]=LangsVanilje</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/langs-vanilije_14f1516b_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/langs-vanilije_14f1516b_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/langs-vanilije_14f1516b_9x16.jpg</g:additional_image_link>
-    <g:brand>LangsVanilje.dk</g:brand>
-    <g:product_type>Dagligvarer</g:product_type>
-    <g:custom_label_0>newest</g:custom_label_0>
-    <g:custom_label_1>5 %</g:custom_label_1>
-    <g:custom_label_2>Dagligvarer</g:custom_label_2>
-    <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>05</g:custom_label_4>
-  </item>
-  <item>
     <g:id>01a1abc3-9632-71b4-be2c-6f5c7b0dc2aa</g:id>
     <g:title>A Retro Tale — 5 % cashback</g:title>
     <g:description>A Retro Tale hylder vintage og tidløs stil med fokus på personlighed, nostalgi og unikke fund. Brandet gør det nemt at finde særlige styles med historie og karakter.</g:description>
@@ -759,11 +778,125 @@ Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas f�
     <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/a-retro-tale_3a68c407_9x16.jpg</g:additional_image_link>
     <g:brand>A Retro Tale</g:brand>
     <g:product_type>Mode</g:product_type>
-    <g:custom_label_0>newest</g:custom_label_0>
+    <g:custom_label_0>catalog</g:custom_label_0>
     <g:custom_label_1>5 %</g:custom_label_1>
     <g:custom_label_2>Mode</g:custom_label_2>
     <g:custom_label_3>online</g:custom_label_3>
     <g:custom_label_4>05</g:custom_label_4>
+  </item>
+  <item>
+    <g:id>019e16f7-61fe-71ba-a5c4-73498b53ed1e</g:id>
+    <g:title>Albert — 70 kr cashback</g:title>
+    <g:description>Albert er en app-baseret uddannelsesplatform for børn i alderen 3-9 år samt 10-16 år. De tilbyder digitale undervisningstjenester på abonnementsbasis i matematik og programmering. Siden starten har de hjulpet over 275.000 familier med…</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>0.00 DKK</g:price>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/albert/019e16f7-61fe-71ba-a5c4-73498b53ed1e</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/albert_555aee06_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/albert_555aee06_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/albert_555aee06_9x16.jpg</g:additional_image_link>
+    <g:brand>Albert</g:brand>
+    <g:product_type>Oplevelser &amp; underholdning</g:product_type>
+    <g:custom_label_0>catalog</g:custom_label_0>
+    <g:custom_label_1>70 kr</g:custom_label_1>
+    <g:custom_label_2>Oplevelser &amp; underholdning</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>00</g:custom_label_4>
+  </item>
+  <item>
+    <g:id>019e1724-a730-724b-a6c1-e41048baa8e4</g:id>
+    <g:title>Batteribyen — 5 % cashback</g:title>
+    <g:description>Batteribyen.dk sælger alle slags batterier, ladere, elværktøj &amp; havemaskiner til private og virksomheder. Med næsten 100.000 anmeldelser på Trustpilot, de fleste af dem med 5 stjerner kan du roligt handle det du lige står og mangler.</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>0.00 DKK</g:price>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/batteribyen/019e1724-a730-724b-a6c1-e41048baa8e4</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/batteribyen_e6a429f5_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/batteribyen_e6a429f5_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/batteribyen_e6a429f5_9x16.jpg</g:additional_image_link>
+    <g:brand>Batteribyen</g:brand>
+    <g:product_type>Elektronik</g:product_type>
+    <g:custom_label_0>catalog</g:custom_label_0>
+    <g:custom_label_1>5 %</g:custom_label_1>
+    <g:custom_label_2>Elektronik</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>05</g:custom_label_4>
+  </item>
+  <item>
+    <g:id>019e06e2-19b0-726c-8bae-461f67a34765</g:id>
+    <g:title>Beautycos — 5 % cashback</g:title>
+    <g:description>Beautycos har Danmarks største udvalg af hårprodukter og sælger alle de kendte mærker, som du kan få hos din frisør, bare meget billigere. Vi kæmper hver dag for at være Danmarks billigste forhandler af hårprodukter. Vi har et kæmpe udvalg…</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>0.00 DKK</g:price>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/beautycos/019e06e2-19b0-726c-8bae-461f67a34765</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/beautycos_ef6c437b_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/beautycos_ef6c437b_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/beautycos_ef6c437b_9x16.jpg</g:additional_image_link>
+    <g:brand>Beautycos</g:brand>
+    <g:product_type>Skønhed &amp; pleje</g:product_type>
+    <g:custom_label_0>catalog</g:custom_label_0>
+    <g:custom_label_1>5 %</g:custom_label_1>
+    <g:custom_label_2>Skønhed &amp; pleje</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>05</g:custom_label_4>
+  </item>
+  <item>
+    <g:id>019e16f7-5222-730b-83a0-e1afdc3fdbfe</g:id>
+    <g:title>BIVA — 4 % cashback</g:title>
+    <g:description>BIVA blev i 2019 opkøbt af XL-Møbler. Efter opkøb, blev alle butikker lukket, og onlinehandel var den eneste mulighed for handel af møbler fra BIVA. Dog blev der i februar 2020, genåbnet et stort møbelhus i Ringe på Fyn.</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>0.00 DKK</g:price>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/biva-1/019e16f7-5222-730b-83a0-e1afdc3fdbfe</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/biva-1_3c722fa8_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/biva-1_3c722fa8_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/biva-1_3c722fa8_9x16.jpg</g:additional_image_link>
+    <g:brand>BIVA</g:brand>
+    <g:product_type>Bolig &amp; have</g:product_type>
+    <g:custom_label_0>catalog</g:custom_label_0>
+    <g:custom_label_1>4 %</g:custom_label_1>
+    <g:custom_label_2>Bolig &amp; have</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>04</g:custom_label_4>
+  </item>
+  <item>
+    <g:id>019e171d-4b2d-70c6-b3c8-2b293d853d42</g:id>
+    <g:title>Blue Glass — 8 % cashback</g:title>
+    <g:description>BlueGlass.dk er en dansk webshop, der forhandler designglas, glasprodukter og tilbehør til borddækning og hjemmets indretning.</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>0.00 DKK</g:price>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/blue-glass/019e171d-4b2d-70c6-b3c8-2b293d853d42</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/blue-glass_35dab11f_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/blue-glass_35dab11f_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/blue-glass_35dab11f_9x16.jpg</g:additional_image_link>
+    <g:brand>Blue Glass</g:brand>
+    <g:product_type>Mode</g:product_type>
+    <g:custom_label_0>catalog</g:custom_label_0>
+    <g:custom_label_1>8 %</g:custom_label_1>
+    <g:custom_label_2>Mode</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>08</g:custom_label_4>
+  </item>
+  <item>
+    <g:id>019e1617-13ea-70b5-b4f0-cbd53312493d</g:id>
+    <g:title>BookBeat — 50 kr cashback</g:title>
+    <g:description>BookBeat er en digital abonnementtjeneste for lyd- og e-bøger. Du kan vælge mellem tre forskellige pakker og finde den, der passer bedst til dig. Du optjener stadig cashback selvom du ikke ønsker at fortsætte dit abonnement efter den…</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>0.00 DKK</g:price>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/bookbeat/019e1617-13ea-70b5-b4f0-cbd53312493d</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/bookbeat_cc756878_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/bookbeat_cc756878_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/bookbeat_cc756878_9x16.jpg</g:additional_image_link>
+    <g:brand>BookBeat</g:brand>
+    <g:product_type>Oplevelser &amp; underholdning</g:product_type>
+    <g:custom_label_0>catalog</g:custom_label_0>
+    <g:custom_label_1>50 kr</g:custom_label_1>
+    <g:custom_label_2>Oplevelser &amp; underholdning</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>00</g:custom_label_4>
   </item>
   <item>
     <g:id>01a1abaf-baa4-70dc-a685-7cd793d2f6e2</g:id>
@@ -785,104 +918,66 @@ Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas f�
     <g:custom_label_4>06</g:custom_label_4>
   </item>
   <item>
-    <g:id>019e1709-5f80-70d9-8a41-cf786edcb4bf</g:id>
-    <g:title>Dania Bikes — 3 % cashback</g:title>
-    <g:description>Dania Bikes er en dansk e‑mærket cykelwebshop og fysisk butik i Rødekro, der tilbyder et bredt udvalg af kvalitetscykler (fra hverdag til high-end og e‑bikes), cykeltilbehør, reservedel og professionel service inkl. Body Geometry-fit og…</g:description>
+    <g:id>019e1707-34ee-7274-a306-0f0ee5ef0345</g:id>
+    <g:title>Dansk.dk — 6 % cashback</g:title>
+    <g:description>Dansk.dk er en dansk, familieejet e-mærket tøjkæde og webshop grundlagt i 2004 (tidligere kendt som Dansk Outlet), som tilbyder et stort udvalg af tøj til hele familien — fra baby til XXL — med outletpriser, prismatch, prisgaranti.</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/dania-bikes/019e1709-5f80-70d9-8a41-cf786edcb4bf</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/dania-bikes_f7c8be40_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/dania-bikes_f7c8be40_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/dania-bikes_f7c8be40_9x16.jpg</g:additional_image_link>
-    <g:brand>Dania Bikes</g:brand>
-    <g:product_type>Sport &amp; fitness</g:product_type>
-    <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>3 %</g:custom_label_1>
-    <g:custom_label_2>Sport &amp; fitness</g:custom_label_2>
-    <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>03</g:custom_label_4>
-  </item>
-  <item>
-    <g:id>019e168c-a4b8-7350-aa00-5e7792007653</g:id>
-    <g:title>Early Bird — 5 % cashback</g:title>
-    <g:description>På earlybird.dk sælges dagens ledige borde fra mere end 75 af de bedste restauranter - altid med 1/3 skåret af prisen! Early Bird går op i kvalitet og håndplukker sine samarbejdsrestauranter, så gæsterne er sikre på gode spiseoplevelser…</g:description>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/early-bird/019e168c-a4b8-7350-aa00-5e7792007653</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/early-bird_47c586f5_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/early-bird_47c586f5_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/early-bird_47c586f5_9x16.jpg</g:additional_image_link>
-    <g:brand>Early Bird</g:brand>
-    <g:product_type>Dagligvarer</g:product_type>
-    <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>5 %</g:custom_label_1>
-    <g:custom_label_2>Dagligvarer</g:custom_label_2>
-    <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>05</g:custom_label_4>
-  </item>
-  <item>
-    <g:id>019e16fc-c510-72db-b6b1-cfbb2b403e8b</g:id>
-    <g:title>GANT — 2 % cashback</g:title>
-    <g:description>Etableret i 1949, Gant er et livsstilsmærke med en amerikansk sportstøjsarv. Vi tilbyder en række produkter på tværs af vores hovedsortiment såvel som GANT Rugger og GANT af Michael Bastian – herunder herre poloshirts, herre chinos, herre…</g:description>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/gant-3/019e16fc-c510-72db-b6b1-cfbb2b403e8b</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/gant-3_b9804a9e_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/gant-3_b9804a9e_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/gant-3_b9804a9e_9x16.jpg</g:additional_image_link>
-    <g:brand>GANT</g:brand>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/danskdk/019e1707-34ee-7274-a306-0f0ee5ef0345</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/danskdk_792645e0_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/danskdk_792645e0_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/danskdk_792645e0_9x16.jpg</g:additional_image_link>
+    <g:brand>Dansk.dk</g:brand>
     <g:product_type>Mode</g:product_type>
     <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>2 %</g:custom_label_1>
+    <g:custom_label_1>6 %</g:custom_label_1>
     <g:custom_label_2>Mode</g:custom_label_2>
     <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>02</g:custom_label_4>
+    <g:custom_label_4>06</g:custom_label_4>
   </item>
   <item>
-    <g:id>019e170c-4a52-7299-b550-349ba2c606f8</g:id>
-    <g:title>HC Farver — 3 % cashback</g:title>
-    <g:description>HC Farver er en dansk, familieejet online farvehandel og fysisk butik i Randers, der siden 1976 har tilbudt et bredt sortiment af maling, autolak, bådmaling, kunstnerartikler og tilbehør - til både private og professionelle - med lave…</g:description>
+    <g:id>019fd671-db71-7094-87d6-975c99306734</g:id>
+    <g:title>Ecykelhjelm.dk — 8 % cashback</g:title>
+    <g:description>eCykelhjelm.dk tilbyder et stort udvalg af cykelhjelme til børn og voksne fra kendte mærker. Webshoppen fokuserer på sikkerhed, vejledning, hurtig levering, konkurrencedygtige priser og personlig kundeservice.</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/hc-farver/019e170c-4a52-7299-b550-349ba2c606f8</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/hc-farver_882f5ea9_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/hc-farver_882f5ea9_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/hc-farver_882f5ea9_9x16.jpg</g:additional_image_link>
-    <g:brand>HC Farver</g:brand>
-    <g:product_type>Oplevelser &amp; underholdning</g:product_type>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/ecykelhjelmdk/019fd671-db71-7094-87d6-975c99306734</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/ecykelhjelmdk_d8823605_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/ecykelhjelmdk_d8823605_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/ecykelhjelmdk_d8823605_9x16.jpg</g:additional_image_link>
+    <g:brand>Ecykelhjelm.dk</g:brand>
+    <g:product_type>Sport &amp; fitness</g:product_type>
     <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>3 %</g:custom_label_1>
-    <g:custom_label_2>Oplevelser &amp; underholdning</g:custom_label_2>
+    <g:custom_label_1>8 %</g:custom_label_1>
+    <g:custom_label_2>Sport &amp; fitness</g:custom_label_2>
     <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>03</g:custom_label_4>
+    <g:custom_label_4>08</g:custom_label_4>
   </item>
   <item>
-    <g:id>01a08a58-824f-7393-bc4b-e543a442f56a</g:id>
-    <g:title>Kreafunk — 4 % cashback</g:title>
-    <g:description>Kreafunk er et dansk design- og livsstilsbrand, der kombinerer god lyd, funktionalitet og skandinavisk æstetik. Brandet skaber stilfulde og brugervenlige produkter, hvor kreativitet, kvalitet og moderne design går hånd i hånd.</g:description>
+    <g:id>019e1707-2acd-70e4-9f64-00d0c7b24d1a</g:id>
+    <g:title>Havemøbelland.dk — 4 % cashback</g:title>
+    <g:description>Havemøbelland.dk er en dansk e-mærket webshop og kæde med fysiske butikker (Helsingør, Helsing­e og Ballerup), som tilbyder Danmarks største udvalg af havemøbler, loungemøbler, hynder, parasoller samt tilbehør og indretning til ude- og…</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/kreafunk/01a08a58-824f-7393-bc4b-e543a442f56a</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/kreafunk_c84dd8fe_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/kreafunk_c84dd8fe_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/kreafunk_c84dd8fe_9x16.jpg</g:additional_image_link>
-    <g:brand>Kreafunk</g:brand>
-    <g:product_type>Elektronik</g:product_type>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/havemobellanddk/019e1707-2acd-70e4-9f64-00d0c7b24d1a</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/havemobellanddk_5580f5a0_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/havemobellanddk_5580f5a0_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/havemobellanddk_5580f5a0_9x16.jpg</g:additional_image_link>
+    <g:brand>Havemøbelland.dk</g:brand>
+    <g:product_type>Bolig &amp; have</g:product_type>
     <g:custom_label_0>catalog</g:custom_label_0>
     <g:custom_label_1>4 %</g:custom_label_1>
-    <g:custom_label_2>Elektronik</g:custom_label_2>
+    <g:custom_label_2>Bolig &amp; have</g:custom_label_2>
     <g:custom_label_3>online</g:custom_label_3>
     <g:custom_label_4>04</g:custom_label_4>
   </item>
   <item>
     <g:id>019e171f-c9b2-726d-ba60-7968a6192132</g:id>
     <g:title>Krifa — 400 kr cashback</g:title>
-    <g:description>Krifa er en dansk fagforening og a-kasse med fokus på trivsel, udvikling og støtte i arbejdslivet. Som medlem får du faglig støtte til en bedre balance i din arbejdsdag. Fra 26. oktober til 4. december får du et gavekort på 1.000 kr. og 12…</g:description>
+    <g:description>Om Krifa Krifa er en dansk fagforening og a-kasse med fokus på trivsel, udvikling og støtte i arbejdslivet. Som medlem får du faglig støtte til en bedre balance i din arbejdsdag. Til og med d. 4. december får du et gavekort på 1.000 kr. og…</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
@@ -894,6 +989,25 @@ Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas f�
     <g:product_type>Services</g:product_type>
     <g:custom_label_0>catalog</g:custom_label_0>
     <g:custom_label_1>400 kr</g:custom_label_1>
+    <g:custom_label_2>Services</g:custom_label_2>
+    <g:custom_label_3>online</g:custom_label_3>
+    <g:custom_label_4>00</g:custom_label_4>
+  </item>
+  <item>
+    <g:id>019ffb22-c8aa-738c-8770-d0a88d5a0bf3</g:id>
+    <g:title>Lebara — 80 kr cashback</g:title>
+    <g:description>Lebara tilbyder billige mobilabonnementer og mobilt bredbånd med data, taletid, SMS og EU-roaming. Sortimentet omfatter også SIM-kort, eSIM og løsninger til internationale opkald og rejser.</g:description>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:price>0.00 DKK</g:price>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/lebara/019ffb22-c8aa-738c-8770-d0a88d5a0bf3</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/lebara_42bebcba_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/lebara_42bebcba_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/lebara_42bebcba_9x16.jpg</g:additional_image_link>
+    <g:brand>Lebara</g:brand>
+    <g:product_type>Services</g:product_type>
+    <g:custom_label_0>catalog</g:custom_label_0>
+    <g:custom_label_1>80 kr</g:custom_label_1>
     <g:custom_label_2>Services</g:custom_label_2>
     <g:custom_label_3>online</g:custom_label_3>
     <g:custom_label_4>00</g:custom_label_4>
@@ -918,25 +1032,6 @@ Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas f�
     <g:custom_label_4>04</g:custom_label_4>
   </item>
   <item>
-    <g:id>019e1734-57ee-70c6-a24d-a2ff2e5b41ed</g:id>
-    <g:title>Like ANNA — 6 % cashback</g:title>
-    <g:description>Like ANNA forhandler mode til kvinder med fokus på både komfort og stil, og tilbyder et bredt udvalg fra underdele, overdele og overtøj i mange størrelser.</g:description>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/like-anna/019e1734-57ee-70c6-a24d-a2ff2e5b41ed</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/like-anna_8be968b3_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/like-anna_8be968b3_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/like-anna_8be968b3_9x16.jpg</g:additional_image_link>
-    <g:brand>Like ANNA</g:brand>
-    <g:product_type>Mode</g:product_type>
-    <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>6 %</g:custom_label_1>
-    <g:custom_label_2>Mode</g:custom_label_2>
-    <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>06</g:custom_label_4>
-  </item>
-  <item>
     <g:id>019e16fc-c90b-70af-b8f8-0cdcd00ea409</g:id>
     <g:title>Lounge by Zalando — 4 % cashback</g:title>
     <g:description>Her byder hver dag på noget nyt. Oplev et udvalg på mere end 2.500 førende mode- og livsstilsmærker hver dag, og spar op til 75 %.</g:description>
@@ -956,80 +1051,23 @@ Glæd dig selv, eller en, du holder af, med et gavekort til Zalando - Europas f�
     <g:custom_label_4>04</g:custom_label_4>
   </item>
   <item>
-    <g:id>019e1707-1f82-72f8-ab0c-5d0bb25a3140</g:id>
-    <g:title>Makeup Mekka — 4 % cashback</g:title>
-    <g:description>Makeup Mekka blev startet i 2009 med én tanke: Hvorfor skal god makeup være så dyrt? Siden da har vi udfordret branchen med trendy kvalitetsprodukter til fantastiske priser. I dag er vi et af Skandinaviens største beauty brands, og hos os…</g:description>
+    <g:id>01a0c843-ac3a-7173-bb04-9a023e44968b</g:id>
+    <g:title>Musclepain — 8 % cashback</g:title>
+    <g:description>Musclepain fokuserer på produkter til muskelpleje, restitution og velvære. Brandet kombinerer funktionalitet og brugervenlighed for at gøre det nemmere at pleje kroppen efter træning og i en aktiv hverdag.</g:description>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/makeup-mekka/019e1707-1f82-72f8-ab0c-5d0bb25a3140</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/makeup-mekka_a04f92a6_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/makeup-mekka_a04f92a6_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/makeup-mekka_a04f92a6_9x16.jpg</g:additional_image_link>
-    <g:brand>Makeup Mekka</g:brand>
+    <g:link>https://cashbackmedvisa.dk/eshop/butikker/musclepain/01a0c843-ac3a-7173-bb04-9a023e44968b</g:link>
+    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/musclepain_1155d602_1x1.jpg</g:image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/musclepain_1155d602_4x5.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/musclepain_1155d602_9x16.jpg</g:additional_image_link>
+    <g:brand>Musclepain</g:brand>
     <g:product_type>Skønhed &amp; pleje</g:product_type>
     <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>4 %</g:custom_label_1>
+    <g:custom_label_1>8 %</g:custom_label_1>
     <g:custom_label_2>Skønhed &amp; pleje</g:custom_label_2>
     <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>04</g:custom_label_4>
-  </item>
-  <item>
-    <g:id>01a0d28b-4859-7115-a345-cde2591d6f10</g:id>
-    <g:title>Maria Nila — 6 % cashback</g:title>
-    <g:description>Maria Nila er et svensk hårplejebrand med fokus på professionel kvalitet, innovation og veganske produkter. Brandet kombinerer skandinavisk design med effektive formuleringer og en stærk ambition om at skabe mere ansvarlige løsninger til…</g:description>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/maria-nila/01a0d28b-4859-7115-a345-cde2591d6f10</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/maria-nila_660ec711_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/maria-nila_660ec711_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/maria-nila_660ec711_9x16.jpg</g:additional_image_link>
-    <g:brand>Maria Nila</g:brand>
-    <g:product_type>Skønhed &amp; pleje</g:product_type>
-    <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>6 %</g:custom_label_1>
-    <g:custom_label_2>Skønhed &amp; pleje</g:custom_label_2>
-    <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>06</g:custom_label_4>
-  </item>
-  <item>
-    <g:id>01a15367-6fcc-7009-a96a-96fe84522629</g:id>
-    <g:title>Pieces — 6 % cashback</g:title>
-    <g:description>PIECES er et dansk modebrand, der kombinerer aktuelle trends med personlig stil og feminine detaljer. Brandet tilbyder moderne design til kvinder, der ønsker at udtrykke deres individualitet.</g:description>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/pieces/01a15367-6fcc-7009-a96a-96fe84522629</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/pieces_caa23863_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/pieces_caa23863_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/pieces_caa23863_9x16.jpg</g:additional_image_link>
-    <g:brand>Pieces</g:brand>
-    <g:product_type>Mode</g:product_type>
-    <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>6 %</g:custom_label_1>
-    <g:custom_label_2>Mode</g:custom_label_2>
-    <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>06</g:custom_label_4>
-  </item>
-  <item>
-    <g:id>01a18c74-7584-706c-8a8d-fd818137a201</g:id>
-    <g:title>Scandinavian Outdoor — 4 % cashback</g:title>
-    <g:description>Scandinavian Outdoor er en finsk outdoorbutik med passion for friluftsliv og natur. Sortimentet bygger på ekspertise og funktionalitet med fokus på kvalitetsprodukter til både hverdagens eventyr og krævende oplevelser.</g:description>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:price>0.00 DKK</g:price>
-    <g:link>https://cashbackmedvisa.dk/eshop/butikker/scandinavian-outdoor/01a18c74-7584-706c-8a8d-fd818137a201</g:link>
-    <g:image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/scandinavian-outdoor_e2ee8bfc_1x1.jpg</g:image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/scandinavian-outdoor_e2ee8bfc_4x5.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdn.jsdelivr.net/gh/anders-coder/cashback-meta-feed@main/images/scandinavian-outdoor_e2ee8bfc_9x16.jpg</g:additional_image_link>
-    <g:brand>Scandinavian Outdoor</g:brand>
-    <g:product_type>Mode</g:product_type>
-    <g:custom_label_0>catalog</g:custom_label_0>
-    <g:custom_label_1>4 %</g:custom_label_1>
-    <g:custom_label_2>Mode</g:custom_label_2>
-    <g:custom_label_3>online</g:custom_label_3>
-    <g:custom_label_4>04</g:custom_label_4>
+    <g:custom_label_4>08</g:custom_label_4>
   </item>
   <item>
     <g:id>01a1533a-b991-733e-bbf5-6e750a933a8a</g:id>
