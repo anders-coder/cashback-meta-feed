@@ -2,13 +2,13 @@
  "partners": [
   {
    "n": "Zalando Gavekort",
-   "cb": "15 %",
+   "cb": "8 %",
    "cat": "Mode",
    "tier": "highest",
    "imgs": {
-    "1x1": "zalando-gavekort_956ad93e_1x1.jpg",
-    "4x5": "zalando-gavekort_956ad93e_4x5.jpg",
-    "9x16": "zalando-gavekort_956ad93e_9x16.jpg"
+    "1x1": "zalando-gavekort_d94c82ed_1x1.jpg",
+    "4x5": "zalando-gavekort_d94c82ed_4x5.jpg",
+    "9x16": "zalando-gavekort_d94c82ed_9x16.jpg"
    }
   },
   {
@@ -89,17 +89,6 @@
    }
   },
   {
-   "n": "Soundliving",
-   "cb": "12 %",
-   "cat": "Elektronik",
-   "tier": "highest",
-   "imgs": {
-    "1x1": "soundliving_b483502c_1x1.jpg",
-    "4x5": "soundliving_b483502c_4x5.jpg",
-    "9x16": "soundliving_b483502c_9x16.jpg"
-   }
-  },
-  {
    "n": "Tinordic",
    "cb": "12 %",
    "cat": "Bolig & have",
@@ -141,6 +130,17 @@
     "1x1": "cartel-copenhagen_8c70829c_1x1.jpg",
     "4x5": "cartel-copenhagen_8c70829c_4x5.jpg",
     "9x16": "cartel-copenhagen_8c70829c_9x16.jpg"
+   }
+  },
+  {
+   "n": "Anodyne",
+   "cb": "10 %",
+   "cat": "Skønhed & pleje",
+   "tier": "highest",
+   "imgs": {
+    "1x1": "anodyne_b6f355db_1x1.jpg",
+    "4x5": "anodyne_b6f355db_4x5.jpg",
+    "9x16": "anodyne_b6f355db_9x16.jpg"
    }
   },
   {
@@ -232,17 +232,6 @@
    }
   },
   {
-   "n": "Selected",
-   "cb": "6 %",
-   "cat": "Mode",
-   "tier": "popular",
-   "imgs": {
-    "1x1": "selected_4aba265e_1x1.jpg",
-    "4x5": "selected_4aba265e_4x5.jpg",
-    "9x16": "selected_4aba265e_9x16.jpg"
-   }
-  },
-  {
    "n": "Apopro",
    "cb": "4 %",
    "cat": "Skønhed & pleje",
@@ -254,25 +243,36 @@
    }
   },
   {
-   "n": "Krifa",
-   "cb": "400 kr",
-   "cat": "Services",
+   "n": "Selected",
+   "cb": "6 %",
+   "cat": "Mode",
    "tier": "popular",
    "imgs": {
-    "1x1": "krifa_8be4cfaf_1x1.jpg",
-    "4x5": "krifa_8be4cfaf_4x5.jpg",
-    "9x16": "krifa_8be4cfaf_9x16.jpg"
+    "1x1": "selected_4aba265e_1x1.jpg",
+    "4x5": "selected_4aba265e_4x5.jpg",
+    "9x16": "selected_4aba265e_9x16.jpg"
    }
   },
   {
-   "n": "BookBeat",
-   "cb": "50 kr",
-   "cat": "Oplevelser & underholdning",
+   "n": "Pieces",
+   "cb": "6 %",
+   "cat": "Mode",
    "tier": "popular",
    "imgs": {
-    "1x1": "bookbeat_cc756878_1x1.jpg",
-    "4x5": "bookbeat_cc756878_4x5.jpg",
-    "9x16": "bookbeat_cc756878_9x16.jpg"
+    "1x1": "pieces_caa23863_1x1.jpg",
+    "4x5": "pieces_caa23863_4x5.jpg",
+    "9x16": "pieces_caa23863_9x16.jpg"
+   }
+  },
+  {
+   "n": "Lounge by Zalando",
+   "cb": "4 %",
+   "cat": "Mode",
+   "tier": "popular",
+   "imgs": {
+    "1x1": "zalando-lounge_8cdf2adc_1x1.jpg",
+    "4x5": "zalando-lounge_8cdf2adc_4x5.jpg",
+    "9x16": "zalando-lounge_8cdf2adc_9x16.jpg"
    }
   },
   {
@@ -336,9 +336,9 @@
    "cat": "Oplevelser & underholdning",
    "tier": "newest",
    "imgs": {
-    "1x1": "pokemon-portalen_0789def3_1x1.jpg",
-    "4x5": "pokemon-portalen_0789def3_4x5.jpg",
-    "9x16": "pokemon-portalen_0789def3_9x16.jpg"
+    "1x1": "pokemon-portalen_6a57a0bf_1x1.jpg",
+    "4x5": "pokemon-portalen_6a57a0bf_4x5.jpg",
+    "9x16": "pokemon-portalen_6a57a0bf_9x16.jpg"
    }
   },
   {
@@ -474,47 +474,47 @@
    }
   },
   {
-   "n": "Dansk.dk",
+   "n": "DAY ET",
+   "cb": "5 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "day-et_a97e52c7_1x1.jpg",
+    "4x5": "day-et_a97e52c7_4x5.jpg",
+    "9x16": "day-et_a97e52c7_9x16.jpg"
+   }
+  },
+  {
+   "n": "Gents",
    "cb": "6 %",
+   "cat": "Skønhed & pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "gents_1f151d19_1x1.jpg",
+    "4x5": "gents_1f151d19_4x5.jpg",
+    "9x16": "gents_1f151d19_9x16.jpg"
+   }
+  },
+  {
+   "n": "Holdit",
+   "cb": "3 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "danskdk_792645e0_1x1.jpg",
-    "4x5": "danskdk_792645e0_4x5.jpg",
-    "9x16": "danskdk_792645e0_9x16.jpg"
+    "1x1": "holdit_8c987c74_1x1.jpg",
+    "4x5": "holdit_8c987c74_4x5.jpg",
+    "9x16": "holdit_8c987c74_9x16.jpg"
    }
   },
   {
-   "n": "Flixbus",
-   "cb": "2 %",
-   "cat": "Rejser, hotel & transport",
+   "n": "Krifa",
+   "cb": "400 kr",
+   "cat": "Services",
    "tier": "catalog",
    "imgs": {
-    "1x1": "flixbus_a0fd2226_1x1.jpg",
-    "4x5": "flixbus_a0fd2226_4x5.jpg",
-    "9x16": "flixbus_a0fd2226_9x16.jpg"
-   }
-  },
-  {
-   "n": "Hulténs",
-   "cb": "4 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "hultens_de08a65b_1x1.jpg",
-    "4x5": "hultens_de08a65b_4x5.jpg",
-    "9x16": "hultens_de08a65b_9x16.jpg"
-   }
-  },
-  {
-   "n": "Hunkemöller",
-   "cb": "8 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "hunkemoller_0af78903_1x1.jpg",
-    "4x5": "hunkemoller_0af78903_4x5.jpg",
-    "9x16": "hunkemoller_0af78903_9x16.jpg"
+    "1x1": "krifa_8be4cfaf_1x1.jpg",
+    "4x5": "krifa_8be4cfaf_4x5.jpg",
+    "9x16": "krifa_8be4cfaf_9x16.jpg"
    }
   },
   {
@@ -529,14 +529,14 @@
    }
   },
   {
-   "n": "Lounge by Zalando",
+   "n": "Makeup Mekka",
    "cb": "4 %",
-   "cat": "Mode",
+   "cat": "Skønhed & pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "zalando-lounge_8cdf2adc_1x1.jpg",
-    "4x5": "zalando-lounge_8cdf2adc_4x5.jpg",
-    "9x16": "zalando-lounge_8cdf2adc_9x16.jpg"
+    "1x1": "makeup-mekka_a04f92a6_1x1.jpg",
+    "4x5": "makeup-mekka_a04f92a6_4x5.jpg",
+    "9x16": "makeup-mekka_a04f92a6_9x16.jpg"
    }
   },
   {
@@ -551,58 +551,14 @@
    }
   },
   {
-   "n": "MyProtein",
-   "cb": "5 %",
+   "n": "Probrush",
+   "cb": "8 %",
    "cat": "Skønhed & pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "myprotein_69b80caf_1x1.jpg",
-    "4x5": "myprotein_69b80caf_4x5.jpg",
-    "9x16": "myprotein_69b80caf_9x16.jpg"
-   }
-  },
-  {
-   "n": "Nordic Case",
-   "cb": "5 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "nordic-case_9fd7127e_1x1.jpg",
-    "4x5": "nordic-case_9fd7127e_4x5.jpg",
-    "9x16": "nordic-case_9fd7127e_9x16.jpg"
-   }
-  },
-  {
-   "n": "Pieces",
-   "cb": "6 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "pieces_caa23863_1x1.jpg",
-    "4x5": "pieces_caa23863_4x5.jpg",
-    "9x16": "pieces_caa23863_9x16.jpg"
-   }
-  },
-  {
-   "n": "Sisi Copenhagen",
-   "cb": "3 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "sisi-copenhagen_87f92ffa_1x1.jpg",
-    "4x5": "sisi-copenhagen_87f92ffa_4x5.jpg",
-    "9x16": "sisi-copenhagen_87f92ffa_9x16.jpg"
-   }
-  },
-  {
-   "n": "Special",
-   "cb": "5 %",
-   "cat": "Oplevelser & underholdning",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "special_92f0ab1e_1x1.jpg",
-    "4x5": "special_92f0ab1e_4x5.jpg",
-    "9x16": "special_92f0ab1e_9x16.jpg"
+    "1x1": "probrush_4f7d8c57_1x1.jpg",
+    "4x5": "probrush_4f7d8c57_4x5.jpg",
+    "9x16": "probrush_4f7d8c57_9x16.jpg"
    }
   },
   {
