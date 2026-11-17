@@ -155,17 +155,6 @@
    }
   },
   {
-   "n": "Løberen.dk",
-   "cb": "6 %",
-   "cat": "Sport & fitness",
-   "tier": "popular",
-   "imgs": {
-    "1x1": "loberen_6259e1cf_1x1.jpg",
-    "4x5": "loberen_6259e1cf_4x5.jpg",
-    "9x16": "loberen_6259e1cf_9x16.jpg"
-   }
-  },
-  {
    "n": "Matas",
    "cb": "5 %",
    "cat": "Skønhed & pleje",
@@ -243,25 +232,25 @@
    }
   },
   {
-   "n": "Selected",
+   "n": "Miinto",
    "cb": "6 %",
    "cat": "Mode",
    "tier": "popular",
    "imgs": {
-    "1x1": "selected_4aba265e_1x1.jpg",
-    "4x5": "selected_4aba265e_4x5.jpg",
-    "9x16": "selected_4aba265e_9x16.jpg"
+    "1x1": "miinto_c25b6e83_1x1.jpg",
+    "4x5": "miinto_c25b6e83_4x5.jpg",
+    "9x16": "miinto_c25b6e83_9x16.jpg"
    }
   },
   {
-   "n": "Pieces",
-   "cb": "6 %",
-   "cat": "Mode",
+   "n": "BabySam",
+   "cb": "5 %",
+   "cat": "Børn",
    "tier": "popular",
    "imgs": {
-    "1x1": "pieces_caa23863_1x1.jpg",
-    "4x5": "pieces_caa23863_4x5.jpg",
-    "9x16": "pieces_caa23863_9x16.jpg"
+    "1x1": "babysam_3beef881_1x1.jpg",
+    "4x5": "babysam_3beef881_4x5.jpg",
+    "9x16": "babysam_3beef881_9x16.jpg"
    }
   },
   {
@@ -273,6 +262,17 @@
     "1x1": "zalando-lounge_8cdf2adc_1x1.jpg",
     "4x5": "zalando-lounge_8cdf2adc_4x5.jpg",
     "9x16": "zalando-lounge_8cdf2adc_9x16.jpg"
+   }
+  },
+  {
+   "n": "Selected",
+   "cb": "6 %",
+   "cat": "Mode",
+   "tier": "popular",
+   "imgs": {
+    "1x1": "selected_4aba265e_1x1.jpg",
+    "4x5": "selected_4aba265e_4x5.jpg",
+    "9x16": "selected_4aba265e_9x16.jpg"
    }
   },
   {
@@ -452,14 +452,25 @@
    }
   },
   {
-   "n": "BabySam",
-   "cb": "5 %",
+   "n": "Ascendic",
+   "cb": "8 %",
+   "cat": "Sport & fitness",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "ascendic_ed6e8dfb_1x1.jpg",
+    "4x5": "ascendic_ed6e8dfb_4x5.jpg",
+    "9x16": "ascendic_ed6e8dfb_9x16.jpg"
+   }
+  },
+  {
+   "n": "Babyshop",
+   "cb": "4 %",
    "cat": "Børn",
    "tier": "catalog",
    "imgs": {
-    "1x1": "babysam_3beef881_1x1.jpg",
-    "4x5": "babysam_3beef881_4x5.jpg",
-    "9x16": "babysam_3beef881_9x16.jpg"
+    "1x1": "babyshop_1f85b423_1x1.jpg",
+    "4x5": "babyshop_1f85b423_4x5.jpg",
+    "9x16": "babyshop_1f85b423_9x16.jpg"
    }
   },
   {
@@ -471,39 +482,6 @@
     "1x1": "by-marlene-birger_e3e66c26_1x1.jpg",
     "4x5": "by-marlene-birger_e3e66c26_4x5.jpg",
     "9x16": "by-marlene-birger_e3e66c26_9x16.jpg"
-   }
-  },
-  {
-   "n": "DAY ET",
-   "cb": "5 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "day-et_a97e52c7_1x1.jpg",
-    "4x5": "day-et_a97e52c7_4x5.jpg",
-    "9x16": "day-et_a97e52c7_9x16.jpg"
-   }
-  },
-  {
-   "n": "Gents",
-   "cb": "6 %",
-   "cat": "Skønhed & pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "gents_1f151d19_1x1.jpg",
-    "4x5": "gents_1f151d19_4x5.jpg",
-    "9x16": "gents_1f151d19_9x16.jpg"
-   }
-  },
-  {
-   "n": "Holdit",
-   "cb": "3 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "holdit_8c987c74_1x1.jpg",
-    "4x5": "holdit_8c987c74_4x5.jpg",
-    "9x16": "holdit_8c987c74_9x16.jpg"
    }
   },
   {
@@ -529,47 +507,80 @@
    }
   },
   {
-   "n": "Makeup Mekka",
-   "cb": "4 %",
+   "n": "Maria Nila",
+   "cb": "6 %",
    "cat": "Skønhed & pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "makeup-mekka_a04f92a6_1x1.jpg",
-    "4x5": "makeup-mekka_a04f92a6_4x5.jpg",
-    "9x16": "makeup-mekka_a04f92a6_9x16.jpg"
+    "1x1": "maria-nila_660ec711_1x1.jpg",
+    "4x5": "maria-nila_660ec711_4x5.jpg",
+    "9x16": "maria-nila_660ec711_9x16.jpg"
    }
   },
   {
-   "n": "Miinto",
+   "n": "Nelly.com",
+   "cb": "2 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "nelly-com_5cb14c68_1x1.jpg",
+    "4x5": "nelly-com_5cb14c68_4x5.jpg",
+    "9x16": "nelly-com_5cb14c68_9x16.jpg"
+   }
+  },
+  {
+   "n": "Newport",
+   "cb": "5 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "newport_68bdf15b_1x1.jpg",
+    "4x5": "newport_68bdf15b_4x5.jpg",
+    "9x16": "newport_68bdf15b_9x16.jpg"
+   }
+  },
+  {
+   "n": "Oslo Skin Lab",
+   "cb": "150 kr",
+   "cat": "Skønhed & pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "oslo-skin-lab_c64bb6ac_1x1.jpg",
+    "4x5": "oslo-skin-lab_c64bb6ac_4x5.jpg",
+    "9x16": "oslo-skin-lab_c64bb6ac_9x16.jpg"
+   }
+  },
+  {
+   "n": "Pieces",
    "cb": "6 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "miinto_c25b6e83_1x1.jpg",
-    "4x5": "miinto_c25b6e83_4x5.jpg",
-    "9x16": "miinto_c25b6e83_9x16.jpg"
+    "1x1": "pieces_caa23863_1x1.jpg",
+    "4x5": "pieces_caa23863_4x5.jpg",
+    "9x16": "pieces_caa23863_9x16.jpg"
    }
   },
   {
-   "n": "Probrush",
-   "cb": "8 %",
-   "cat": "Skønhed & pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "probrush_4f7d8c57_1x1.jpg",
-    "4x5": "probrush_4f7d8c57_4x5.jpg",
-    "9x16": "probrush_4f7d8c57_9x16.jpg"
-   }
-  },
-  {
-   "n": "The Nap",
+   "n": "Rennoa",
    "cb": "8 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "the-nap_e578e9a0_1x1.jpg",
-    "4x5": "the-nap_e578e9a0_4x5.jpg",
-    "9x16": "the-nap_e578e9a0_9x16.jpg"
+    "1x1": "rennoa_74d851b8_1x1.jpg",
+    "4x5": "rennoa_74d851b8_4x5.jpg",
+    "9x16": "rennoa_74d851b8_9x16.jpg"
+   }
+  },
+  {
+   "n": "Tiger of Sweden",
+   "cb": "6 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "tiger-of-sweden_980f571a_1x1.jpg",
+    "4x5": "tiger-of-sweden_980f571a_4x5.jpg",
+    "9x16": "tiger-of-sweden_980f571a_9x16.jpg"
    }
   },
   {
