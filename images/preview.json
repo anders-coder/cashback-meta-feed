@@ -221,14 +221,14 @@
    }
   },
   {
-   "n": "BabySam",
-   "cb": "5 %",
-   "cat": "Børn",
+   "n": "Apopro",
+   "cb": "4 %",
+   "cat": "Skønhed & pleje",
    "tier": "popular",
    "imgs": {
-    "1x1": "babysam_3beef881_1x1.jpg",
-    "4x5": "babysam_3beef881_4x5.jpg",
-    "9x16": "babysam_3beef881_9x16.jpg"
+    "1x1": "apopro_d645d068_1x1.jpg",
+    "4x5": "apopro_d645d068_4x5.jpg",
+    "9x16": "apopro_d645d068_9x16.jpg"
    }
   },
   {
@@ -240,6 +240,17 @@
     "1x1": "zalando-lounge_8cdf2adc_1x1.jpg",
     "4x5": "zalando-lounge_8cdf2adc_4x5.jpg",
     "9x16": "zalando-lounge_8cdf2adc_9x16.jpg"
+   }
+  },
+  {
+   "n": "BabySam",
+   "cb": "5 %",
+   "cat": "Børn",
+   "tier": "popular",
+   "imgs": {
+    "1x1": "babysam_3beef881_1x1.jpg",
+    "4x5": "babysam_3beef881_4x5.jpg",
+    "9x16": "babysam_3beef881_9x16.jpg"
    }
   },
   {
@@ -265,25 +276,14 @@
    }
   },
   {
-   "n": "Pieces",
-   "cb": "6 %",
-   "cat": "Mode",
-   "tier": "popular",
-   "imgs": {
-    "1x1": "pieces_caa23863_1x1.jpg",
-    "4x5": "pieces_caa23863_4x5.jpg",
-    "9x16": "pieces_caa23863_9x16.jpg"
-   }
-  },
-  {
-   "n": "Husqvarna",
-   "cb": "3 %",
-   "cat": "Bolig & have",
+   "n": "Philips",
+   "cb": "2 %",
+   "cat": "Elektronik",
    "tier": "newest",
    "imgs": {
-    "1x1": "husqvarna_9a05234d_1x1.jpg",
-    "4x5": "husqvarna_9a05234d_4x5.jpg",
-    "9x16": "husqvarna_9a05234d_9x16.jpg"
+    "1x1": "philips_0d9f5448_1x1.jpg",
+    "4x5": "philips_0d9f5448_4x5.jpg",
+    "9x16": "philips_0d9f5448_9x16.jpg"
    }
   },
   {
@@ -298,14 +298,14 @@
    }
   },
   {
-   "n": "Bilbuster",
-   "cb": "6 %",
-   "cat": "Webshop",
+   "n": "VVSdeluxe",
+   "cb": "8 %",
+   "cat": "Bolig & have",
    "tier": "newest",
    "imgs": {
-    "1x1": "bilbuster_84858937_1x1.jpg",
-    "4x5": "bilbuster_84858937_4x5.jpg",
-    "9x16": "bilbuster_84858937_9x16.jpg"
+    "1x1": "vvsdeluxe_51cb34b2_1x1.jpg",
+    "4x5": "vvsdeluxe_51cb34b2_4x5.jpg",
+    "9x16": "vvsdeluxe_51cb34b2_9x16.jpg"
    }
   },
   {
@@ -320,14 +320,14 @@
    }
   },
   {
-   "n": "New Balance",
+   "n": "Husqvarna",
    "cb": "3 %",
-   "cat": "Mode",
+   "cat": "Bolig & have",
    "tier": "newest",
    "imgs": {
-    "1x1": "new-balance_06eba86b_1x1.jpg",
-    "4x5": "new-balance_06eba86b_4x5.jpg",
-    "9x16": "new-balance_06eba86b_9x16.jpg"
+    "1x1": "husqvarna_9a05234d_1x1.jpg",
+    "4x5": "husqvarna_9a05234d_4x5.jpg",
+    "9x16": "husqvarna_9a05234d_9x16.jpg"
    }
   },
   {
@@ -342,14 +342,14 @@
    }
   },
   {
-   "n": "Lié Studio",
-   "cb": "5 %",
-   "cat": "Mode",
+   "n": "Bilbuster",
+   "cb": "6 %",
+   "cat": "Webshop",
    "tier": "newest",
    "imgs": {
-    "1x1": "lie-studio_12e7c8ff_1x1.jpg",
-    "4x5": "lie-studio_12e7c8ff_4x5.jpg",
-    "9x16": "lie-studio_12e7c8ff_9x16.jpg"
+    "1x1": "bilbuster_84858937_1x1.jpg",
+    "4x5": "bilbuster_84858937_4x5.jpg",
+    "9x16": "bilbuster_84858937_9x16.jpg"
    }
   },
   {
@@ -364,14 +364,14 @@
    }
   },
   {
-   "n": "The North Face",
-   "cb": "2 %",
+   "n": "New Balance",
+   "cb": "3 %",
    "cat": "Mode",
    "tier": "newest",
    "imgs": {
-    "1x1": "the-north-face_6c15b8c7_1x1.jpg",
-    "4x5": "the-north-face_6c15b8c7_4x5.jpg",
-    "9x16": "the-north-face_6c15b8c7_9x16.jpg"
+    "1x1": "new-balance_06eba86b_1x1.jpg",
+    "4x5": "new-balance_06eba86b_4x5.jpg",
+    "9x16": "new-balance_06eba86b_9x16.jpg"
    }
   },
   {
@@ -386,14 +386,14 @@
    }
   },
   {
-   "n": "Pergolux",
-   "cb": "3 %",
-   "cat": "Bolig & have",
+   "n": "Lié Studio",
+   "cb": "5 %",
+   "cat": "Mode",
    "tier": "newest",
    "imgs": {
-    "1x1": "pergolux_0a0a4cdb_1x1.jpg",
-    "4x5": "pergolux_0a0a4cdb_4x5.jpg",
-    "9x16": "pergolux_0a0a4cdb_9x16.jpg"
+    "1x1": "lie-studio_12e7c8ff_1x1.jpg",
+    "4x5": "lie-studio_12e7c8ff_4x5.jpg",
+    "9x16": "lie-studio_12e7c8ff_9x16.jpg"
    }
   },
   {
@@ -408,14 +408,14 @@
    }
   },
   {
-   "n": "Dr. Adams",
-   "cb": "3 %",
-   "cat": "Bolig & have",
+   "n": "The North Face",
+   "cb": "2 %",
+   "cat": "Mode",
    "tier": "newest",
    "imgs": {
-    "1x1": "dr-adams_c54bc6cf_1x1.jpg",
-    "4x5": "dr-adams_c54bc6cf_4x5.jpg",
-    "9x16": "dr-adams_c54bc6cf_9x16.jpg"
+    "1x1": "the-north-face_6c15b8c7_1x1.jpg",
+    "4x5": "the-north-face_6c15b8c7_4x5.jpg",
+    "9x16": "the-north-face_6c15b8c7_9x16.jpg"
    }
   },
   {
@@ -430,14 +430,14 @@
    }
   },
   {
-   "n": "Wakakuu",
+   "n": "Pergolux",
    "cb": "3 %",
-   "cat": "Mode",
+   "cat": "Bolig & have",
    "tier": "newest",
    "imgs": {
-    "1x1": "wakakuu_0aff84ee_1x1.jpg",
-    "4x5": "wakakuu_0aff84ee_4x5.jpg",
-    "9x16": "wakakuu_0aff84ee_9x16.jpg"
+    "1x1": "pergolux_0a0a4cdb_1x1.jpg",
+    "4x5": "pergolux_0a0a4cdb_4x5.jpg",
+    "9x16": "pergolux_0a0a4cdb_9x16.jpg"
    }
   },
   {
@@ -452,69 +452,58 @@
    }
   },
   {
-   "n": "Apopro",
-   "cb": "4 %",
+   "n": "Alexander Lyngaard",
+   "cb": "8 %",
+   "cat": "Webshop",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "alexander-lyngaard_9c34e795_1x1.jpg",
+    "4x5": "alexander-lyngaard_9c34e795_4x5.jpg",
+    "9x16": "alexander-lyngaard_9c34e795_9x16.jpg"
+   }
+  },
+  {
+   "n": "Bodystore",
+   "cb": "3 %",
    "cat": "Skønhed & pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "apopro_d645d068_1x1.jpg",
-    "4x5": "apopro_d645d068_4x5.jpg",
-    "9x16": "apopro_d645d068_9x16.jpg"
+    "1x1": "bodystore-dk_fc601489_1x1.jpg",
+    "4x5": "bodystore-dk_fc601489_4x5.jpg",
+    "9x16": "bodystore-dk_fc601489_9x16.jpg"
    }
   },
   {
-   "n": "Björn Borg",
-   "cb": "6 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "bjorn-borg_5e3f4ee8_1x1.jpg",
-    "4x5": "bjorn-borg_5e3f4ee8_4x5.jpg",
-    "9x16": "bjorn-borg_5e3f4ee8_9x16.jpg"
-   }
-  },
-  {
-   "n": "By Malene Birger",
-   "cb": "6 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "by-marlene-birger_e3e66c26_1x1.jpg",
-    "4x5": "by-marlene-birger_e3e66c26_4x5.jpg",
-    "9x16": "by-marlene-birger_e3e66c26_9x16.jpg"
-   }
-  },
-  {
-   "n": "Falke",
-   "cb": "6 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "falke_fcdd0c37_1x1.jpg",
-    "4x5": "falke_fcdd0c37_4x5.jpg",
-    "9x16": "falke_fcdd0c37_9x16.jpg"
-   }
-  },
-  {
-   "n": "GetYourGuide",
-   "cb": "5 %",
-   "cat": "Rejser, hotel & transport",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "getyourguide_aa7d66b7_1x1.jpg",
-    "4x5": "getyourguide_aa7d66b7_4x5.jpg",
-    "9x16": "getyourguide_aa7d66b7_9x16.jpg"
-   }
-  },
-  {
-   "n": "Havemøbelland.dk",
-   "cb": "4 %",
+   "n": "Boligcenter",
+   "cb": "1 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "havemobellanddk_5580f5a0_1x1.jpg",
-    "4x5": "havemobellanddk_5580f5a0_4x5.jpg",
-    "9x16": "havemobellanddk_5580f5a0_9x16.jpg"
+    "1x1": "boligcenter_1342857b_1x1.jpg",
+    "4x5": "boligcenter_1342857b_4x5.jpg",
+    "9x16": "boligcenter_1342857b_9x16.jpg"
+   }
+  },
+  {
+   "n": "Dr. Adams",
+   "cb": "3 %",
+   "cat": "Bolig & have",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "dr-adams_c54bc6cf_1x1.jpg",
+    "4x5": "dr-adams_c54bc6cf_4x5.jpg",
+    "9x16": "dr-adams_c54bc6cf_9x16.jpg"
+   }
+  },
+  {
+   "n": "Holzweiler",
+   "cb": "4 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "holzweiler_4451cf04_1x1.jpg",
+    "4x5": "holzweiler_4451cf04_4x5.jpg",
+    "9x16": "holzweiler_4451cf04_9x16.jpg"
    }
   },
   {
@@ -540,80 +529,80 @@
    }
   },
   {
-   "n": "Oslo Skin Lab",
-   "cb": "150 kr",
+   "n": "Maria Nila",
+   "cb": "6 %",
    "cat": "Skønhed & pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "oslo-skin-lab_c64bb6ac_1x1.jpg",
-    "4x5": "oslo-skin-lab_c64bb6ac_4x5.jpg",
-    "9x16": "oslo-skin-lab_c64bb6ac_9x16.jpg"
+    "1x1": "maria-nila_660ec711_1x1.jpg",
+    "4x5": "maria-nila_660ec711_4x5.jpg",
+    "9x16": "maria-nila_660ec711_9x16.jpg"
    }
   },
   {
-   "n": "Polax",
+   "n": "Navnelapper",
    "cb": "7 %",
-   "cat": "Bolig & have",
+   "cat": "Børn",
    "tier": "catalog",
    "imgs": {
-    "1x1": "ploax_d26c37ee_1x1.jpg",
-    "4x5": "ploax_d26c37ee_4x5.jpg",
-    "9x16": "ploax_d26c37ee_9x16.jpg"
+    "1x1": "navnelapper_6af46899_1x1.jpg",
+    "4x5": "navnelapper_6af46899_4x5.jpg",
+    "9x16": "navnelapper_6af46899_9x16.jpg"
    }
   },
   {
-   "n": "Robell",
+   "n": "Pieces",
    "cb": "6 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "robell_09274fcf_1x1.jpg",
-    "4x5": "robell_09274fcf_4x5.jpg",
-    "9x16": "robell_09274fcf_9x16.jpg"
+    "1x1": "pieces_caa23863_1x1.jpg",
+    "4x5": "pieces_caa23863_4x5.jpg",
+    "9x16": "pieces_caa23863_9x16.jpg"
    }
   },
   {
-   "n": "Satana",
-   "cb": "8 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "satana_98525459_1x1.jpg",
-    "4x5": "satana_98525459_4x5.jpg",
-    "9x16": "satana_98525459_9x16.jpg"
-   }
-  },
-  {
-   "n": "Telmore mobilabonnement",
-   "cb": "200 kr",
-   "cat": "Services",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "telmore-mobilabonnement_7ab579a2_1x1.jpg",
-    "4x5": "telmore-mobilabonnement_7ab579a2_4x5.jpg",
-    "9x16": "telmore-mobilabonnement_7ab579a2_9x16.jpg"
-   }
-  },
-  {
-   "n": "Trendcarpet",
-   "cb": "5 %",
-   "cat": "Bolig & have",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "trendcarpet_fd9fe244_1x1.jpg",
-    "4x5": "trendcarpet_fd9fe244_4x5.jpg",
-    "9x16": "trendcarpet_fd9fe244_9x16.jpg"
-   }
-  },
-  {
-   "n": "Winefriends",
+   "n": "Sephora",
    "cb": "6 %",
-   "cat": "Dagligvarer",
+   "cat": "Skønhed & pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "winefriends_8d49e541_1x1.jpg",
-    "4x5": "winefriends_8d49e541_4x5.jpg",
-    "9x16": "winefriends_8d49e541_9x16.jpg"
+    "1x1": "sephora_946934a6_1x1.jpg",
+    "4x5": "sephora_946934a6_4x5.jpg",
+    "9x16": "sephora_946934a6_9x16.jpg"
+   }
+  },
+  {
+   "n": "Sistie",
+   "cb": "8 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "sistie_f9601e88_1x1.jpg",
+    "4x5": "sistie_f9601e88_4x5.jpg",
+    "9x16": "sistie_f9601e88_9x16.jpg"
+   }
+  },
+  {
+   "n": "Soundliving",
+   "cb": "7 %",
+   "cat": "Elektronik",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "soundliving_d7f95a10_1x1.jpg",
+    "4x5": "soundliving_d7f95a10_4x5.jpg",
+    "9x16": "soundliving_d7f95a10_9x16.jpg"
+   }
+  },
+  {
+   "n": "Wakakuu",
+   "cb": "3 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "wakakuu_0aff84ee_1x1.jpg",
+    "4x5": "wakakuu_0aff84ee_4x5.jpg",
+    "9x16": "wakakuu_0aff84ee_9x16.jpg"
    }
   }
  ],
