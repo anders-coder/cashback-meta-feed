@@ -221,36 +221,25 @@
    }
   },
   {
-   "n": "Selected",
-   "cb": "6 %",
-   "cat": "Mode",
-   "tier": "popular",
-   "imgs": {
-    "1x1": "selected_4aba265e_1x1.jpg",
-    "4x5": "selected_4aba265e_4x5.jpg",
-    "9x16": "selected_4aba265e_9x16.jpg"
-   }
-  },
-  {
-   "n": "Apopro",
+   "n": "Lounge by Zalando",
    "cb": "4 %",
-   "cat": "Skønhed & pleje",
-   "tier": "popular",
-   "imgs": {
-    "1x1": "apopro_d645d068_1x1.jpg",
-    "4x5": "apopro_d645d068_4x5.jpg",
-    "9x16": "apopro_d645d068_9x16.jpg"
-   }
-  },
-  {
-   "n": "Pieces",
-   "cb": "6 %",
    "cat": "Mode",
    "tier": "popular",
    "imgs": {
-    "1x1": "pieces_caa23863_1x1.jpg",
-    "4x5": "pieces_caa23863_4x5.jpg",
-    "9x16": "pieces_caa23863_9x16.jpg"
+    "1x1": "zalando-lounge_8cdf2adc_1x1.jpg",
+    "4x5": "zalando-lounge_8cdf2adc_4x5.jpg",
+    "9x16": "zalando-lounge_8cdf2adc_9x16.jpg"
+   }
+  },
+  {
+   "n": "BabySam",
+   "cb": "5 %",
+   "cat": "Børn",
+   "tier": "popular",
+   "imgs": {
+    "1x1": "babysam_3beef881_1x1.jpg",
+    "4x5": "babysam_3beef881_4x5.jpg",
+    "9x16": "babysam_3beef881_9x16.jpg"
    }
   },
   {
@@ -265,14 +254,25 @@
    }
   },
   {
-   "n": "BabySam",
-   "cb": "5 %",
-   "cat": "Børn",
+   "n": "Krifa",
+   "cb": "400 kr",
+   "cat": "Services",
    "tier": "popular",
    "imgs": {
-    "1x1": "babysam_3beef881_1x1.jpg",
-    "4x5": "babysam_3beef881_4x5.jpg",
-    "9x16": "babysam_3beef881_9x16.jpg"
+    "1x1": "krifa_8be4cfaf_1x1.jpg",
+    "4x5": "krifa_8be4cfaf_4x5.jpg",
+    "9x16": "krifa_8be4cfaf_9x16.jpg"
+   }
+  },
+  {
+   "n": "Pieces",
+   "cb": "6 %",
+   "cat": "Mode",
+   "tier": "popular",
+   "imgs": {
+    "1x1": "pieces_caa23863_1x1.jpg",
+    "4x5": "pieces_caa23863_4x5.jpg",
+    "9x16": "pieces_caa23863_9x16.jpg"
    }
   },
   {
@@ -419,58 +419,58 @@
    }
   },
   {
-   "n": "About you",
-   "cb": "2 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "about-you_ae11816f_1x1.jpg",
-    "4x5": "about-you_ae11816f_4x5.jpg",
-    "9x16": "about-you_ae11816f_9x16.jpg"
-   }
-  },
-  {
-   "n": "Beautycos",
-   "cb": "5 %",
+   "n": "Apopro",
+   "cb": "4 %",
    "cat": "Skønhed & pleje",
    "tier": "catalog",
    "imgs": {
-    "1x1": "beautycos_ef6c437b_1x1.jpg",
-    "4x5": "beautycos_ef6c437b_4x5.jpg",
-    "9x16": "beautycos_ef6c437b_9x16.jpg"
+    "1x1": "apopro_d645d068_1x1.jpg",
+    "4x5": "apopro_d645d068_4x5.jpg",
+    "9x16": "apopro_d645d068_9x16.jpg"
    }
   },
   {
-   "n": "Bubliq",
+   "n": "Blue Glass",
    "cb": "8 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "blue-glass_35dab11f_1x1.jpg",
+    "4x5": "blue-glass_35dab11f_4x5.jpg",
+    "9x16": "blue-glass_35dab11f_9x16.jpg"
+   }
+  },
+  {
+   "n": "Boligcenter",
+   "cb": "1 %",
    "cat": "Bolig & have",
    "tier": "catalog",
    "imgs": {
-    "1x1": "bubliq_5d824eeb_1x1.jpg",
-    "4x5": "bubliq_5d824eeb_4x5.jpg",
-    "9x16": "bubliq_5d824eeb_9x16.jpg"
+    "1x1": "boligcenter_1342857b_1x1.jpg",
+    "4x5": "boligcenter_1342857b_4x5.jpg",
+    "9x16": "boligcenter_1342857b_9x16.jpg"
    }
   },
   {
-   "n": "Dania Bikes",
-   "cb": "3 %",
-   "cat": "Sport & fitness",
+   "n": "Ellos",
+   "cb": "5 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "dania-bikes_f7c8be40_1x1.jpg",
-    "4x5": "dania-bikes_f7c8be40_4x5.jpg",
-    "9x16": "dania-bikes_f7c8be40_9x16.jpg"
+    "1x1": "ellos-3_d5d5a07d_1x1.jpg",
+    "4x5": "ellos-3_d5d5a07d_4x5.jpg",
+    "9x16": "ellos-3_d5d5a07d_9x16.jpg"
    }
   },
   {
-   "n": "Flybillet.dk",
-   "cb": "2 %",
-   "cat": "Rejser, hotel & transport",
+   "n": "Falke",
+   "cb": "6 %",
+   "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "flybilletdk_571645ea_1x1.jpg",
-    "4x5": "flybilletdk_571645ea_4x5.jpg",
-    "9x16": "flybilletdk_571645ea_9x16.jpg"
+    "1x1": "falke_fcdd0c37_1x1.jpg",
+    "4x5": "falke_fcdd0c37_4x5.jpg",
+    "9x16": "falke_fcdd0c37_9x16.jpg"
    }
   },
   {
@@ -485,25 +485,25 @@
    }
   },
   {
-   "n": "Krifa",
-   "cb": "400 kr",
-   "cat": "Services",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "krifa_8be4cfaf_1x1.jpg",
-    "4x5": "krifa_8be4cfaf_4x5.jpg",
-    "9x16": "krifa_8be4cfaf_9x16.jpg"
-   }
-  },
-  {
-   "n": "Lounge by Zalando",
+   "n": "Green Comfort",
    "cb": "4 %",
    "cat": "Mode",
    "tier": "catalog",
    "imgs": {
-    "1x1": "zalando-lounge_8cdf2adc_1x1.jpg",
-    "4x5": "zalando-lounge_8cdf2adc_4x5.jpg",
-    "9x16": "zalando-lounge_8cdf2adc_9x16.jpg"
+    "1x1": "green-comfort_8e1ddf99_1x1.jpg",
+    "4x5": "green-comfort_8e1ddf99_4x5.jpg",
+    "9x16": "green-comfort_8e1ddf99_9x16.jpg"
+   }
+  },
+  {
+   "n": "Lié Studio",
+   "cb": "5 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "lie-studio_12e7c8ff_1x1.jpg",
+    "4x5": "lie-studio_12e7c8ff_4x5.jpg",
+    "9x16": "lie-studio_12e7c8ff_9x16.jpg"
    }
   },
   {
@@ -518,28 +518,6 @@
    }
   },
   {
-   "n": "Lystfisk.dk",
-   "cb": "6 %",
-   "cat": "Sport & fitness",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "lystfiskdk_045c75ab_1x1.jpg",
-    "4x5": "lystfiskdk_045c75ab_4x5.jpg",
-    "9x16": "lystfiskdk_045c75ab_9x16.jpg"
-   }
-  },
-  {
-   "n": "Nordic Case",
-   "cb": "5 %",
-   "cat": "Rejser, hotel & transport",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "nordic-case_9fd7127e_1x1.jpg",
-    "4x5": "nordic-case_9fd7127e_4x5.jpg",
-    "9x16": "nordic-case_9fd7127e_9x16.jpg"
-   }
-  },
-  {
    "n": "Philips",
    "cb": "2 %",
    "cat": "Elektronik",
@@ -548,6 +526,28 @@
     "1x1": "philips_0d9f5448_1x1.jpg",
     "4x5": "philips_0d9f5448_4x5.jpg",
     "9x16": "philips_0d9f5448_9x16.jpg"
+   }
+  },
+  {
+   "n": "Scandinavian Outdoor",
+   "cb": "4 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "scandinavian-outdoor_e2ee8bfc_1x1.jpg",
+    "4x5": "scandinavian-outdoor_e2ee8bfc_4x5.jpg",
+    "9x16": "scandinavian-outdoor_e2ee8bfc_9x16.jpg"
+   }
+  },
+  {
+   "n": "Selected",
+   "cb": "6 %",
+   "cat": "Mode",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "selected_4aba265e_1x1.jpg",
+    "4x5": "selected_4aba265e_4x5.jpg",
+    "9x16": "selected_4aba265e_9x16.jpg"
    }
   },
   {
