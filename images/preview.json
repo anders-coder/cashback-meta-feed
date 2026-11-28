@@ -221,14 +221,36 @@
    }
   },
   {
-   "n": "BabySam",
-   "cb": "5 %",
-   "cat": "Børn",
+   "n": "Pieces",
+   "cb": "6 %",
+   "cat": "Mode",
    "tier": "popular",
    "imgs": {
-    "1x1": "babysam_3beef881_1x1.jpg",
-    "4x5": "babysam_3beef881_4x5.jpg",
-    "9x16": "babysam_3beef881_9x16.jpg"
+    "1x1": "pieces_caa23863_1x1.jpg",
+    "4x5": "pieces_caa23863_4x5.jpg",
+    "9x16": "pieces_caa23863_9x16.jpg"
+   }
+  },
+  {
+   "n": "OiSTER",
+   "cb": "200 kr",
+   "cat": "Services",
+   "tier": "popular",
+   "imgs": {
+    "1x1": "oister_1a51ba63_1x1.jpg",
+    "4x5": "oister_1a51ba63_4x5.jpg",
+    "9x16": "oister_1a51ba63_9x16.jpg"
+   }
+  },
+  {
+   "n": "Apopro",
+   "cb": "4 %",
+   "cat": "Skønhed & pleje",
+   "tier": "popular",
+   "imgs": {
+    "1x1": "apopro_d645d068_1x1.jpg",
+    "4x5": "apopro_d645d068_4x5.jpg",
+    "9x16": "apopro_d645d068_9x16.jpg"
    }
   },
   {
@@ -240,28 +262,6 @@
     "1x1": "the-nap_e578e9a0_1x1.jpg",
     "4x5": "the-nap_e578e9a0_4x5.jpg",
     "9x16": "the-nap_e578e9a0_9x16.jpg"
-   }
-  },
-  {
-   "n": "Sephora",
-   "cb": "6 %",
-   "cat": "Skønhed & pleje",
-   "tier": "popular",
-   "imgs": {
-    "1x1": "sephora_946934a6_1x1.jpg",
-    "4x5": "sephora_946934a6_4x5.jpg",
-    "9x16": "sephora_946934a6_9x16.jpg"
-   }
-  },
-  {
-   "n": "Krifa",
-   "cb": "400 kr",
-   "cat": "Services",
-   "tier": "popular",
-   "imgs": {
-    "1x1": "krifa_8be4cfaf_1x1.jpg",
-    "4x5": "krifa_8be4cfaf_4x5.jpg",
-    "9x16": "krifa_8be4cfaf_9x16.jpg"
    }
   },
   {
@@ -441,17 +441,6 @@
    }
   },
   {
-   "n": "Apopro",
-   "cb": "4 %",
-   "cat": "Skønhed & pleje",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "apopro_d645d068_1x1.jpg",
-    "4x5": "apopro_d645d068_4x5.jpg",
-    "9x16": "apopro_d645d068_9x16.jpg"
-   }
-  },
-  {
    "n": "Axkid",
    "cb": "3 %",
    "cat": "Børn",
@@ -460,6 +449,17 @@
     "1x1": "axkid_5b484585_1x1.jpg",
     "4x5": "axkid_5b484585_4x5.jpg",
     "9x16": "axkid_5b484585_9x16.jpg"
+   }
+  },
+  {
+   "n": "BabySam",
+   "cb": "5 %",
+   "cat": "Børn",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "babysam_3beef881_1x1.jpg",
+    "4x5": "babysam_3beef881_4x5.jpg",
+    "9x16": "babysam_3beef881_9x16.jpg"
    }
   },
   {
@@ -507,6 +507,17 @@
    }
   },
   {
+   "n": "Krifa",
+   "cb": "400 kr",
+   "cat": "Services",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "krifa_8be4cfaf_1x1.jpg",
+    "4x5": "krifa_8be4cfaf_4x5.jpg",
+    "9x16": "krifa_8be4cfaf_9x16.jpg"
+   }
+  },
+  {
    "n": "LEGO",
    "cb": "5 %",
    "cat": "Børn",
@@ -540,17 +551,6 @@
    }
   },
   {
-   "n": "OiSTER",
-   "cb": "200 kr",
-   "cat": "Services",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "oister_1a51ba63_1x1.jpg",
-    "4x5": "oister_1a51ba63_4x5.jpg",
-    "9x16": "oister_1a51ba63_9x16.jpg"
-   }
-  },
-  {
    "n": "Outnorth",
    "cb": "3 %",
    "cat": "Sport & fitness",
@@ -562,17 +562,6 @@
    }
   },
   {
-   "n": "Pieces",
-   "cb": "6 %",
-   "cat": "Mode",
-   "tier": "catalog",
-   "imgs": {
-    "1x1": "pieces_caa23863_1x1.jpg",
-    "4x5": "pieces_caa23863_4x5.jpg",
-    "9x16": "pieces_caa23863_9x16.jpg"
-   }
-  },
-  {
    "n": "Selected",
    "cb": "6 %",
    "cat": "Mode",
@@ -581,6 +570,17 @@
     "1x1": "selected_4aba265e_1x1.jpg",
     "4x5": "selected_4aba265e_4x5.jpg",
     "9x16": "selected_4aba265e_9x16.jpg"
+   }
+  },
+  {
+   "n": "Sephora",
+   "cb": "6 %",
+   "cat": "Skønhed & pleje",
+   "tier": "catalog",
+   "imgs": {
+    "1x1": "sephora_946934a6_1x1.jpg",
+    "4x5": "sephora_946934a6_4x5.jpg",
+    "9x16": "sephora_946934a6_9x16.jpg"
    }
   }
  ],
